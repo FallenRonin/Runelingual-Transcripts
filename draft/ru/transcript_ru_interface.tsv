@@ -3964,3 +3964,7 @@ A very high level Fire missile<br><colNum0>Members Only</col>		interface	mainTab
 For use on dragonstone jewellery<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
 For use on onyx jewellery<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
 For use on zenyte jewellery<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
+Name: <playerName>		interface	mainTabs	accountManagementTab
+Name: <asis><playerName></asis>		interface	mainTabs	accountManagementTab
+Name: <asis><!playerName></asis>		interface	mainTabs	accountManagementTab
+Name: <!playerName>		interface	mainTabs	accountManagementTab

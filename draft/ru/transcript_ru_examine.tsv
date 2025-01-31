@@ -8400,6 +8400,10 @@ Used on a Scrying Pool inside your Player Owned House to decorate it in the styl
 Used on a Spirit Tree inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Raging echoes spirit tree scroll
 Raging Echoes Spirit tree		examine	item	Raging echoes spirit tree
 Ahrim the Blighted's quarterstaff, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's staff
+Unlocks the ability to store potions within a seperate area of the bank.		examine	item	Potion storage
+Used on Ahrim's robes to decorate them in the style of Leagues V: Raging Echoes.		examine	item	Echo ahrim's ornament kit
+A fearsome yet stylish souvenir from Leagues V: Raging Echoes.		examine	item	Raging echoes nexus rug
+Tastefully decorated invitations to a once-in-a-lifetime adoption event!		examine	item	Invitations
 Looks after your farming tools.		examine	npc	Tool Leprechaun
 A strange mole-like being.		examine	npc	Molanisk
 A very smelly ghost.		examine	npc	Aberrant spectre

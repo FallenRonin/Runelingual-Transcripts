@@ -499,10 +499,8 @@ Add-5		inventoryActions	item
 Add-10		inventoryActions	item	
 Add-All		inventoryActions	item	
 Add-X		inventoryActions	item	
-Examine		inventoryActions	item	
-Remove		inventoryActions	item	
-Add		inventoryActions	item	
-Add-5		inventoryActions	item	
-Add-10		inventoryActions	item	
-Add-All		inventoryActions	item	
-Add-X		inventoryActions	item	
+Fishing Teleports		inventoryActions	item	Max cape
+Other Teleports		inventoryActions	item	Max cape
+Detatch		inventoryActions	item	Echo venator bow
+Detach		inventoryActions	item	Echo venator bow (uncharged)
+Read-address		inventoryActions	item	Invitations

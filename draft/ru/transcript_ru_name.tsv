@@ -10627,7 +10627,8 @@ Echo ahrim's staff 75		name	item	Echo ahrim's staff 75
 Echo ahrim's staff 50		name	item	Echo ahrim's staff 50
 Echo ahrim's staff 25		name	item	Echo ahrim's staff 25
 Echo ahrim's staff 0		name	item	Echo ahrim's staff 0
-level		name	level	
+Raging echoes nexus rug		name	item	Raging echoes nexus rug
+Invitations		name	item	Invitations
 level		name	level	
 Redemption		name	menu	prayerTab
 Protect Item		name	menu	prayerTab
@@ -10920,36 +10921,15 @@ Hiscores		name	menu	accountManagementTab
 Old School Wiki		name	menu	accountManagementTab
 Merchandise		name	menu	accountManagementTab
 <colNum0>PvP Arena</col> options		name	menu	groupTab
-XP drops		name	menu	
-Quick-prayers		name	menu	
-Special Attack		name	menu	
-Instance Map		name	menu	
-Ground Markers		name	menu	
-Wiki		name	menu	
-Attack		name	menu	
-Hitpoints		name	menu	
-Mining		name	menu	
-Strength		name	menu	
-Agility		name	menu	
-Smithing		name	menu	
-Defence		name	menu	
-Herblore		name	menu	
-Fishing		name	menu	
-Ranged		name	menu	
-Thieving		name	menu	
-Cooking		name	menu	
-Prayer		name	menu	
-Crafting		name	menu	
-Firemaking		name	menu	
-Magic		name	menu	
-Fletching		name	menu	
-Woodcutting		name	menu	
-Runecraft		name	menu	
-Slayer		name	menu	
-Farming		name	menu	
-Construction		name	menu	
-Hunter		name	menu	
-Search		name	menu	
+GrandﾂExchange		name	menu	accountManagementTab
+PaddewwaﾂTeleport		name	menu	spellBookTab
+SenntistenﾂTeleport		name	menu	spellBookTab
+ShadowﾂBurst		name	menu	spellBookTab
+KharyrllﾂTeleport		name	menu	spellBookTab
+DareeyakﾂTeleport		name	menu	spellBookTab
+ShadowﾂBlitz		name	menu	spellBookTab
+LassarﾂTeleport		name	menu	spellBookTab
+ShadowﾂBarrage		name	menu	spellBookTab
 Tool Leprechaun		name	npc	Tool Leprechaun
 Molanisk		name	npc	Molanisk
 Aberrant spectre		name	npc	Aberrant spectre
@@ -15289,6 +15269,12 @@ Sadie		name	npc	Sadie
 Sir Burrus		name	npc	Sir Burrus
 Archibald		name	npc	Archibald
 Kimba		name	npc	Kimba
+Shepherd Dog		name	npc	Shepherd Dog
+Corgi		name	npc	Corgi
+Yorkie		name	npc	Yorkie
+Unidentified dog		name	npc	Unidentified dog
+Unidentified festive dog		name	npc	Unidentified festive dog
+Unidentified festive object		name	npc	Unidentified festive object
 Crate		name	object	Crate
 Cave Entrance		name	object	Cave Entrance
 Door		name	object	Door
