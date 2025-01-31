@@ -3061,10 +3061,7 @@ Grand Exchange		interface	mainTabs	accountManagementTab
 Hiscores		interface	mainTabs	accountManagementTab
 Old School Wiki		interface	mainTabs	accountManagementTab
 Merchandise		interface	mainTabs	accountManagementTab
-Name: <!PLAYER_NAME0>		interface	mainTabs	accountManagementTab
-Unarmed		interface	mainTabs	combatOptionsTab
-Punch		interface	mainTabs	combatOptionsTab
-Kick		interface	mainTabs	combatOptionsTab
+Name: <playerName>		interface	mainTabs	accountManagementTab
 Combat Lvl: <Num0>		interface	mainTabs	combatOptionsTab
 Auto Retaliate (On)		interface	mainTabs	combatOptionsTab
 Auto Retaliate (Off)		interface	mainTabs	combatOptionsTab
@@ -3539,16 +3536,6 @@ Farming XP:		interface	mainTabs	skillsTab
 Total XP:		interface	mainTabs	skillsTab
 Next level at:		interface	mainTabs	skillsTab
 Remaining XP:		interface	mainTabs	skillsTab
-<colNum0>Construction:</col>		interface	mainTabs	skillsTab
-<colNum0>Members Only</col>		interface	mainTabs	skillsTab
-<colNum0>Hunter:</col>		interface	mainTabs	skillsTab
-Free Total Level:		interface	mainTabs	skillsTab
-<colNum0>Farming:</col>		interface	mainTabs	skillsTab
-<colNum0>Slayer:</col>		interface	mainTabs	skillsTab
-<colNum0>Fletching:</col>		interface	mainTabs	skillsTab
-<colNum0>Thieving:</col>		interface	mainTabs	skillsTab
-<colNum0>Herblore:</col>		interface	mainTabs	skillsTab
-<colNum0>Agility:</col>		interface	mainTabs	skillsTab
 Filters		interface	mainTabs	spellBookTab
 Lumbridge Home Teleport		interface	mainTabs	spellBookTab
 Requires no runes - recharge time <Num0> mins. Warning: This spell takes a long time to cast and will be interrupted by combat.		interface	mainTabs	spellBookTab
@@ -3961,10 +3948,23 @@ Teleports you near your Target<br><colNum0>Members Only</col>		interface	mainTab
 Teleports target to Camelot<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
 A very high level Earth missile<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
 A very high level Fire missile<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
+<colNum0>Construction:</col>		interface	mainTabs	skillsTab
+<colNum0>Members Only</col>		interface	mainTabs	skillsTab
+<colNum0>Hunter:</col>		interface	mainTabs	skillsTab
+Free Total Level:		interface	mainTabs	skillsTab
+<colNum0>Farming:</col>		interface	mainTabs	skillsTab
+<colNum0>Slayer:</col>		interface	mainTabs	skillsTab
+<colNum0>Fletching:</col>		interface	mainTabs	skillsTab
+<colNum0>Thieving:</col>		interface	mainTabs	skillsTab
+<colNum0>Herblore:</col>		interface	mainTabs	skillsTab
+<colNum0>Agility:</col>		interface	mainTabs	skillsTab
 For use on dragonstone jewellery<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
 For use on onyx jewellery<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
 For use on zenyte jewellery<br><colNum0>Members Only</col>		interface	mainTabs	spellBookTab
-Name: <playerName>		interface	mainTabs	accountManagementTab
+Unarmed		interface	mainTabs	combatOptionsTab
+Punch		interface	mainTabs	combatOptionsTab
+Kick		interface	mainTabs	combatOptionsTab
 Name: <asis><playerName></asis>		interface	mainTabs	accountManagementTab
 Name: <asis><!playerName></asis>		interface	mainTabs	accountManagementTab
 Name: <!playerName>		interface	mainTabs	accountManagementTab
+Name: <!PLAYER_NAME0>		interface	mainTabs	accountManagementTab

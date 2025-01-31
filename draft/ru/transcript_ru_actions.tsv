@@ -8,7 +8,7 @@ Eat-from	Есть из	actions	item	Smouldering pile of flesh
 Examine	Исследовать	actions	item	
 Take	Взять	actions	item	
 Light	Зажечь	actions	item	
-(Members)	(Члены)	actions	item	
+(Members)	(Подписчики)	actions	item	
 Walk here	Идти сюда	actions	manual	
 Cancel	Отменить	actions	manual	
 Accurate	Точный	actions	menu	combatOptionsTab
@@ -21,34 +21,28 @@ Stab	Колоть	actions	menu	combatOptionsTab
 Block	Блокировать	actions	menu	combatOptionsTab
 Pound	Бить	actions	menu	combatOptionsTab
 Pummel	Колотить	actions	menu	combatOptionsTab
-Spike		actions	menu	combatOptionsTab
+Spike	Колоть	actions	menu	combatOptionsTab
 Impale	Пронзать	actions	menu	combatOptionsTab
 Smash	Разбивать	actions	menu	combatOptionsTab
 Lunge	Выпад	actions	menu	combatOptionsTab
 Swipe	Ударить	actions	menu	combatOptionsTab
 Hack	Рубить	actions	menu	combatOptionsTab
-Reap		actions	menu	combatOptionsTab
+Reap	Пожинать	actions	menu	combatOptionsTab
 Rapid	Быстрый	actions	menu	combatOptionsTab
 Longrange	Дальний	actions	menu	combatOptionsTab
-Flick		actions	menu	combatOptionsTab
-Lash		actions	menu	combatOptionsTab
+Flick	Легкий удар	actions	menu	combatOptionsTab
+Lash	Хлестать	actions	menu	combatOptionsTab
 Deflect	Отражать	actions	menu	combatOptionsTab
-Fend		actions	menu	combatOptionsTab
+Fend	Парировать	actions	menu	combatOptionsTab
 Bash	Оглушать	actions	menu	combatOptionsTab
-Blaze		actions	menu	combatOptionsTab
-Scorch		actions	menu	combatOptionsTab
-Flare		actions	menu	combatOptionsTab
-Punch	Ударить	actions	menu	combatOptionsTab
-Kick	Пинать	actions	menu	combatOptionsTab
-Hide	Свернуть	actions	menu	prayerTab
-Activate	Активировать	actions	menu	prayerTab
-Unhide	Развернуть	actions	menu	prayerTab
-Deactivate	Деактивировать	actions	menu	prayerTab
-Animation		actions	menu	spellBookTab
+Blaze	Пылать	actions	menu	combatOptionsTab
+Scorch	Палить	actions	menu	combatOptionsTab
+Flare	Вспыхивать	actions	menu	combatOptionsTab
+Animation	Оживление	actions	menu	spellBookTab
 Hide	Свернуть	actions	menu	spellBookTab
 Cast	Произнести	actions	menu	spellBookTab
-Unhide	Показать	actions	menu	spellBookTab
-View		actions	menu	spellBookTab
+Unhide	Развернуть	actions	menu	spellBookTab
+View	Посмотреть	actions	menu	spellBookTab
 Warnings	Предупреждения	actions	menu	spellBookTab
 Configure	Настроить	actions	menu	spellBookTab
 Grand Exchange		actions	menu	spellBookTab
@@ -56,411 +50,417 @@ Seers'		actions	menu	spellBookTab
 Group: Previous	Группа: Предыдущие	actions	menu	spellBookTab
 Group: Choose	Группа: Выбрать	actions	menu	spellBookTab
 Outside	Снаружи	actions	menu	spellBookTab
-Yanille		actions	menu	spellBookTab
-Enable warning		actions	menu	spellBookTab
-Disable warning		actions	menu	spellBookTab
-Turael		actions	menu	spellBookTab
+Yanille	Янилл	actions	menu	spellBookTab
+Enable warning	Включить предупреждение	actions	menu	spellBookTab
+Disable warning	Отключить предупреждение	actions	menu	spellBookTab
+Turael	Тураэль	actions	menu	spellBookTab
 Target	Цель	actions	menu	spellBookTab
-Setup		actions	menu	spellBookTab
-Arceuus		actions	menu	spellBookTab
-Ancient		actions	menu	spellBookTab
-Standard		actions	menu	spellBookTab
+Setup	Установить	actions	menu	spellBookTab
+Arceuus	Аркеуус	actions	menu	spellBookTab
+Ancient	Древняя	actions	menu	spellBookTab
+Standard	Стандартная	actions	menu	spellBookTab
 Reanimate	Оживить	actions	menu	spellBookTab
 Resurrect	Воскресить	actions	menu	spellBookTab
 Adjust Music Volume	Изменить громкость музыки	actions	menu	settingsTab
-Adjust Area Sound Volume		actions	menu	settingsTab
+Adjust Area Sound Volume	Изменить громкость звуков локации	actions	menu	settingsTab
 Adjust Sound Effect Volume	Изменить громкость звуковых эффектов	actions	menu	settingsTab
-Toggle unlock message		actions	menu	settingsTab
+Toggle unlock message	Переключить блокировку сообщений	actions	menu	settingsTab
 Play	Играть	actions	menu	
 Open Activity Adviser	Открыть Советник Активностей	actions	menu	
-<colNum0>Set chat mode:</col> Group (/@g)		actions	menu	
-<colNum0>Set chat mode:</col> Guest Clan (/@gc)		actions	menu	
-<colNum0>Set chat mode:</col> Clan (/@c)		actions	menu	
-<colNum0>Set chat mode:</col> Channel (/@f)		actions	menu	
-<colNum0>Set chat mode:</col> Public (/@p)		actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)	<colNum0>Включить режим чата:</col> Группа (/@g)	actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>Включить режим чата:</col> Гостевой клан (/@gc)	actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)	<colNum0>Включить режим чата::</col> Клан (/@c)	actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)	<colNum0>Включить режим чата::</col> Канал (/@f)	actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)	<colNum0>Включить режим чата:e:</col> Публичный (/@p)	actions	menu	
 Clear history	Очистить историю	actions	menu	
 Switch tab	Переключить вкладку	actions	menu	
-Configure filter		actions	menu	
-<colNum0>Game:</col> Clear history		actions	menu	
-<colNum0>Game:</col> Filter		actions	menu	
-Setup your autochat		actions	menu	
-Filter public chat		actions	menu	
-<colNum0>Public:</col> Clear history		actions	menu	
-<colNum0>Public:</col> Hide		actions	menu	
-<colNum0>Public:</col> Show none		actions	menu	
-<colNum0>Public:</col> Show friends		actions	menu	
-<colNum0>Public:</col> Show standard		actions	menu	
-<colNum0>Public:</col> Show autochat		actions	menu	
-<colNum0>Private:</col> Clear history		actions	menu	
-<colNum0>Private:</col> Show none		actions	menu	
-<colNum0>Private:</col> Show friends		actions	menu	
-<colNum0>Private:</col> Show all		actions	menu	
-<colNum0>Channel:</col> Clear history		actions	menu	
-<colNum0>Channel:</col> Show none		actions	menu	
-<colNum0>Channel:</col> Show friends		actions	menu	
-<colNum0>Channel:</col> Show all		actions	menu	
-<colNum0>Clan:</col> Clear history		actions	menu	
-<colNum0>Clan:</col> Show none		actions	menu	
-<colNum0>Clan:</col> Show friends		actions	menu	
-<colNum0>Clan:</col> Show all		actions	menu	
-<colNum0>Group:</col> Clear history		actions	menu	
-<colNum0>Group:</col> Show none		actions	menu	
-<colNum0>Group:</col> Show friends		actions	menu	
-<colNum0>Group:</col> Show all		actions	menu	
+Configure filter	Настроить фильтр	actions	menu	
+<colNum0>Game:</col> Clear history	<colNum0>Игра:</col> Очистить историю	actions	menu	
+<colNum0>Game:</col> Filter	<colNum0>Игра:</col> Фильтр	actions	menu	
+Setup your autochat	Настроить свой авточат	actions	menu	
+Filter public chat	Фильтровать общий чат	actions	menu	
+<colNum0>Public:</col> Clear history	<colNum0>Публичный:</col> Очистить историю	actions	menu	
+<colNum0>Public:</col> Hide	<colNum0>Публичный:</col> Скрыть	actions	menu	
+<colNum0>Public:</col> Show none	<colNum0>Публичный:</col> Показывать ничего	actions	menu	
+<colNum0>Public:</col> Show friends	<colNum0>Публичный:</col> Показывать друзей	actions	menu	
+<colNum0>Public:</col> Show standard	<colNum0>Публичный:</col> Показывать стандартный	actions	menu	
+<colNum0>Public:</col> Show autochat	<colNum0>Публичный:</col> Показывать авточат	actions	menu	
+<colNum0>Private:</col> Clear history	<colNum0>Приватный:</col> Очистить историю	actions	menu	
+<colNum0>Private:</col> Show none	<colNum0>Приватный:</col> Показывать ничего	actions	menu	
+<colNum0>Private:</col> Show friends	<colNum0>Приватный:</col> Показывать друзей	actions	menu	
+<colNum0>Private:</col> Show all	<colNum0>Приватный:</col> Показывать всё	actions	menu	
+<colNum0>Channel:</col> Clear history	<colNum0>Канал:</col> Очистить историю	actions	menu	
+<colNum0>Channel:</col> Show none	<colNum0>Канал:</col> Показывать ничего	actions	menu	
+<colNum0>Channel:</col> Show friends	<colNum0>Канал:</col> Показывать друзей	actions	menu	
+<colNum0>Channel:</col> Show all	<colNum0>Клан:</col> Показывать всё	actions	menu	
+<colNum0>Clan:</col> Clear history	<colNum0>Клан:</col> Очистить историю	actions	menu	
+<colNum0>Clan:</col> Show none	<colNum0>Клан:</col> Показывать ничего	actions	menu	
+<colNum0>Clan:</col> Show friends	<colNum0>Клан:</col> Показывать друзей	actions	menu	
+<colNum0>Clan:</col> Show all	<colNum0>Клан:</col> Показывать всё	actions	menu	
+<colNum0>Group:</col> Clear history	<colNum0>Группа:</col> Очистить историю	actions	menu	
+<colNum0>Group:</col> Show none	<colNum0>Группа:</col> Показывать ничего	actions	menu	
+<colNum0>Group:</col> Show friends	<colNum0>Группа:</col> Показывать друзей	actions	menu	
+<colNum0>Group:</col> Show all	<colNum0>Группа:</col> Показывать всё	actions	menu	
 Report game bug	Сообщить об ошибке	actions	menu	
-Read journal:		actions	menu	questListTab
-Start Helper		actions	menu	achievementDiaryTab
-Wiki <colNum0>Ardougne Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Ardougne Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Desert Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Desert Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Falador Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Falador Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Fremennik Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Fremennik Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Kandarin Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Kandarin Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Karamja Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Karamja Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Kourend & Kebos Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Kourend & Kebos Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Morytania Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Morytania Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Varrock Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Varrock Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Western Provinces Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Western Provinces Journal</col>		actions	menu	achievementDiaryTab
-Wiki <colNum0>Wilderness Journal</col>		actions	menu	achievementDiaryTab
-Open <colNum0>Wilderness Journal</col>		actions	menu	achievementDiaryTab
-View equipment stats		actions	menu	wornEquipmentTab
-View guide prices		actions	menu	wornEquipmentTab
-View items kept on death		actions	menu	wornEquipmentTab
-Call follower		actions	menu	wornEquipmentTab
-Disable prayer reordering		actions	menu	
-Enable prayer filtering		actions	menu	
-Disable spell reordering		actions	menu	
-Enable spell filtering		actions	menu	
-Show notifications		actions	menu	
-Add Note		actions	menu	
-Delete		actions	menu	friendsTab
-Message		actions	menu	friendsTab
-View Ignore List		actions	menu	friendsTab
-Add Friend		actions	menu	friendsTab
-Delete Friend		actions	menu	friendsTab
-View Friends List		actions	menu	ignoreTab
-Delete		actions	menu	ignoreTab
-Add Name		actions	menu	ignoreTab
-Delete Name		actions	menu	ignoreTab
-Account		actions	menu	accountManagementTab
-Community		actions	menu	accountManagementTab
+Report abuse	Сообщить о злоупотреблениях	actions	menu	
+Combat Options	Варианты ведения боя	actions	menu	
+Skills	Навыки	actions	menu	
+Achievement Diaries	Дневники достижений	actions	menu	
+Inventory	Инвентарь	actions	menu	
+Worn Equipment	Снаряжение	actions	menu	
+Enable prayer reordering	Включить изменение порядка молитвы	actions	menu	
+Disable prayer filtering	Отключить фильтрацию молитв	actions	menu	
+Prayer	Молитва	actions	menu	
+Enable spell reordering	Включить изменение порядка заклинаний	actions	menu	
+Disable spell filtering	Отключить фильтрацию заклинаний	actions	menu	
+Magic	Магия	actions	menu	
+Friends List	Список друзей	actions	menu	
+Account Management	Управление аккаунтом	actions	menu	
+Ironman Group	"Группа ""Железный человек"""	actions	menu	
+Settings	Настройки	actions	menu	
+Emotes	Эмоции	actions	menu	
+Music Player	Музыкальный проигрыватель	actions	menu	
+Logout	Выход из системы	actions	menu	
+Look West	Посмотреть на Запад	actions	menu	
+Look South	Посмотреть на Юг	actions	menu	
+Look East	Посмотреть на Восток	actions	menu	
+Look North	Посмотреть на Север	actions	menu	
+Setup	Установить	actions	menu	
+Hide	Скрыть	actions	menu	
+Show	Показать	actions	menu	
+Activate	Активировать	actions	menu	
+Toggle Run	Переключить бег	actions	menu	
+Use	Использовать	actions	menu	
+Bond Pouch	Мешочек бондов	actions	menu	
+Open Store	Открыть магазин	actions	menu	
+Clear	Очистить	actions	menu	
+Import	Импорт	actions	menu	
+Export	Экспорт	actions	menu	
+Fullscreen <colNum0>World Map</col>	Полноэкранный режим <colNum0>Карта мира</col>	actions	menu	
+Floating <colNum0>World Map</col>	Плавающая <colNum0>Карта мира</col>	actions	menu	
+DPS	ДПС	actions	menu	
+Search	Поиск	actions	menu	
+Lookup	Просмотр	actions	menu	
+Auto retaliate	Автоматическое ответное действие	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	Используйте <colNum0>Специальную атаку</col>	actions	menu	combatOptionsTab
+Wiki	Вики	actions	menu	
+Add to canvas	Добавить на холст	actions	menu	
+View <colNum0>Attack</col> guide	Посмотреть гайд по <colNum0>Атаке</col>	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	Посмотреть гайд по <colNum0>Здоровью</col>	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	Посмотреть гайд по <colNum0>Шахтёрскому делу</col>	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	Посмотреть гайд по <colNum0>Силе</col>	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	Посмотреть гайд по <colNum0>Ловкости</col>	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	Посмотреть гайд по <colNum0>Кузнечному делу</col>	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	Посмотреть гайд по <colNum0>Защите</col>	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	Посмотреть гайд по <colNum0>Травничестве</col>	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	Посмотреть гайд по <colNum0>Рыбалке</col>	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	Посмотреть гайд по <colNum0>Дальнему бою</col>	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	Посмотреть гайд по <colNum0>Воровству</col>	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	Посмотреть гайд по <colNum0>Готовке</col>	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	Посмотреть гайд по <colNum0>Молитве</col>	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	Посмотреть гайд по <colNum0>Столярному делу</col>	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	Посмотреть гайд по <colNum0>Разведению огня</col>	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	Посмотреть гайд по <colNum0>Магии</col>	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	Посмотреть гайд по <colNum0>Оперению</col>	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	Посмотреть гайд по <colNum0>Лесорубстве</col>	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	Посмотреть гайд по <colNum0>Созданию рун</col>	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	Посмотреть гайд по <colNum0>Убийству</col>	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	Посмотреть гайд по <colNum0>Фермерству</col>	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	Посмотреть гайд по <colNum0>Строительству</col>	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	Посмотреть гайд по <colNum0>Охоте</col>	actions	menu	skillsTab
+Character Summary	Сводка по персонажу	actions	menu	characterSummaryTab
+Achievement Diaries	Дневники достижений	actions	menu	characterSummaryTab
+Quest List	Список заданий	actions	menu	characterSummaryTab
+Character Summary	Сводка по персонажу	actions	menu	achievementDiaryTab
+Achievement Diaries	Дневники достижений	actions	menu	achievementDiaryTab
+Quest List	Список заданий	actions	menu	achievementDiaryTab
+Character Summary	Сводка по персонажу	actions	menu	questListTab
+Achievement Diaries	Дневники достижений	actions	menu	questListTab
+Quest List	Список заданий	actions	menu	questListTab
+Character Summary	Сводка по персонажу	actions	menu	
+Quest List	Список заданий	actions	menu	
+Rewards	Награды	actions	menu	characterSummaryTab
+Tasks	Задачи	actions	menu	characterSummaryTab
+Bosses	Боссы	actions	menu	characterSummaryTab
+Overview	Общий обзор	actions	menu	characterSummaryTab
+Collection Log	Журнал коллекционирования	actions	menu	characterSummaryTab
+Reveal	Раскрыть	actions	menu	characterSummaryTab
+Hide	Скрыть	actions	menu	characterSummaryTab
+Open	Открыто	actions	menu	questListTab
+Close	Закрыть	actions	menu	questListTab
+Start Quest Helper	Включить помощника по квестам	actions	menu	questListTab
+Open wiki quick guide:	Открыть быстрое руководство на Wiki:	actions	menu	questListTab
+Open wiki guide:	Открытый вики-руководитель:	actions	menu	questListTab
+Show on map:	Показать на карте:	actions	menu	questListTab
+Read journal:	Прочитать журнал	actions	menu	questListTab
+Start Helper	Включить помощника	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>	Вики <colNum0>Ardougne Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	Открыть <colNum0>Ardougne Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>	Вики <colNum0>Desert Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	Открыть <colNum0>Desert Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>	Вики <colNum0>Falador Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	Открыть <colNum0>Falador Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>	Вики <colNum0>Fremennik Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	Открыть <colNum0>Fremennik Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>	Вики <colNum0>Kandarin Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	Открыть <colNum0>Kandarin Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>	Вики <colNum0>Karamja Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	Открыть <colNum0>Karamja Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>	Вики <colNum0>Kourend & Kebos Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	Открыть <colNum0>Kourend & Kebos Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	Вики <colNum0>Lumbridge & Draynor Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	Открыть <colNum0>Lumbridge & Draynor Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>	Вики <colNum0>Morytania Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	Открыть <colNum0>Morytania Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>	Вики <colNum0>Varrock Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	Открыть <colNum0>Varrock Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	Вики <colNum0>Western Provinces Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	Открыть <colNum0>Western Provinces Журнал</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	Вики <colNum0>Wilderness Журнал</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	Открыть <colNum0>Wilderness Журнал</col>	actions	menu	achievementDiaryTab
+View equipment stats	Просмотр статистики снаряжения	actions	menu	wornEquipmentTab
+View guide prices	Просмотр справочных цен	actions	menu	wornEquipmentTab
+View items kept on death	Просмотр предметов, сохраненных после смерти	actions	menu	wornEquipmentTab
+Call follower	Позвать спутника	actions	menu	wornEquipmentTab
+Disable prayer reordering	Отключить изменение порядка молитв	actions	menu	
+Enable prayer filtering	Включить фильтрацию молитв	actions	menu	
+Disable spell reordering	Отключить изменение порядка заклинаний	actions	menu	
+Enable spell filtering	Включить фильтрацию заклинаний	actions	menu	
+Show notifications	Показывать уведомления	actions	menu	
+Add Note	Добавить заметку	actions	menu	
+Delete	Удалить	actions	menu	friendsTab
+Message	Сообщение	actions	menu	friendsTab
+View Ignore List	Просмотр списка игнорируемых	actions	menu	friendsTab
+Add Friend	Добавить друга	actions	menu	friendsTab
+Delete Friend	Удалить друга	actions	menu	friendsTab
+View Friends List	Просмотр списка друзей	actions	menu	ignoreTab
+Delete	Удалить	actions	menu	ignoreTab
+Add Name	Добавить имя	actions	menu	ignoreTab
+Delete Name	Удалить имя	actions	menu	ignoreTab
+Account	Аккаунт	actions	menu	accountManagementTab
+Community	Сообщество	actions	menu	accountManagementTab
 Useful Links	Полезные ссылки	actions	menu	accountManagementTab
-Open Store		actions	menu	accountManagementTab
-Bond Pouch		actions	menu	accountManagementTab
+Open Store	Открыть магазин	actions	menu	accountManagementTab
+Bond Pouch	Мешочек для скрепления	actions	menu	accountManagementTab
 View Inbox	Посмотреть почту	actions	menu	accountManagementTab
 Name Changer	Смена имени	actions	menu	accountManagementTab
-View History		actions	menu	accountManagementTab
-View Newspost		actions	menu	accountManagementTab
-View Archive		actions	menu	accountManagementTab
-Open		actions	menu	accountManagementTab
-Settings		actions	menu	groupTab
+View History	Просмотр истории	actions	menu	accountManagementTab
+View Newspost	Просмотреть новостную публикацию	actions	menu	accountManagementTab
+View Archive	Просмотр архива	actions	menu	accountManagementTab
+Open	Открыть	actions	menu	accountManagementTab
+Settings	Настройки	actions	menu	groupTab
 Refresh	Обновить	actions	menu	groupTab
-Join		actions	menu	groupTab
-Setup		actions	menu	groupTab
-Find	Найти	actions	menu	groupTab
-Open	Открыть 	actions	menu	groupTab
-Teleport	Телепорт	actions	menu	groupTab
+Join	Присоединиться	actions	menu	groupTab
+Setup	Установить	actions	menu	groupTab
+Find	Найди	actions	menu	groupTab
+Open	Открыть	actions	menu	groupTab
+Teleport	Телепортироваться	actions	menu	groupTab
 Select	Выбрать	actions	menu	groupTab
-Toggle skull prevention		actions	menu	settingsTab
-Toggle Accept Aid		actions	menu	settingsTab
-Toggle Run	Переключить бег	actions	menu	settingsTab
-View House Options		actions	menu	settingsTab
-Open Bond Pouch		actions	menu	settingsTab
+Toggle skull prevention	Защита черепа от смещения	actions	menu	settingsTab
+Toggle Accept Aid	Переключить режим принятия помощи	actions	menu	settingsTab
+Toggle Run	Переключить режим бега	actions	menu	settingsTab
+View House Options	Просмотр настройки жилья	actions	menu	settingsTab
+Open Bond Pouch	Открыть мешочек для бондов	actions	menu	settingsTab
 All Settings	Все настройки	actions	menu	settingsTab
-Controls	Управление аккаунтом	actions	menu	settingsTab
-Display	Экран	actions	menu	settingsTab
-Audio	Звук	actions	menu	settingsTab
-Unmute		actions	menu	settingsTab
-Adjust Brightness		actions	menu	settingsTab
-Restore Default Zoom		actions	menu	settingsTab
-Disable		actions	menu	settingsTab
-Select		actions	menu	settingsTab
-Perform		actions	menu	emotesTab
-Area		actions	menu	musicTab
-Manual		actions	menu	musicTab
-Random		actions	menu	musicTab
-Unlock hint		actions	menu	musicTab
-Play		actions	menu	musicTab
-Thumbs Up		actions	menu	logoutTab
-Thumbs Down		actions	menu	logoutTab
-World Switcher		actions	menu	logoutTab
-Logout		actions	menu	logoutTab
-Favourite		actions	menu	worldSwitcherTab
-Switch		actions	menu	worldSwitcherTab
-Logout		actions	menu	worldSwitcherTab
-Clear		actions	menu	worldSwitcherTab
-Close		actions	menu	worldSwitcherTab
-Configure		actions	menu	worldSwitcherTab
-Grouping		actions	menu	groupTab
-Ironman Group		actions	menu	groupTab
-Chat-channel		actions	menu	groupTab
-Your Clan		actions	menu	groupTab
-View another clan		actions	menu	groupTab
-Message		actions	menu	groupTab
-Remove friend		actions	menu	groupTab
-Switch world		actions	menu	groupTab
-View Poll		actions	menu	accountManagementTab
-Unarmed		actions	menu	combatOptionsTab
-Report abuse		actions	menu	
-Combat Options		actions	menu	
-Skills		actions	menu	
-Achievement Diaries		actions	menu	
-Inventory		actions	menu	
-Worn Equipment		actions	menu	
-Enable prayer reordering		actions	menu	
-Disable prayer filtering		actions	menu	
-Prayer		actions	menu	
-Enable spell reordering		actions	menu	
-Disable spell filtering		actions	menu	
-Magic		actions	menu	
-Friends List		actions	menu	
-Account Management		actions	menu	
-Ironman Group		actions	menu	
-Settings		actions	menu	
-Emotes		actions	menu	
-Music Player		actions	menu	
-Logout		actions	menu	
-Look West		actions	menu	
-Look South		actions	menu	
-Look East		actions	menu	
-Look North		actions	menu	
-Setup		actions	menu	
-Hide		actions	menu	
-Show		actions	menu	
-Activate		actions	menu	
-Toggle Run		actions	menu	
-Use		actions	menu	
-Bond Pouch		actions	menu	
-Open Store		actions	menu	
-Clear		actions	menu	
-Import		actions	menu	
-Export		actions	menu	
-Fullscreen <colNum0>World Map</col>		actions	menu	
-Floating <colNum0>World Map</col>		actions	menu	
-DPS		actions	menu	
-Search		actions	menu	
-Lookup		actions	menu	
-Auto retaliate		actions	menu	combatOptionsTab
-Use <colNum0>Special Attack</col>		actions	menu	combatOptionsTab
-Wiki		actions	menu	
-Add to canvas		actions	menu	
-View <colNum0>Attack</col> guide		actions	menu	skillsTab
-View <colNum0>Hitpoints</col> guide		actions	menu	skillsTab
-View <colNum0>Mining</col> guide		actions	menu	skillsTab
-View <colNum0>Strength</col> guide		actions	menu	skillsTab
-View <colNum0>Agility</col> guide		actions	menu	skillsTab
-View <colNum0>Smithing</col> guide		actions	menu	skillsTab
-View <colNum0>Defence</col> guide		actions	menu	skillsTab
-View <colNum0>Herblore</col> guide		actions	menu	skillsTab
-View <colNum0>Fishing</col> guide		actions	menu	skillsTab
-View <colNum0>Ranged</col> guide		actions	menu	skillsTab
-View <colNum0>Thieving</col> guide		actions	menu	skillsTab
-View <colNum0>Cooking</col> guide		actions	menu	skillsTab
-View <colNum0>Prayer</col> guide		actions	menu	skillsTab
-View <colNum0>Crafting</col> guide		actions	menu	skillsTab
-View <colNum0>Firemaking</col> guide		actions	menu	skillsTab
-View <colNum0>Magic</col> guide		actions	menu	skillsTab
-View <colNum0>Fletching</col> guide		actions	menu	skillsTab
-View <colNum0>Woodcutting</col> guide		actions	menu	skillsTab
-View <colNum0>Runecraft</col> guide		actions	menu	skillsTab
-View <colNum0>Slayer</col> guide		actions	menu	skillsTab
-View <colNum0>Farming</col> guide		actions	menu	skillsTab
-View <colNum0>Construction</col> guide		actions	menu	skillsTab
-View <colNum0>Hunter</col> guide		actions	menu	skillsTab
-Character Summary		actions	menu	characterSummaryTab
-Achievement Diaries		actions	menu	characterSummaryTab
-Quest List		actions	menu	characterSummaryTab
-Character Summary		actions	menu	achievementDiaryTab
-Achievement Diaries		actions	menu	achievementDiaryTab
-Quest List		actions	menu	achievementDiaryTab
-Character Summary		actions	menu	questListTab
-Achievement Diaries		actions	menu	questListTab
-Quest List		actions	menu	questListTab
-Character Summary		actions	menu	
-Quest List		actions	menu	
-Rewards		actions	menu	characterSummaryTab
-Tasks		actions	menu	characterSummaryTab
-Bosses		actions	menu	characterSummaryTab
-Overview		actions	menu	characterSummaryTab
-Collection Log		actions	menu	characterSummaryTab
-Reveal		actions	menu	characterSummaryTab
-Hide		actions	menu	characterSummaryTab
-Open		actions	menu	questListTab
-Close		actions	menu	questListTab
-Start Quest Helper		actions	menu	questListTab
-Open wiki quick guide:		actions	menu	questListTab
-Open wiki guide:		actions	menu	questListTab
-Show on map:		actions	menu	questListTab
-Talk-to		actions	npc	Tool Leprechaun
-Exchange		actions	npc	Tool Leprechaun
-Attack		actions	npc	Molanisk
-Trade		actions	npc	Hudo
-Travel		actions	npc	Rug Merchant
-Pet		actions	npc	Dog
-Guess-letter		actions	npc	Hangman game
-Banish		actions	npc	Hangman game
-Reset		actions	npc	Hangman game
-Hit		actions	npc	Combat stone
-Dismiss		actions	npc	Dr Jekyll
-Rewards		actions	npc	Emblem Trader
-Skull		actions	npc	Emblem Trader
-Pay		actions	npc	Ayesha
-Armour		actions	npc	Ironman tutor
-Setup		actions	npc	Ironman tutor
-Check-pets		actions	npc	Leagues Tutor
-Collect-items		actions	npc	Leagues Tutor
-Claim-trophies		actions	npc	Leagues Tutor
-Pick-up		actions	npc	Dark core
-Metamorphosis		actions	npc	Dark core
-Pick		actions	npc	Strange plant
-Grab		actions	npc	Suspect
-Pop		actions	npc	Balloon Animal
-Kill		actions	npc	Pheasant
-Disturb		actions	npc	Phosani's Nightmare
-Gauntlets		actions	npc	Avan
-Lure		actions	npc	Rod Fishing spot
-Bait		actions	npc	Rod Fishing spot
-Pickpocket		actions	npc	Guard
-Assignment		actions	npc	Vannaka
-Search		actions	npc	Entomologist
-Confront		actions	npc	Mi-Gor
-Transport		actions	npc	Brother Tranquility
-Intimidate		actions	npc	Zombie swab
-Fish		actions	npc	Fishing spot
-Smash-ice		actions	npc	Ice block
-Shear		actions	npc	Sheep
-Knock-Out		actions	npc	Bandit
-Bank		actions	npc	Banker
-Collect		actions	npc	Banker
-Check-Approval		actions	npc	Arnor
-Tuxedo-time		actions	npc	Larry
-Mines		actions	npc	Dartog
-Cellar		actions	npc	Dartog
-Dream		actions	npc	Dominic Onion
-Take-boat		actions	npc	Monk of Entrana
-Inspect		actions	npc	Lumbridge Guide
-Trade-General-Store		actions	npc	Razmire Keelgan
-Trade-Builders-Store		actions	npc	Razmire Keelgan
-Haircut		actions	npc	Hairdresser
-Shave		actions	npc	Hairdresser
-Makeover		actions	npc	Makeover Mage
-Talk-To		actions	npc	Tarquin
-Quick-falcon		actions	npc	Matthias
-Retrieve		actions	npc	Gyr Falcon
-Give-Sword		actions	npc	Tindel Marchant
-Mine		actions	npc	Elemental rock
-Push		actions	npc	Trolley
-Pull		actions	npc	Trolley
-Big-push		actions	npc	Trolley
-Place		actions	npc	Trolley
-Claim-arrows		actions	npc	Rantz
-Inflate		actions	npc	Swamp toad
-Pluck		actions	npc	Chompy bird
-Shout-to		actions	npc	Nickolaus
-Quick-travel		actions	npc	Desert eagle
-Walk-past		actions	npc	Eagle
-Threaten		actions	npc	Kebbit
-Small Net		actions	npc	Fishing spot
-Net		actions	npc	Fishing spot
-Ammo		actions	npc	Leon
-Cage		actions	npc	Fishing spot
-Harpoon		actions	npc	Fishing spot
-Big Net		actions	npc	Fishing spot
-Use-rod		actions	npc	Fishing spot
-Escort		actions	npc	Smiddi Ryak (hard)
-Supply		actions	npc	Smiddi Ryak (hard)
-Claim-runes		actions	npc	Lundail
-Chase		actions	npc	Cat
-Interact		actions	npc	Cat
-Catch		actions	npc	Baby impling
-Get-rewards		actions	npc	Commander Connad
-Tutorial		actions	npc	Captain Cain
-Start-minigame		actions	npc	Guardian mummy
-Teleport		actions	npc	Apprentice
-Join-Crew		actions	npc	San Fan
-Join-Team		actions	npc	Honest Jimmy
-Pick-pocket		actions	npc	Fairy Godfather
-Craft-goods		actions	npc	Thakkrad Sigmundson
+Controls	Управления	actions	menu	settingsTab
+Display	Дисплей	actions	menu	settingsTab
+Audio	Аудио	actions	menu	settingsTab
+Unmute	Включить звук	actions	menu	settingsTab
+Adjust Brightness	Отрегулировать яркость	actions	menu	settingsTab
+Restore Default Zoom	Восстановить масштаб по умолчанию	actions	menu	settingsTab
+Disable	Отключать	actions	menu	settingsTab
+Select	Выбрать	actions	menu	settingsTab
+Perform	Выполнить	actions	menu	emotesTab
+Area	Область	actions	menu	musicTab
+Manual	Вручную	actions	menu	musicTab
+Random	Случайно	actions	menu	musicTab
+Unlock hint	Подсказка о разблокировке	actions	menu	musicTab
+Play	Играть	actions	menu	musicTab
+Thumbs Up	Палец вверх	actions	menu	logoutTab
+Thumbs Down	Палец вниз	actions	menu	logoutTab
+World Switcher	Смена мира	actions	menu	logoutTab
+Logout	Выход	actions	menu	logoutTab
+Favourite	Избранное	actions	menu	worldSwitcherTab
+Switch	Переключить	actions	menu	worldSwitcherTab
+Logout	Выход	actions	menu	worldSwitcherTab
+Clear	Очистить	actions	menu	worldSwitcherTab
+Close	Закрыть	actions	menu	worldSwitcherTab
+Configure	Настроить	actions	menu	worldSwitcherTab
+Grouping	Группировка	actions	menu	groupTab
+Ironman Group	Группа Ironman	actions	menu	groupTab
+Chat-channel	Чат-канал	actions	menu	groupTab
+Your Clan	Твой клан	actions	menu	groupTab
+View another clan	Просмотр другого клана	actions	menu	groupTab
+Message	Сообщение	actions	menu	groupTab
+Remove friend	Удалить друга	actions	menu	groupTab
+Switch world	Сменить мир	actions	menu	groupTab
+View Poll	Просмотреть опрос	actions	menu	accountManagementTab
+Hide	Скрыть	actions	menu	prayerTab
+Activate	Активировать	actions	menu	prayerTab
+Unhide	Раскрыть	actions	menu	prayerTab
+Deactivate	Деактивировать	actions	menu	prayerTab
+Punch	Ударить	actions	menu	combatOptionsTab
+Kick	Пинать	actions	menu	combatOptionsTab
+Unarmed	Безоружный	actions	menu	combatOptionsTab
+Talk-to	Поговорить с	actions	npc	Tool Leprechaun
+Exchange	Обмен с	actions	npc	Tool Leprechaun
+Attack	Атаковать	actions	npc	Molanisk
+Trade	Торговать	actions	npc	Hudo
+Travel	Путешествовать	actions	npc	Rug Merchant
+Pet	Погладить	actions	npc	Dog
+Guess-letter	Угадай-буква	actions	npc	Hangman game
+Banish	Изгонять	actions	npc	Hangman game
+Reset	Сброс	actions	npc	Hangman game
+Hit	Ударить	actions	npc	Combat stone
+Dismiss	Увольнять	actions	npc	Dr Jekyll
+Rewards	Награды	actions	npc	Emblem Trader
+Skull	Череп	actions	npc	Emblem Trader
+Pay	Оплатить	actions	npc	Ayesha
+Armour	Броня	actions	npc	Ironman tutor
+Setup	Установить	actions	npc	Ironman tutor
+Check-pets	Проверить питомцев	actions	npc	Leagues Tutor
+Collect-items	Собирать предметы	actions	npc	Leagues Tutor
+Claim-trophies	Забрать трофеи	actions	npc	Leagues Tutor
+Pick-up	Подобрать	actions	npc	Dark core
+Metamorphosis	Метаморфоза	actions	npc	Dark core
+Pick	Выдрать	actions	npc	Strange plant
+Grab	Схватить	actions	npc	Suspect
+Pop	Лопнуть	actions	npc	Balloon Animal
+Kill	Убивать	actions	npc	Pheasant
+Disturb	Беспокоить	actions	npc	Phosani's Nightmare
+Gauntlets	Перчатки	actions	npc	Avan
+Lure	Приманка	actions	npc	Rod Fishing spot
+Bait	Наживка	actions	npc	Rod Fishing spot
+Pickpocket	Обобрать	actions	npc	Guard
+Assignment	Назначение	actions	npc	Vannaka
+Search	Искать	actions	npc	Entomologist
+Confront	Противостоять	actions	npc	Mi-Gor
+Transport	Переместить	actions	npc	Brother Tranquility
+Intimidate	Запугивать	actions	npc	Zombie swab
+Fish	Рыбачить	actions	npc	Fishing spot
+Smash-ice	Разбить лёд	actions	npc	Ice block
+Shear	Стричь	actions	npc	Sheep
+Knock-Out	Нокаутировать	actions	npc	Bandit
+Bank	Банк	actions	npc	Banker
+Collect	Собирать	actions	npc	Banker
+Check-Approval	Проверка-Утверждение	actions	npc	Arnor
+Tuxedo-time	Время носить смокинг	actions	npc	Larry
+Mines	Шахты	actions	npc	Dartog
+Cellar	Подвал	actions	npc	Dartog
+Dream	Мечта	actions	npc	Dominic Onion
+Take-boat	Прокатиться на лодке	actions	npc	Monk of Entrana
+Inspect	Проверить	actions	npc	Lumbridge Guide
+Trade-General-Store	Торговать-Универсальный магазин	actions	npc	Razmire Keelgan
+Trade-Builders-Store	Торговать-Строительный-Магазин	actions	npc	Razmire Keelgan
+Haircut	Стричься	actions	npc	Hairdresser
+Shave	Бриться	actions	npc	Hairdresser
+Makeover	Преобразиться	actions	npc	Makeover Mage
+Talk-To	Поговорить с	actions	npc	Tarquin
+Quick-falcon	Быстрый сокол	actions	npc	Matthias
+Retrieve	Извлекать	actions	npc	Gyr Falcon
+Give-Sword	Отдай-Меч	actions	npc	Tindel Marchant
+Mine	Добывать	actions	npc	Elemental rock
+Push	Толкать	actions	npc	Trolley
+Pull	Тянуть	actions	npc	Trolley
+Big-push	Сильно толкнуть	actions	npc	Trolley
+Place	Поставить	actions	npc	Trolley
+Claim-arrows	Собрать-стрелы	actions	npc	Rantz
+Inflate	Надуть	actions	npc	Swamp toad
+Pluck	Ощипать	actions	npc	Chompy bird
+Shout-to	Крикнуть	actions	npc	Nickolaus
+Quick-travel	Быстрое перемещение	actions	npc	Desert eagle
+Walk-past	Пройти мимо	actions	npc	Eagle
+Threaten	Угрожать	actions	npc	Kebbit
+Small Net	Маленькая сетка	actions	npc	Fishing spot
+Net	Сеть	actions	npc	Fishing spot
+Ammo	Боеприпасы	actions	npc	Leon
+Cage	Клетка	actions	npc	Fishing spot
+Harpoon	Гарпун	actions	npc	Fishing spot
+Big Net	Большая сеть	actions	npc	Fishing spot
+Use-rod	Использовать удочку	actions	npc	Fishing spot
+Escort	Сопровождать	actions	npc	Smiddi Ryak (hard)
+Supply	Поставлять	actions	npc	Smiddi Ryak (hard)
+Claim-runes	Собрать-руны	actions	npc	Lundail
+Chase	Гнаться	actions	npc	Cat
+Interact	Взаимодействовать	actions	npc	Cat
+Catch	Поймать	actions	npc	Baby impling
+Get-rewards	Получить награды	actions	npc	Commander Connad
+Tutorial	Руководство	actions	npc	Captain Cain
+Start-minigame	Начать мини-игру	actions	npc	Guardian mummy
+Teleport	Телепортироваться	actions	npc	Apprentice
+Join-Crew	Присоединяйтесь к экипажу	actions	npc	San Fan
+Join-Team	Присоединяйтесь к команде	actions	npc	Honest Jimmy
+Pick-pocket	Обокрасть	actions	npc	Fairy Godfather
+Craft-goods	Создать товары	actions	npc	Thakkrad Sigmundson
 Rellekka		actions	npc	Maria Gunnars
 Neitiznot		actions	npc	Maria Gunnars
 Jatizso		actions	npc	Mord Gunnars
-Watch-shouting		actions	npc	Guard
-Kick		actions	npc	Bed
-Claim-Tokens		actions	npc	Lorelai
-History		actions	npc	Grand Exchange Clerk
-Sets		actions	npc	Grand Exchange Clerk
-Prices		actions	npc	Brugsen Bursen
-Exchange fire cape		actions	npc	TzHaar-Mej-Jal
-Destroy		actions	npc	Door-support
-Tickets		actions	npc	Cart conductor
-Listen-to		actions	npc	Red Axe Director
-Claim-Shield		actions	npc	Gamfred
-talk		actions	npc	Gate of War
-Get job (easy)		actions	npc	Gianne jnr.
-Get job (hard)		actions	npc	Gianne jnr.
-Repairs		actions	npc	Dark Mage
-Sober-Up		actions	npc	Skippy
-Walk here	Идти сюда	actions	npc	Purepker895
-Follow		actions	npc	Purepker895
-Pay (north-west)		actions	npc	Elstan
-Pay (south-east)		actions	npc	Elstan
-Pay (north)		actions	npc	Dantaera
-Pay (south)		actions	npc	Dantaera
-Detach		actions	npc	Combat dummy
-Upgrade		actions	npc	Combat dummy
-Remove		actions	npc	Combat dummy
-Shoo		actions	npc	Clockwork cat
-Fur Clothing		actions	npc	Asyff
-Shoo-away		actions	npc	Stray dog
-Tease		actions	npc	Sabre-toothed kyatt
-Leave		actions	npc	Squire
-Claim-slime		actions	npc	Robin
-Use		actions	npc	Portal
-Exit		actions	npc	Portal
-Relocate		actions	npc	Estate agent
-Redecorate		actions	npc	Estate agent
-Buy-plank		actions	npc	Sawmill operator
-Age		actions	npc	Hans
-Tackle		actions	npc	Gnome baller
-Pass-to		actions	npc	Gnome winger
-Claim		actions	npc	Ranged combat tutor
-Buy		actions	npc	Fadli
-Heal		actions	npc	A'abla
-Stroke		actions	npc	Gertrude's cat
-Climb-over		actions	npc	Pile of bones
-Melt		actions	npc	Crust of ice
-Clear		actions	npc	Furnace grate
-Take		actions	npc	Iron pickaxe
-Steal-from		actions	npc	Digsite workman
-Pay-fare		actions	npc	Captain Tobias
-Pay-Fare		actions	npc	Customs officer
-Go-inside		actions	npc	House
-Pirate's Cove		actions	npc	Lokar Searunner
-Deposit-items		actions	npc	Peer the Seer
-Miscellania		actions	npc	Sailor
-Prod		actions	npc	Red Sheep
-Return-Home		actions	npc	Bill Teach
-Devices		actions	npc	Ava
-Chop		actions	npc	Undead tree
-Roll		actions	npc	Boulder
-Watch		actions	npc	Mercenary Captain
-Buy-pass		actions	npc	Shantay
-Pass		actions	npc	Shantay Guard
-Fly		actions	npc	Auguste
-Decant		actions	npc	Zahur
-Clean		actions	npc	Zahur
-Make unfinished potion(s)		actions	npc	Zahur
+Watch-shouting	Наблюдать-кричать	actions	npc	Guard
+Kick	Пинать	actions	npc	Bed
+Claim-Tokens	Собрать-токены	actions	npc	Lorelai
+History	История	actions	npc	Grand Exchange Clerk
+Sets	Наборы	actions	npc	Grand Exchange Clerk
+Prices	Цены	actions	npc	Brugsen Bursen
+Exchange fire cape	Обменять огненный плащ	actions	npc	TzHaar-Mej-Jal
+Destroy	Уничтожить	actions	npc	Door-support
+Tickets	Билеты	actions	npc	Cart conductor
+Listen-to	Слушать	actions	npc	Red Axe Director
+Claim-Shield	Собрать-щит	actions	npc	Gamfred
+talk	говорить	actions	npc	Gate of War
+Get job (easy)	Взять работу (легко)	actions	npc	Gianne jnr.
+Get job (hard)	Взять работу (сложно)	actions	npc	Gianne jnr.
+Repairs	Ремонт	actions	npc	Dark Mage
+Sober-Up	Отрезвиться	actions	npc	Skippy
+Walk here	Иди сюда	actions	npc	Purepker895
+Follow	Следовать	actions	npc	Purepker895
+Pay (north-west)	Платить (северо-запад)	actions	npc	Elstan
+Pay (south-east)	Платить (юго-восток)	actions	npc	Elstan
+Pay (north)	Платить (север)	actions	npc	Dantaera
+Pay (south)	Платить (юг)	actions	npc	Dantaera
+Detach	Отсоединить	actions	npc	Combat dummy
+Upgrade	Улучшить	actions	npc	Combat dummy
+Remove	Убрать	actions	npc	Combat dummy
+Shoo	Кыш отсюда	actions	npc	Clockwork cat
+Fur Clothing	Меховая одежда	actions	npc	Asyff
+Shoo-away	Прогнать прочь	actions	npc	Stray dog
+Tease	Дразнить	actions	npc	Sabre-toothed kyatt
+Leave	Уйти	actions	npc	Squire
+Claim-slime	Собрать-слизь	actions	npc	Robin
+Use	Использовать	actions	npc	Portal
+Exit	Выйти	actions	npc	Portal
+Relocate	Переместить	actions	npc	Estate agent
+Redecorate	Переделать	actions	npc	Estate agent
+Buy-plank	Купить-планку	actions	npc	Sawmill operator
+Age	Возраст	actions	npc	Hans
+Tackle	Схватить	actions	npc	Gnome baller
+Pass-to	Передать	actions	npc	Gnome winger
+Claim	Претензия	actions	npc	Ranged combat tutor
+Buy	Купить	actions	npc	Fadli
+Heal	Лечить	actions	npc	A'abla
+Stroke	Инсульт	actions	npc	Gertrude's cat
+Climb-over	Перелезать	actions	npc	Pile of bones
+Melt	Плавиться	actions	npc	Crust of ice
+Clear	Очистить	actions	npc	Furnace grate
+Take	Бери	actions	npc	Iron pickaxe
+Steal-from	Украсть у	actions	npc	Digsite workman
+Pay-fare	Оплата проезда	actions	npc	Captain Tobias
+Pay-Fare	Оплата проезда	actions	npc	Customs officer
+Go-inside	Зайти внутрь	actions	npc	House
+Pirate's Cove	Пиратская бухта	actions	npc	Lokar Searunner
+Deposit-items	Положить-предметы	actions	npc	Peer the Seer
+Miscellania	Разное	actions	npc	Sailor
+Prod	Подгонять	actions	npc	Red Sheep
+Return-Home	Вернуться-Домой	actions	npc	Bill Teach
+Devices	Устройства	actions	npc	Ava
+Chop	Рубить	actions	npc	Undead tree
+Roll	Перекатить	actions	npc	Boulder
+Watch	Часы	actions	npc	Mercenary Captain
+Buy-pass	Купить-пропуск	actions	npc	Shantay
+Pass	Проходить	actions	npc	Shantay Guard
+Fly	Летать	actions	npc	Auguste
+Decant	Декантировать	actions	npc	Zahur
+Clean	Чистый	actions	npc	Zahur
+Make unfinished potion(s)	Приготовить незаконченное зелье(зелья)	actions	npc	Zahur
 Shoot		actions	npc	Target
 Shop		actions	npc	Ezekial Lovecraft
 Board		actions	npc	Ogre boat
@@ -775,7 +775,7 @@ Ascend		actions	object	Cave
 Picklock		actions	object	Gate
 Fire-at		actions	object	Guide rope
 Unlock		actions	object	Locked Ogre chest
-Study	Изучить	actions	object	Monument
+Study		actions	object	Monument
 Take-cutting		actions	object	Budding branch
 Walk-on		actions	object	Balancing rope
 Walk-across		actions	object	Balancing ledge
@@ -1101,6 +1101,9 @@ Join		actions	object	Challenge portal
 Hammer		actions	object	Broken strut
 Toggle K/D		actions	object	Wilderness Statistics
 Make-raft		actions	object	Old log
+Weiss		actions	object	Portal Nexus
+Teleport Menu		actions	object	Portal Nexus
+Configuration		actions	object	Portal Nexus
 Toggle XP		actions	object	Deadman chest
 Take-X		actions	object	Meat table
 Serve		actions	object	Buffet table
@@ -1324,9 +1327,17 @@ Watchtower		actions	object	Yanille Watchtower Portal
 Yanille		actions	object	Yanille Watchtower Portal
 Quick-Enter		actions	object	Formidable passage
 Iceberg		actions	object	Boat
-Weiss		actions	object	Boat
-Teleport Menu		actions	object	Portal Nexus
-Configuration		actions	object	Portal Nexus
+Lumbridge		actions	object	Portal Nexus
+Falador		actions	object	Portal Nexus
+Senntisten		actions	object	Portal Nexus
+Marim		actions	object	Portal Nexus
+Kharyrll		actions	object	Portal Nexus
+Lunar Isle		actions	object	Portal Nexus
+Great Kourend		actions	object	Portal Nexus
+Waterbirth Island		actions	object	Portal Nexus
+Fishing Guild		actions	object	Portal Nexus
+Annakarl		actions	object	Portal Nexus
+Troll Stronghold		actions	object	Portal Nexus
 Look out		actions	object	Xeric's Talisman
 Teleport menu		actions	object	Xeric's Talisman
 Glade		actions	object	Xeric's Talisman
@@ -1336,6 +1347,9 @@ Honour		actions	object	Xeric's Talisman
 Digsite		actions	object	Digsite Pendant
 Fossil Island		actions	object	Digsite Pendant
 Lithkren		actions	object	Digsite Pendant
+Catherby		actions	object	Portal Nexus
+Ghorrock		actions	object	Portal Nexus
+Carrallanger		actions	object	Portal Nexus
 Ancients		actions	object	Supplies
 Start		actions	object	Steam Generator
 Align		actions	object	Power Grid
@@ -1367,7 +1381,6 @@ Warriors' Guild		actions	object	Fancy Jewellery Box
 Champions' Guild		actions	object	Fancy Jewellery Box
 Monastery		actions	object	Fancy Jewellery Box
 Ranging Guild		actions	object	Fancy Jewellery Box
-Fishing Guild		actions	object	Fancy Jewellery Box
 Mining Guild		actions	object	Fancy Jewellery Box
 Crafting Guild		actions	object	Fancy Jewellery Box
 Cooking Guild		actions	object	Fancy Jewellery Box
@@ -1376,6 +1389,16 @@ Farming Guild		actions	object	Fancy Jewellery Box
 Miscellania		actions	object	Ornate Jewellery Box
 Falador Park		actions	object	Ornate Jewellery Box
 Dondakan's Rock		actions	object	Ornate Jewellery Box
+Draynor Manor		actions	object	Portal Nexus
+Battlefront		actions	object	Portal Nexus
+Mind Altar		actions	object	Portal Nexus
+Salve Graveyard		actions	object	Portal Nexus
+Fenkenstrain's Castle		actions	object	Portal Nexus
+West Ardougne		actions	object	Portal Nexus
+Harmony Island		actions	object	Portal Nexus
+Cemetery		actions	object	Portal Nexus
+Barrows		actions	object	Portal Nexus
+Ape Atoll Dungeon		actions	object	Portal Nexus
 Destroy		actions	object	Lab table
 Stamp-out		actions	object	Magical Fire
 Continue		actions	object	Path
@@ -1420,6 +1443,7 @@ Cook-at		actions	object	Shrine
 Big-search		actions	object	Reward pool
 Quick-climb		actions	object	Rope ladder
 Solo-start		actions	object	Rope ladder
+Arceuus Library		actions	object	Portal Nexus
 Prepare-fish		actions	object	Preparation Table
 Offer-fish		actions	object	Altar
 Entertain		actions	object	Piano
@@ -1484,6 +1508,7 @@ Travel-Start		actions	object	Portal
 Reload		actions	object	Steps
 Collect-reward		actions	object	Table
 Look-over		actions	object	Balcony
+Civitas illa Fortis		actions	object	Portal Nexus
 Fortis Colosseum		actions	object	Basic Jewellery Box
 View-stats		actions	object	Colosseum scoreboard
 View-glory		actions	object	Colosseum scoreboard
@@ -1519,125 +1544,8 @@ Plant		actions	object	Pumpkin patch
 Carve-pumpkin		actions	object	Pumpkin carving table
 Walk-to		actions	object	Blue tile
 Channel (Varlamore)		actions	object	Waystone
-Weiss		actions	object	Portal Nexus
-Lumbridge		actions	object	Portal Nexus
-Falador		actions	object	Portal Nexus
-Senntisten		actions	object	Portal Nexus
-Marim		actions	object	Portal Nexus
-Kharyrll		actions	object	Portal Nexus
-Lunar Isle		actions	object	Portal Nexus
-Great Kourend		actions	object	Portal Nexus
-Waterbirth Island		actions	object	Portal Nexus
-Fishing Guild		actions	object	Portal Nexus
-Annakarl		actions	object	Portal Nexus
-Troll Stronghold		actions	object	Portal Nexus
-Catherby		actions	object	Portal Nexus
-Ghorrock		actions	object	Portal Nexus
-Carrallanger		actions	object	Portal Nexus
-Draynor Manor		actions	object	Portal Nexus
-Battlefront		actions	object	Portal Nexus
-Mind Altar		actions	object	Portal Nexus
-Salve Graveyard		actions	object	Portal Nexus
-Fenkenstrain's Castle		actions	object	Portal Nexus
-West Ardougne		actions	object	Portal Nexus
-Harmony Island		actions	object	Portal Nexus
-Cemetery		actions	object	Portal Nexus
-Barrows		actions	object	Portal Nexus
-Ape Atoll Dungeon		actions	object	Portal Nexus
-Arceuus Library		actions	object	Portal Nexus
-Civitas illa Fortis		actions	object	Portal Nexus
 Follow		actions	player	
 Trade with		actions	player	
 Lookup		actions	player	
 Equipment		actions	player	
 Report		actions	player	
-Report abuse	Сообщения о злоупотреблениях		menu	
-Combat Options	Боевые параметры		menu	
-Skills	Навыки		menu	
-Achievement Diaries	Дневники достижений		menu	
-Inventory	Инвентарь		menu	
-Worn Equipment	Снаряжение		menu	
-Enable prayer reordering	Поменять порядок молитвы		menu	
-Disable prayer filtering	Отключить фильтрование молитвы		menu	
-Prayer	Молитва		menu	
-Enable spell reordering	Включить фильтр ругательств		menu	
-Disable spell filtering	Отключить фильтр ругательств		menu	
-Magic	Магия		menu	
-Friends List	Список друзей		menu	
-Account Management	Управление аккаунтом		menu	
-Ironman Group	Ironman Group		menu	
-Settings	Параметры		menu	
-Emotes	Эмоции		menu	
-Music Player	Музыкальный проигрыватель		menu	
-Logout	Выход		menu	
-Look West	Посмотри на Запад		menu	
-Look South	Посмотри на юг		menu	
-Look East	Посмотри на восток		menu	
-Look North	Посмотри на север		menu	
-Setup	Приготовление		menu	
-Hide	Скрыть		menu	
-Show	Показать		menu	
-Activate	Активировать		menu	
-Toggle Run	Запустить панель инструментов@ info: whatsthis		menu	
-Use	Использование		menu	
-Bond Pouch	Подложка		menu	
-Open Store	Открыть магазин		menu	
-Clear	Очистить		menu	
-Import	Импорт		menu	
-Export	Экспорт		menu	
-Fullscreen <colNum0>World Map</col>	Полноэкранный <colNum0> Всемирная карта>/col>		menu	
-Floating <colNum0>World Map</col>	Плавание <colNum0> Всемирная карта>/col>		menu	
-DPS	Урон в секунду		menu	
-Search	Поиск		menu	
-Lookup	Поиск		menu	
-Auto retaliate	Автоматическая месть		menu	combatOptionsTab
-Use <colNum0>Special Attack</col>	Использовать <colNum0> Специальная атака>/col>		menu	combatOptionsTab
-Wiki	Вики		menu	
-Add to canvas	Добавить в холст		menu	
-View <colNum0>Attack</col> guide	Вид <colNum0> Вставить </col> руководство		menu	skillsTab
-View <colNum0>Hitpoints</col> guide	Вид <colNum0> Руководство по точкам </col>		menu	skillsTab
-View <colNum0>Mining</col> guide	Вид <colNum0> Mining</col> Руководство		menu	skillsTab
-View <colNum0>Strength</col> guide	Вид <colNum0> Прочность </col>		menu	skillsTab
-View <colNum0>Agility</col> guide	Вид <colNum0> Удобство </col>		menu	skillsTab
-View <colNum0>Smithing</col> guide	Вид <colNum0> Смитинг >/col>		menu	skillsTab
-View <colNum0>Defence</col> guide	Вид <colNum0> Руководство по защите </col>		menu	skillsTab
-View <colNum0>Herblore</col> guide	Вид <colNum0> Herblore >/col>		menu	skillsTab
-View <colNum0>Fishing</col> guide	Вид <colNum0> Fishing >/col> Руководство		menu	skillsTab
-View <colNum0>Ranged</col> guide	Вид <colNum0> Расстояние </col>		menu	skillsTab
-View <colNum0>Thieving</col> guide	Вид <colNum0> Установка </col>		menu	skillsTab
-View <colNum0>Cooking</col> guide	Вид <colNum0> Кулинарное пособие >/col>		menu	skillsTab
-View <colNum0>Prayer</col> guide	Вид <colNum0>Rayer >/col> Руководство		menu	skillsTab
-View <colNum0>Crafting</col> guide	Вид <colNum0> Пересадка </col>		menu	skillsTab
-View <colNum0>Firemaking</col> guide	Вид <colNum0>Пожарное руководство >/col>		menu	skillsTab
-View <colNum0>Magic</col> guide	Вид <colNum0> Magic</col>		menu	skillsTab
-View <colNum0>Fletching</col> guide	Вид <colNum0>		menu	skillsTab
-View <colNum0>Woodcutting</col> guide	Вид <colNum0> Вудсорбция >/col> Руководство		menu	skillsTab
-View <colNum0>Runecraft</col> guide	Вид <colNum0>Runeceraft>/col> Руководство		menu	skillsTab
-View <colNum0>Slayer</col> guide	Вид <colNum0>Slayer>/col> Руководство		menu	skillsTab
-View <colNum0>Farming</col> guide	Вид <colNum0>Farming >/col> Руководство		menu	skillsTab
-View <colNum0>Construction</col> guide	Вид <colNum0> Сооружение </col>		menu	skillsTab
-View <colNum0>Hunter</col> guide	Вид <colNum0> Hunter</col> Руководство		menu	skillsTab
-Character Summary	Краткое описание		menu	characterSummaryTab
-Achievement Diaries	Дневники достижений		menu	characterSummaryTab
-Quest List	Список поиска		menu	characterSummaryTab
-Character Summary	Краткое описание		menu	achievementDiaryTab
-Achievement Diaries	Дневники достижений		menu	achievementDiaryTab
-Quest List	Список поиска		menu	achievementDiaryTab
-Character Summary	Краткое описание		menu	questListTab
-Achievement Diaries	Дневники достижений		menu	questListTab
-Quest List	Список поиска		menu	questListTab
-Character Summary	Краткое описание		menu	
-Quest List	Список поиска		menu	
-Rewards	Вознаграждение		menu	characterSummaryTab
-Tasks	Задачи		menu	characterSummaryTab
-Bosses	Боссы		menu	characterSummaryTab
-Overview	Общий обзор		menu	characterSummaryTab
-Collection Log	Журнал сбора данных		menu	characterSummaryTab
-Reveal	Откровение		menu	characterSummaryTab
-Hide	Скрыть		menu	characterSummaryTab
-Open	Открыто		menu	questListTab
-Close	Закрыть		menu	questListTab
-Start Quest Helper	Начать поиск помощи		menu	questListTab
-Open wiki quick guide:	Быстрое руководство Open Wiki:		menu	questListTab
-Open wiki guide:	Открытый вики-руководитель:		menu	questListTab
-Show on map:	Показать на карте:		menu	questListTab

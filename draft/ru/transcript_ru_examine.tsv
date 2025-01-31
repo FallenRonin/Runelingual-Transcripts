@@ -8243,7 +8243,7 @@ Breezy.		examine	item	Alchemist pants
 No science is done without proper gloves.		examine	item	Alchemist gloves
 A special alchemical ingredient used for creating potions.		examine	item	Aldarium
 A pouch for storing herblore potion ingredients.		examine	item	Reagent pouch
-Unlocks the ability to store potions within a separate area of the bank.		examine	item	Potion storage
+Unlocks the ability to store potions within a seperate area of the bank.		examine	item	Potion storage
 Used to store and drink multiple potions.		examine	item	Chugging barrel
 Can be assembled to consume multiple potions.		examine	item	Chugging barrel (disassembled)
 A sticky, blue, sweet-smelling substance.		examine	item	Mox paste
@@ -8372,12 +8372,13 @@ Used on Virtus robes to decorate them in the style of Leagues V: Raging Echoes.	
 Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's hood
 Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's robetop
 Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's robeskirt
-Used on Ahrim's pieces to decorate them in the style of Leagues V: Raging Echoes.		examine	item	Echo ahrim's ornament kit
+Used on Ahrim's robes to decorate them in the style of Leagues V: Raging Echoes.		examine	item	Echo ahrim's ornament kit
 A scroll which unlocks the Raging Echoes Home Teleport animation.		examine	item	Echo home teleport scroll
 A scroll which unlocks the Raging Echoes death and respawn animation.		examine	item	Raging echoes death scroll
 A scroll which unlocks the Raging Echoes NPC contact.		examine	item	Raging echoes npc contact scroll
 Used on a Nexus inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Raging echoes nexus scroll
 Used on a portal inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Raging echoes portal scroll
+A fearsome yet stylish souvenir from Leagues V: Raging Echoes.		examine	item	Raging echoes nexus rug
 A Dragon Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes dragon trophy
 A Rune Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes rune trophy
 An Adamant Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes adamant trophy
@@ -8389,20 +8390,6 @@ Won't you come and save me?		examine	item	Present box hat
 Bow wow.		examine	item	Dog disguise
 Warm and cozy.		examine	item	Festive scarf
 Why the big... paws?		examine	item	Dog boots
-Raging Echoes portal nexus		examine	item	Raging echoes portal nexus
-Raging Echoes Portal		examine	item	Raging echoes portal
-Raging Echoes Spirit tree & fairy ring		examine	item	Raging echoes spirit tree & fairy ring
-Raging Echoes rug		examine	item	Raging echoes rug
-Raging Echoes curtains		examine	item	Raging echoes curtains
-An opulent rug dyed with the colours of the Raging Echoes league.		examine	item	Raging echoes rug
-Opulent curtains dyed with the colours of the Raging Echoes league.		examine	item	Raging echoes curtains
-Used on a Scrying Pool inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Raging echoes scrying pool scroll
-Used on a Spirit Tree inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Raging echoes spirit tree scroll
-Raging Echoes Spirit tree		examine	item	Raging echoes spirit tree
-Ahrim the Blighted's quarterstaff, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's staff
-Unlocks the ability to store potions within a seperate area of the bank.		examine	item	Potion storage
-Used on Ahrim's robes to decorate them in the style of Leagues V: Raging Echoes.		examine	item	Echo ahrim's ornament kit
-A fearsome yet stylish souvenir from Leagues V: Raging Echoes.		examine	item	Raging echoes nexus rug
 Tastefully decorated invitations to a once-in-a-lifetime adoption event!		examine	item	Invitations
 Looks after your farming tools.		examine	npc	Tool Leprechaun
 A strange mole-like being.		examine	npc	Molanisk
@@ -12990,11 +12977,6 @@ This dung beetle has mistaken you for its staple diet.		examine	npc	Small scarab
 Looks kind of obsessive...		examine	npc	Weaponsmaster
 Looks kind of shifty...		examine	npc	Jonny the Beard
 They can help you travel to hard to reach places...		examine	npc	League Navigator
-A large herding dog from a far off place.		examine	npc	Sadie
-A regal little fellow.		examine	npc	Sir Burrus
-A sweet little dog with a great hairdo!		examine	npc	Archibald
-Charlie's best friend!		examine	npc	Duke
-Would you believe it, that dog was a cat all along!		examine	npc	Kimba
 Big mysterious crate. You wonder what could be inside.		examine	object	Crate
 Looks and smells like a place where goblins live.		examine	object	Cave Entrance
 The door is closed.		examine	object	Door
@@ -18778,6 +18760,7 @@ An ominous door.		examine	object	Door
 Walk into the...		examine	object	Light
 Connects the Challenge area to Edgeville.		examine	object	Clan Cup portal
 Lets you give up.		examine	object	Exit portal
+A gateway to your dreams.		examine	object	Portal Nexus
 Anti-Santa's butt was here. Don't sniff.		examine	object	Sofa
 For a little more storage.		examine	object	Crates
 For even more storage.		examine	object	Crates
@@ -20001,8 +19984,6 @@ Maintenance is good for you.		examine	object	Broken wall
 You can create a portal nexus here.		examine	object	Portal Nexus space
 Let's hope they don't get many sandstorms here.		examine	object	Big window
 You can mount a Xeric's Talisman or Digsite Pendant here.		examine	object	Amulet space
-A young sentient tree, imbued with raging spirits and surrounded by a fairy ring.		examine	object	Spiritual Fairy Tree
-A gateway to your dreams.		examine	object	Portal Nexus
 An enervated relic of the ancient times of Kourend.		examine	object	Xeric's Talisman
 A pendant with magical properties.		examine	object	Digsite Pendant
 A gateway to Catherby.		examine	object	Catherby Portal
@@ -21541,8 +21522,6 @@ The exit from the arena.		examine	object	Gateway
 Pass through here when you're ready.		examine	object	Portal
 Used for observing battles up close.		examine	object	Telescope
 Loot!		examine	object	Loot!
-A young sentient tree, imbued with raging spirits.		examine	object	Spirit Tree
-A raging echo decoration to make the room more grand.		examine	object	Wall decoration
 I wonder what they say?		examine	object	Scrolls
 Details how you did.		examine	object	Scoreboard
 Would be rude not to search them.		examine	object	Bags
@@ -22830,13 +22809,7 @@ An oak outfit stand displaying a set of Raging Echo Relic Hunter (T3)		examine	o
 A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T1)		examine	object	Mahogany outfit stand
 A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T2)		examine	object	Mahogany outfit stand
 A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T3)		examine	object	Mahogany outfit stand
-It harnesses the power of Raging Echoes.		examine	object	Scrying pool
-Lightning and brimstone.		examine	object	Echoing flames
-These are trampled!		examine	object	Broken Sunflowers
-Not facing the sun anymore.		examine	object	Sunflowers
-Someone has been trying to find the moles.		examine	object	Dog Burrow
-Which of the dogs now has fresh breath?		examine	object	Broken candy canes
-They have suspicious teeth marks.		examine	object	Broken candy canes
-A raging gateway to your dreams.		examine	object	Portal Nexus
 A rug adorned with the icon of Raging Echoes.		examine	object	Rug
 A fearsome yet stylish souvenir from Leagues V: Raging Echoes.		examine	object	Rug
+It harnesses the power of Raging Echoes.		examine	object	Scrying pool
+Lightning and brimstone.		examine	object	Echoing flames

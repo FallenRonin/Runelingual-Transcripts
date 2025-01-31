@@ -61,23 +61,6 @@ Ok, and your speciality is...?		dialogue	'Beefy' Burns	Player
 Boiled shark guts with a hint of rosemary and a dash of squid ink.		dialogue	'Beefy' Burns	'Beefy' Burns
 I think I'll stick to making my own food.		dialogue	'Beefy' Burns	Player
 Your loss!		dialogue	'Beefy' Burns	'Beefy' Burns
-So how's that life?		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-Can't complain, can't complain...		dialogue	'Betty' B.Boppin	Player
-Well, there you go.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-Aren't you a little short for a pirate?		dialogue	'Betty' B.Boppin	Player
-My mother was a gnome. Apparently it was a very painful birth.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-More info than I wanted, thanks!		dialogue	'Betty' B.Boppin	Player
-ARGH! SOUND THE ALARM! STOWAWAY ON BOARD! STOWAWAY ON BOARD!		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-No! I'm not a stowaway! Honest! I was invited here!		dialogue	'Betty' B.Boppin	Player
-Oh, sorry, my mistake then.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-Why, what do they usually look like?		dialogue	'Betty' B.Boppin	Player
-Erm... I've never actually met one...		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-Okay then...		dialogue	'Betty' B.Boppin	Player
-Hello to you too.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-Yar! We be pirates, yar! Avast, ye scurvy land-lubbing lychee!		dialogue	'Betty' B.Boppin	Player
-Please don't talk like that, it is extremely irritating.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-Also, please don't call me a lychee, whatever that may be.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
-Oh. Okay. Sorry.		dialogue	'Betty' B.Boppin	Player
 Hello.		dialogue	'Betty' B.Boppin	Player
 Ah, good day to you [milady/sirrah]! Your face is unfamiliar, did you perhaps join us aboard the ship at Lunar Isle?		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
 No, Lokar offered me a lift in Rellekka actually.		dialogue	'Betty' B.Boppin	Player
@@ -115,6 +98,23 @@ What kind of question is that? How's life as a... I dunno. Whatever it is that y
 I'm a freelance troubleshooter.		dialogue	'Betty' B.Boppin	Player
 What does that entail then?		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
 Mostly killing things for money and delivering items around the planet for people.		dialogue	'Betty' B.Boppin	Player
+So how's that life?		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+Can't complain, can't complain...		dialogue	'Betty' B.Boppin	Player
+Well, there you go.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+Aren't you a little short for a pirate?		dialogue	'Betty' B.Boppin	Player
+My mother was a gnome. Apparently it was a very painful birth.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+More info than I wanted, thanks!		dialogue	'Betty' B.Boppin	Player
+ARGH! SOUND THE ALARM! STOWAWAY ON BOARD! STOWAWAY ON BOARD!		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+No! I'm not a stowaway! Honest! I was invited here!		dialogue	'Betty' B.Boppin	Player
+Oh, sorry, my mistake then.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+Why, what do they usually look like?		dialogue	'Betty' B.Boppin	Player
+Erm... I've never actually met one...		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+Okay then...		dialogue	'Betty' B.Boppin	Player
+Hello to you too.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+Yar! We be pirates, yar! Avast, ye scurvy land-lubbing lychee!		dialogue	'Betty' B.Boppin	Player
+Please don't talk like that, it is extremely irritating.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+Also, please don't call me a lychee, whatever that may be.		dialogue	'Betty' B.Boppin	'Betty' B.Boppin
+Oh. Okay. Sorry.		dialogue	'Betty' B.Boppin	Player
 I feel a little sea-sick from this travelling.		dialogue	'Birds-Eye' Jack	Player
 Well there's a good remedy for that.		dialogue	'Birds-Eye' Jack	'Birds-Eye' Jack
 There is?		dialogue	'Birds-Eye' Jack	Player
@@ -31072,7 +31072,6 @@ No thanks.		dialogue	Istoria	Istoria
 Goodbye.		dialogue	Istoria	Istoria
 I have a question about King Shayzien VII.		dialogue	Istoria	Istoria
 Do you know anything about Camorra?		dialogue	Istoria	Istoria
-		dialogue	Istoria	Istoria
 Urgh...		dialogue	Ithoi the Navigator	Ithoi the Navigator
 He looks too sick to chat.		dialogue	Ithoi the Navigator	Ithoi the Navigator
 Hey it's the Hero! Wow! You're amazing, how on earth did you manage to tackle those two juvinates and Gadderanks? And the town is lovely, you've done a great job!		dialogue	Ivan	Ivan
@@ -67678,8 +67677,8 @@ The all-powerful Ranul wouldn't have just let some random creatures take on a na
 Hmm... It's an interesting thought.		dialogue	Zuma	Player
 Indeed. And on that note, I have some research to do! Until next time.		dialogue	Zuma	Zuma
 I'm coming for you!		dialogue	Zygomite	Zygomite
-Click here to continue	Нажмите здесь чтобы продолжить	dialogue	manual	
-Please wait...	Пожалуйста подождите	dialogue	manual	
+Click here to continue		dialogue	manual	
+Please wait...		dialogue	manual	
 I was taking a break!		dialogue	null [?]	Guardian thrall
 What would you do without me?		dialogue	null [?]	Guardian thrall
 What do I pray next?		dialogue	null [?]	Guardian thrall
@@ -67692,102 +67691,3 @@ Dialogue 1		dialogue	null [?]	null [?]
 I serve a new master now.		dialogue	null [?]	Guardian thrall
 Dialogue 2		dialogue	null [?]	null [?]
 I serve a new master...		dialogue	null [?]	Guardian thrall
-Hello.	Привет.		'Beedy-eye' Jones	Player
-Ah, good day to you [milady/sirrah]! Your face is unfamiliar, did you perhaps join us aboard the ship at Lunar Isle?	Ах, добрый день [milady/sirrah], ваше лицо незнакомо, вы, возможно, присоединились к нам на корабле на Лунар-Айленде?		'Beedy-eye' Jones	'Beedy-eye' Jones
-No, Lokar offered me a lift in Rellekka actually.	Нет,  Локар предложил подвезти меня до Реллекки.		'Beedy-eye' Jones	Player
-Oh, really? You don't look like a Fremennik to me!	Ох, правда? Ты не похож на Фременника!		'Beedy-eye' Jones	'Beedy-eye' Jones
-Well... I kind of am, and I kind of aren't. It's a long story.	Ну... вроде как да, а вроде нет, это долгая история.		'Beedy-eye' Jones	Player
-Sorry I don't have time to hear it then! See you around young fremennik-who-is-not-really-a-fremennik!	Простите, у меня нет времени это слушать! Увидимся, молодой Фременник, который на самом деле не Фременник.		'Beedy-eye' Jones	'Beedy-eye' Jones
-'Bye.	Пока.		'Beedy-eye' Jones	Player
-Aren't you a little short for a pirate?	Разве ты не коротковат для пирата?		'Beedy-eye' Jones	Player
-My mother was a gnome. Apparently it was a very painful birth.	Моя мать была гномом, очевидно, это было очень болезненное рождение.		'Beedy-eye' Jones	'Beedy-eye' Jones
-More info than I wanted, thanks!	Больше информации, чем я хотел, спасибо!		'Beedy-eye' Jones	Player
-ARGH! SOUND THE ALARM! STOWAWAY ON BOARD! STOWAWAY ON BOARD!	АРГХ! БЕЙТЕ ТРЕВОГУ! БЕЗБИЛЕТНИК НА БОРТУ! БЕЗБИЛЕТНИК НА БОРТУ!		'Beedy-eye' Jones	'Beedy-eye' Jones
-No! I'm not a stowaway! Honest! I was invited here!	Нет, я не безбилетник! Честно, меня сюда пригласили!		'Beedy-eye' Jones	Player
-Oh, sorry, my mistake then.	Простите, я ошибся.		'Beedy-eye' Jones	'Beedy-eye' Jones
-You must admit you do look a lot like a stowaway though.	Хотя, признай, ты и вправду похож на безбилетника.		'Beedy-eye' Jones	'Beedy-eye' Jones
-Why, what do they usually look like?	Почему, как они обычно выглядят?		'Beedy-eye' Jones	Player
-Erm... I've never actually met one...	Я никогда не встречал такого...		'Beedy-eye' Jones	'Beedy-eye' Jones
-Okay then...	Тогда ладно...		'Beedy-eye' Jones	Player
-Brrrr! Its cold up here!	Бррр! Здесь холодно!		'Beedy-eye' Jones	Player
-You think this is cold? Up by Acheron it gets so cold that when you talk you see the words freeze in the air in front of you!	Ты думаешь, здесь холодно? На Ашероне становится так холодно, что, когда говоришь, видишь, как слова замерзают в воздухе перед тобой!		'Beedy-eye' Jones	'Beedy-eye' Jones
-REALLY?	ПРАВДА?		'Beedy-eye' Jones	Player
-Nah, not really. I was exaggerating for humourous effect. It is very very cold though!	Нет, не совсем. Я преувеличил для юмористического эффекта. Но очень-очень холодно!		'Beedy-eye' Jones	'Beedy-eye' Jones
-Hello.	Привет.		'Beedy-eye' Jones	'Beedy-eye' Jones
-So... You're a pirate, huh?	Итак... Ты пират, да?		'Beedy-eye' Jones	Player
-It's what it says on my pay-packet at the end of the month.	Это то, что написано на моей упаковке в конце месяца.		'Beedy-eye' Jones	'Beedy-eye' Jones
-How's that working out for you?	Как у тебя получается?		'Beedy-eye' Jones	Player
-Pretty good so far. All the grog and loot that we can plunder, plus full medical including dental.	Все грог и кражи, которые мы можем разграбить, плюс полный медицинский, включая зубоврачебную.		'Beedy-eye' Jones	'Beedy-eye' Jones
-You mean you have insurance?	Ты имеешь в виду, у тебя есть страховка?		'Beedy-eye' Jones	Player
-Not as such. If any of us get sick we kidnap a doctor and don't let him go until we're better.	Если кто-то из нас заболеет, мы похитим врача и не отпустим его, пока нам не станет лучше.		'Beedy-eye' Jones	'Beedy-eye' Jones
-You'd be surprised what an incentive for expert health care that is.	Вы удивитесь, что это за стимул для экспертной медицинской помощи.		'Beedy-eye' Jones	'Beedy-eye' Jones
-I can imagine.	Представляю.		'Beedy-eye' Jones	Player
-Hello there. So what brings you aboard the Lady Zay?	Так что привело вас на борт леди Зей?		'Beedy-eye' Jones	'Beedy-eye' Jones
-Well, I was planning on visiting the Moon Clan, but I have to say your ship is very impressive.	Ну, я планировал посетить Лунный Клан, но должен сказать, что ваш корабль очень впечатляет.		'Beedy-eye' Jones	Player
-Aye, she's a beauty alright! The Lady Zay has been my home for many hard months, through storm and sun, and she always gets us to here we were headed!	Леди Зэй была моим домом много тяжелых месяцев, через шторм и солнце, и она всегда доводит нас сюда, мы ехали!		'Beedy-eye' Jones	'Beedy-eye' Jones
-Yes, she's certainly one of the finest boats I've seen on my travels!	Да, она, конечно, одна из лучших лодок, которые я видел во время своих путешествий!		'Beedy-eye' Jones	Player
-That she is [lad/lass], that she is.	Что она [жена/лас], так и есть.		'Beedy-eye' Jones	'Beedy-eye' Jones
-Hello to you too.	И тебе привет.		'Beedy-eye' Jones	'Beedy-eye' Jones
-Yar! We be pirates, yar! Avast, ye scurvy land-lubbing lychee!	Яр, мы пираты, яр!		'Beedy-eye' Jones	Player
-Please don't talk like that, it is extremely irritating.	Пожалуйста, не говори так, это очень раздражает.		'Beedy-eye' Jones	'Beedy-eye' Jones
-Also, please don't call me a lychee, whatever that may be.	Кроме того, пожалуйста, не называй меня лихи, что бы это ни было.		'Beedy-eye' Jones	'Beedy-eye' Jones
-Oh. Okay. Sorry.	Ладно, извините.		'Beedy-eye' Jones	Player
-So how's life as a pirate?	Как жизнь пирата?		'Beedy-eye' Jones	Player
-What kind of question is that? How's life as a... I dunno. Whatever it is that you do for a living.	Что это за вопрос? чем бы ты ни занимался.		'Beedy-eye' Jones	'Beedy-eye' Jones
-I'm a freelance troubleshooter.	Я внештатный сапер.		'Beedy-eye' Jones	Player
-What does that entail then?	Что это значит?		'Beedy-eye' Jones	'Beedy-eye' Jones
-Mostly killing things for money and delivering items around the planet for people.	В основном убивая вещи ради денег и доставляя вещи по всей планете для людей.		'Beedy-eye' Jones	Player
-I collect stuff.	Я коллекционирую вещи.		'Beedy-eye' Jones	Player
-So how's that life?	Как жизнь?		'Beedy-eye' Jones	'Beedy-eye' Jones
-Can't complain, can't complain...	Не жалуюсь, не жалуюсь...		'Beedy-eye' Jones	Player
-Well, there you go.	Ну вот.		'Beedy-eye' Jones	'Beedy-eye' Jones
-Sorry, can't stop, the Captain will have my guts for garters if he catches me slacking off talking to the stowaway.	Простите, не могу остановиться, капитан будет иметь мои кишки для подвязок, если он поймает меня, болтая с безбилетным пассажиром.		'Beedy-eye' Jones	'Beedy-eye' Jones
-I'm not a stowaway! I was invited aboard!	Я не безбилетник, меня пригласили на борт!		'Beedy-eye' Jones	Player
-Yeah, whatever [guy/lady], it doesn't really matter who you are I'll get in trouble!	Да, что бы там ни было, неважно, кто ты, я попаду в неприятности!		'Beedy-eye' Jones	'Beedy-eye' Jones
-You know, I've always wondered what life as a pirate actually entails.	Знаешь, мне всегда было интересно, что на самом деле влечет за собой жизнь пирата.		'Beedy-eye' Jones	Player
-Well, at the moment it mostly involves being asked random questions by a stowaway.	Ну, в данный момент это в основном связано с тем, что безбилетный пассажир задает случайные вопросы.		'Beedy-eye' Jones	'Beedy-eye' Jones
-I'm not a stowaway! I was invited aboard! By Lokar! Ask him!	Я не безбилетник! Меня пригласил на борт!		'Beedy-eye' Jones	Player
-Hey, whatever [love/pal]. Just make sure the captain doesn't catch you, pirates don't like stowaways much.	Просто убедись, что капитан тебя не поймает, пираты не очень любят безбилетников.		'Beedy-eye' Jones	'Beedy-eye' Jones
-What are you cooking?	Что ты готовишь?		'Beefy' Burns	Player
-My speciality! What else could I be cooking?	Что еще я могу готовить?		'Beefy' Burns	'Beefy' Burns
-Ok, and your speciality is...?	Ладно, и твоя специализация...?		'Beefy' Burns	Player
-Boiled shark guts with a hint of rosemary and a dash of squid ink.	Кишечник акул с намеком на розмари и чернилами из кальмара.		'Beefy' Burns	'Beefy' Burns
-I think I'll stick to making my own food.	Думаю, я буду продолжать готовить свою собственную еду.		'Beefy' Burns	Player
-Your loss!	Твоя потеря!		'Beefy' Burns	'Beefy' Burns
-Hello.	Привет.		'Betty' B.Boppin	Player
-Ah, good day to you [milady/sirrah]! Your face is unfamiliar, did you perhaps join us aboard the ship at Lunar Isle?	Ах, добрый день для вас, ваше лицо незнакомо, вы, возможно, присоединились к нам на корабле на Лунар-Айленде?		'Betty' B.Boppin	'Betty' B.Boppin
-No, Lokar offered me a lift in Rellekka actually.	Нет, Локар предложил мне подвезти меня в Рэллекке.		'Betty' B.Boppin	Player
-Oh, really? You don't look like a Fremennik to me!	Ты не похож на Фременника!		'Betty' B.Boppin	'Betty' B.Boppin
-Well... I kind of am, and I kind of aren't. It's a long story.	Ну... вроде как да, а вроде нет, это долгая история.		'Betty' B.Boppin	Player
-Sorry I don't have time to hear it then! See you around young fremennik-who-is-not-really-a-fremennik!	Простите, у меня нет времени это слышать!		'Betty' B.Boppin	'Betty' B.Boppin
-'Bye.	Пока.		'Betty' B.Boppin	Player
-You know, I've always wondered what life as a pirate actually entails.	Знаешь, мне всегда было интересно, что на самом деле влечет за собой жизнь пирата.		'Betty' B.Boppin	Player
-Well, at the moment it mostly involves being asked random questions by a stowaway.	Ну, в данный момент это в основном связано с тем, что безбилетный пассажир задает случайные вопросы.		'Betty' B.Boppin	'Betty' B.Boppin
-I'm not a stowaway! I was invited aboard! By Lokar! Ask him!	Я не безбилетник! Меня пригласил на борт!		'Betty' B.Boppin	Player
-Hey, whatever [love/pal]. Just make sure the captain doesn't catch you, pirates don't like stowaways much.	Просто убедись, что капитан тебя не поймает, пираты не очень любят безбилетников.		'Betty' B.Boppin	'Betty' B.Boppin
-Brrrr! Its cold up here!	Здесь холодно!		'Betty' B.Boppin	Player
-You think this is cold? Up by Acheron it gets so cold that when you talk you see the words freeze in the air in front of you!	К Ахерону так холодно, что когда ты говоришь, ты видишь, как перед тобой замерзают слова!		'Betty' B.Boppin	'Betty' B.Boppin
-REALLY?	Правда?		'Betty' B.Boppin	Player
-Nah, not really. I was exaggerating for humourous effect. It is very very cold though!	Я преувеличиваю для юмористического эффекта, но это очень холодно!		'Betty' B.Boppin	'Betty' B.Boppin
-Sorry, can't stop, the Captain will have my guts for garters if he catches me slacking off talking to the stowaway.	Простите, не могу остановиться, капитан будет иметь мои кишки для подвязок, если он поймает меня, болтая с безбилетным пассажиром.		'Betty' B.Boppin	'Betty' B.Boppin
-I'm not a stowaway! I was invited aboard!	Я не безбилетник, меня пригласили на борт!		'Betty' B.Boppin	Player
-Yeah, whatever [guy/lady], it doesn't really matter who you are I'll get in trouble!	Да, что бы там ни было, неважно, кто ты, я попаду в неприятности!		'Betty' B.Boppin	'Betty' B.Boppin
-Hello.	Привет.		'Betty' B.Boppin	'Betty' B.Boppin
-So... You're a pirate, huh?	Значит, ты пират, да?		'Betty' B.Boppin	Player
-It's what it says on my pay-packet at the end of the month.	Это то, что написано на моей упаковке в конце месяца.		'Betty' B.Boppin	'Betty' B.Boppin
-How's that working out for you?	Как у тебя получается?		'Betty' B.Boppin	Player
-Pretty good so far. All the grog and loot that we can plunder, plus full medical including dental.	Все грог и кражи, которые мы можем разграбить, плюс полный медицинский, включая зубоврачебную.		'Betty' B.Boppin	'Betty' B.Boppin
-You mean you have insurance?	Ты имеешь в виду, у тебя есть страховка?		'Betty' B.Boppin	Player
-Not as such. If any of us get sick we kidnap a doctor and don't let him go until we're better.	Если кто-то из нас заболеет, мы похитим врача и не отпустим его, пока нам не станет лучше.		'Betty' B.Boppin	'Betty' B.Boppin
-You'd be surprised what an incentive for expert health care that is.	Вы удивитесь, что это за стимул для экспертной медицинской помощи.		'Betty' B.Boppin	'Betty' B.Boppin
-I can imagine.	Представляю.		'Betty' B.Boppin	Player
-Hello there. So what brings you aboard the Lady Zay?	Так что привело вас на борт леди Зей?		'Betty' B.Boppin	'Betty' B.Boppin
-Well, I was planning on visiting the Moon Clan, but I have to say your ship is very impressive.	Ну, я планировал посетить Лунный Клан, но должен сказать, что ваш корабль очень впечатляет.		'Betty' B.Boppin	Player
-Aye, she's a beauty alright! The Lady Zay has been my home for many hard months, through storm and sun, and she always gets us to here we were headed!	Леди Зэй была моим домом много тяжелых месяцев, через шторм и солнце, и она всегда доводит нас сюда, мы ехали!		'Betty' B.Boppin	'Betty' B.Boppin
-Yes, she's certainly one of the finest boats I've seen on my travels!	Да, она, конечно, одна из лучших лодок, которые я видел во время своих путешествий!		'Betty' B.Boppin	Player
-That she is [lad/lass], that she is.	Что она [жена/лас], так и есть.		'Betty' B.Boppin	'Betty' B.Boppin
-So how's life as a pirate?	Как жизнь пирата?		'Betty' B.Boppin	Player
-What kind of question is that? How's life as a... I dunno. Whatever it is that you do for a living.	Что это за вопрос? чем бы ты ни занимался.		'Betty' B.Boppin	'Betty' B.Boppin
-I'm a freelance troubleshooter.	Я внештатный сапер.		'Betty' B.Boppin	Player
-What does that entail then?	Что это значит?		'Betty' B.Boppin	'Betty' B.Boppin
-Mostly killing things for money and delivering items around the planet for people.	В основном убивая вещи ради денег и доставляя вещи по всей планете для людей.		'Betty' B.Boppin	Player

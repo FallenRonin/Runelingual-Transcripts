@@ -167,27 +167,13 @@ Toggle Effect		inventoryActions	item	Defence cape
 Toggle Respawn		inventoryActions	item	Defence cape
 Commune		inventoryActions	item	Ranging cape
 Spellbook		inventoryActions	item	Magic cape
-Lunar		inventoryActions	item	Magic cape
-Arceuus		inventoryActions	item	Magic cape
-Standard		inventoryActions	item	Magic cape
-Ancient		inventoryActions	item	Magic cape
 Stamina Boost		inventoryActions	item	Agility cape
 Tele to POH		inventoryActions	item	Construct. cape
-Brimhaven		inventoryActions	item	Construct. cape
-Home		inventoryActions	item	Construct. cape
-Rimmington		inventoryActions	item	Construct. cape
-Taverley		inventoryActions	item	Construct. cape
-Pollnivneach		inventoryActions	item	Construct. cape
-Hosidius		inventoryActions	item	Construct. cape
-Aldarin		inventoryActions	item	Construct. cape
 Fishing Guild		inventoryActions	item	Fishing cape
 Otto's Grotto		inventoryActions	item	Fishing cape
 Trim		inventoryActions	item	Quest point cape
 Load		inventoryActions	item	White destabiliser
 Split		inventoryActions	item	Cap and goggles
-Hunter Guild		inventoryActions	item	Hunter cape
-Carniverous Chinchompas		inventoryActions	item	Hunter cape
-Black Chinchompas		inventoryActions	item	Hunter cape
 Lay		inventoryActions	item	Bird snare
 Check totals		inventoryActions	item	Butterfly net
 Check Totals		inventoryActions	item	Butterfly net
@@ -238,12 +224,7 @@ Refund		inventoryActions	item	Scroll of redirection
 Revert		inventoryActions	item	Rimmington teleport
 Dismantle		inventoryActions	item	Armadyl godsword
 Disassemble		inventoryActions	item	Slayer helmet
-Fremennik Dungeon		inventoryActions	item	Slayer ring (8)
-Dark Beasts		inventoryActions	item	Slayer ring (8)
 Master		inventoryActions	item	Slayer ring (8)
-Stronghold		inventoryActions	item	Slayer ring (8)
-Slayer Tower		inventoryActions	item	Slayer ring (8)
-Tarn's Lair		inventoryActions	item	Slayer ring (8)
 Deposit		inventoryActions	item	Looting bag
 Settings		inventoryActions	item	Looting bag
 Miscellania		inventoryActions	item	Ring of wealth (5)
@@ -262,19 +243,6 @@ Configure		inventoryActions	item	Annakarl teleport
 Extract		inventoryActions	item	Nest box (empty)
 Unload		inventoryActions	item	Toxic blowpipe
 Untrim		inventoryActions	item	Quest point cape (t)
-Karamja (Shilo)		inventoryActions	item	Achievement diary cape (t)
-Western Provinces		inventoryActions	item	Achievement diary cape (t)
-Karamja (Jungle)		inventoryActions	item	Achievement diary cape (t)
-Twiggy O'Korn		inventoryActions	item	Achievement diary cape (t)
-Karamja (Mor Ul Rek)		inventoryActions	item	Achievement diary cape (t)
-Ardougne		inventoryActions	item	Achievement diary cape (t)
-Desert		inventoryActions	item	Achievement diary cape (t)
-Kourend & Kebos		inventoryActions	item	Achievement diary cape (t)
-Lumbridge & Draynor		inventoryActions	item	Achievement diary cape (t)
-Fremennik		inventoryActions	item	Achievement diary cape (t)
-Morytania		inventoryActions	item	Achievement diary cape (t)
-Kandarin		inventoryActions	item	Achievement diary cape (t)
-Wilderness		inventoryActions	item	Achievement diary cape (t)
 Slayer Master		inventoryActions	item	Karamja gloves 4
 Ecto Teleport		inventoryActions	item	Morytania legs 1
 Ectofuntus Pit		inventoryActions	item	Morytania legs 1
@@ -303,13 +271,9 @@ Consume		inventoryActions	item	Saradomin's light
 Teleports		inventoryActions	item	Max cape
 Metamorphosis		inventoryActions	item	Beaver
 Chew		inventoryActions	item	Rotten onion
+Fishing Teleports		inventoryActions	item	Max cape
 POH Portals		inventoryActions	item	Max cape
-Carnivorous chinchompas		inventoryActions	item	Max cape
-Ring of Life		inventoryActions	item	Max cape
-Black chinchompas		inventoryActions	item	Max cape
-Warrior's Guild		inventoryActions	item	Max cape
-Guild Teleports		inventoryActions	item	Max cape
-Skilling Areas		inventoryActions	item	Max cape
+Other Teleports		inventoryActions	item	Max cape
 Xeric's Lookout		inventoryActions	item	Xeric's talisman
 Xeric's Glade		inventoryActions	item	Xeric's talisman
 Xeric's Inferno		inventoryActions	item	Xeric's talisman
@@ -489,9 +453,9 @@ Current-step		inventoryActions	item	Clue compass
 Collect		inventoryActions	item	Pocket kingdom
 Manage-kingdom		inventoryActions	item	Pocket kingdom
 Relic Emote		inventoryActions	item	Raging echoes cane
-Area Emote		inventoryActions	item	Raging echoes cane
-Detach		inventoryActions	item	Echo venator bow
-Detatch		inventoryActions	item	Echo ahrim's robeskirt 75
+Detatch		inventoryActions	item	Echo venator bow
+Detach		inventoryActions	item	Echo venator bow (uncharged)
+Read-address		inventoryActions	item	Invitations
 Examine		inventoryActions	item	
 Remove		inventoryActions	item	
 Add		inventoryActions	item	
@@ -499,8 +463,3 @@ Add-5		inventoryActions	item
 Add-10		inventoryActions	item	
 Add-All		inventoryActions	item	
 Add-X		inventoryActions	item	
-Fishing Teleports		inventoryActions	item	Max cape
-Other Teleports		inventoryActions	item	Max cape
-Detatch		inventoryActions	item	Echo venator bow
-Detach		inventoryActions	item	Echo venator bow (uncharged)
-Read-address		inventoryActions	item	Invitations
