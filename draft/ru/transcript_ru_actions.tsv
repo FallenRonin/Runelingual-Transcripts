@@ -155,32 +155,32 @@ Add Name		actions	menu	ignoreTab
 Delete Name		actions	menu	ignoreTab
 Account		actions	menu	accountManagementTab
 Community		actions	menu	accountManagementTab
-Useful Links		actions	menu	accountManagementTab
+Useful Links	Полезные ссылки	actions	menu	accountManagementTab
 Open Store		actions	menu	accountManagementTab
 Bond Pouch		actions	menu	accountManagementTab
-View Inbox		actions	menu	accountManagementTab
-Name Changer		actions	menu	accountManagementTab
+View Inbox	Посмотреть почту	actions	menu	accountManagementTab
+Name Changer	Смена имени	actions	menu	accountManagementTab
 View History		actions	menu	accountManagementTab
 View Newspost		actions	menu	accountManagementTab
 View Archive		actions	menu	accountManagementTab
 Open		actions	menu	accountManagementTab
 Settings		actions	menu	groupTab
-Refresh		actions	menu	groupTab
+Refresh	Обновить	actions	menu	groupTab
 Join		actions	menu	groupTab
 Setup		actions	menu	groupTab
-Find		actions	menu	groupTab
-Open		actions	menu	groupTab
-Teleport		actions	menu	groupTab
-Select		actions	menu	groupTab
+Find	Найти	actions	menu	groupTab
+Open	Открыть 	actions	menu	groupTab
+Teleport	Телепорт	actions	menu	groupTab
+Select	Выбрать	actions	menu	groupTab
 Toggle skull prevention		actions	menu	settingsTab
 Toggle Accept Aid		actions	menu	settingsTab
-Toggle Run		actions	menu	settingsTab
+Toggle Run	Переключить бег	actions	menu	settingsTab
 View House Options		actions	menu	settingsTab
 Open Bond Pouch		actions	menu	settingsTab
-All Settings		actions	menu	settingsTab
-Controls		actions	menu	settingsTab
-Display		actions	menu	settingsTab
-Audio		actions	menu	settingsTab
+All Settings	Все настройки	actions	menu	settingsTab
+Controls	Управление аккаунтом	actions	menu	settingsTab
+Display	Экран	actions	menu	settingsTab
+Audio	Звук	actions	menu	settingsTab
 Unmute		actions	menu	settingsTab
 Adjust Brightness		actions	menu	settingsTab
 Restore Default Zoom		actions	menu	settingsTab
@@ -411,7 +411,7 @@ Get job (easy)		actions	npc	Gianne jnr.
 Get job (hard)		actions	npc	Gianne jnr.
 Repairs		actions	npc	Dark Mage
 Sober-Up		actions	npc	Skippy
-Walk here		actions	npc	Purepker895
+Walk here	Идти сюда	actions	npc	Purepker895
 Follow		actions	npc	Purepker895
 Pay (north-west)		actions	npc	Elstan
 Pay (south-east)		actions	npc	Elstan
