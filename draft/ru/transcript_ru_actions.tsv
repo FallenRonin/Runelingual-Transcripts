@@ -103,7 +103,7 @@ Filter public chat	Фильтровать общий чат	actions	menu
 <colNum0>Group:</col> Show all	<colNum0>Группа:</col> Показывать всё	actions	menu	
 Report game bug	Сообщить об ошибке	actions	menu	
 Report abuse	Сообщить о злоупотреблениях	actions	menu	
-Combat Options	Варианты ведения боя	actions	menu	
+Combat Options	Боевые настройки	actions	menu	
 Skills	Навыки	actions	menu	
 Achievement Diaries	Дневники достижений	actions	menu	
 Inventory	Инвентарь	actions	menu	
@@ -144,7 +144,7 @@ Lookup	Просмотр	actions	menu
 Auto retaliate	Автоматическое ответное действие	actions	menu	combatOptionsTab
 Use <colNum0>Special Attack</col>	Используйте <colNum0>Специальную атаку</col>	actions	menu	combatOptionsTab
 Wiki	Вики	actions	menu	
-Add to canvas	Добавить на холст	actions	menu	
+Add to canvas	Отслеживать прогресс	actions	menu	
 View <colNum0>Attack</col> guide	Посмотреть гайд по <colNum0>Атаке</col>	actions	menu	skillsTab
 View <colNum0>Hitpoints</col> guide	Посмотреть гайд по <colNum0>Здоровью</col>	actions	menu	skillsTab
 View <colNum0>Mining</col> guide	Посмотреть гайд по <colNum0>Шахтёрскому делу</col>	actions	menu	skillsTab
@@ -186,7 +186,7 @@ Overview	Общий обзор	actions	menu	characterSummaryTab
 Collection Log	Журнал коллекционирования	actions	menu	characterSummaryTab
 Reveal	Раскрыть	actions	menu	characterSummaryTab
 Hide	Скрыть	actions	menu	characterSummaryTab
-Open	Открыто	actions	menu	questListTab
+Open	Открыть	actions	menu	questListTab
 Close	Закрыть	actions	menu	questListTab
 Start Quest Helper	Включить помощника по квестам	actions	menu	questListTab
 Open wiki quick guide:	Открыть быстрое руководство на Wiki:	actions	menu	questListTab
@@ -331,7 +331,7 @@ Disturb	Беспокоить	actions	npc	Phosani's Nightmare
 Gauntlets	Перчатки	actions	npc	Avan
 Lure	Приманка	actions	npc	Rod Fishing spot
 Bait	Наживка	actions	npc	Rod Fishing spot
-Pickpocket	Обобрать	actions	npc	Guard
+Pickpocket	Обокрасть	actions	npc	Guard
 Assignment	Назначение	actions	npc	Vannaka
 Search	Искать	actions	npc	Entomologist
 Confront	Противостоять	actions	npc	Mi-Gor
@@ -388,8 +388,8 @@ Get-rewards	Получить награды	actions	npc	Commander Connad
 Tutorial	Руководство	actions	npc	Captain Cain
 Start-minigame	Начать мини-игру	actions	npc	Guardian mummy
 Teleport	Телепортироваться	actions	npc	Apprentice
-Join-Crew	Присоединяйтесь к экипажу	actions	npc	San Fan
-Join-Team	Присоединяйтесь к команде	actions	npc	Honest Jimmy
+Join-Crew	Присоединиться к экипажу	actions	npc	San Fan
+Join-Team	Присоединиться к команде	actions	npc	Honest Jimmy
 Pick-pocket	Обокрасть	actions	npc	Fairy Godfather
 Craft-goods	Создать товары	actions	npc	Thakkrad Sigmundson
 Rellekka		actions	npc	Maria Gunnars
@@ -411,7 +411,7 @@ Get job (easy)	Взять работу (легко)	actions	npc	Gianne jnr.
 Get job (hard)	Взять работу (сложно)	actions	npc	Gianne jnr.
 Repairs	Ремонт	actions	npc	Dark Mage
 Sober-Up	Отрезвиться	actions	npc	Skippy
-Walk here	Иди сюда	actions	npc	Purepker895
+Walk here	Идти сюда	actions	npc	Purepker895
 Follow	Следовать	actions	npc	Purepker895
 Pay (north-west)	Платить (северо-запад)	actions	npc	Elstan
 Pay (south-east)	Платить (юго-восток)	actions	npc	Elstan
@@ -461,1091 +461,1091 @@ Fly	Летать	actions	npc	Auguste
 Decant	Декантировать	actions	npc	Zahur
 Clean	Чистый	actions	npc	Zahur
 Make unfinished potion(s)	Приготовить незаконченное зелье(зелья)	actions	npc	Zahur
-Shoot		actions	npc	Target
-Shop		actions	npc	Ezekial Lovecraft
-Board		actions	npc	Ogre boat
-Potions		actions	npc	Apothecary
-Grab-feather		actions	npc	Desert Phoenix
-Take-from		actions	npc	Jig cart
-Coffer		actions	npc	Yohnus
-Attract		actions	npc	Light creature
-Call-Over		actions	npc	Zombie
-Insult		actions	npc	Zombie
-Scare		actions	npc	Zombie
-Skin		actions	npc	Swamp snake
-Burn		actions	npc	Barricade
-Extinguish		actions	npc	Barricade
-Quick-withdraw		actions	npc	Elnock Inquisitor
-Check-gates		actions	npc	Wandering impling
-Sand		actions	npc	Bert
-Request-supplies		actions	npc	Bork Sigmundson
-Sew		actions	npc	Patchy
-Check		actions	npc	Probita
-View Laps		actions	npc	Grace
-Toggle Counter		actions	npc	Grace
-Tap		actions	npc	Skullball
-Show-Goal		actions	npc	Skullball
-Give-Stick		actions	npc	Agility Trainer
-Waterbirth Island		actions	npc	Jarvald
-Take-flyer		actions	npc	Ali the Leaflet Dropper
-Trade-with		actions	npc	Rewards Guardian
-Trade-Co-op		actions	npc	Gabooty
-Trade-Drinks		actions	npc	Gabooty
-Send-parcel		actions	npc	Rionasta
-Peek		actions	npc	Eye
-Deposit-box		actions	npc	Financial Seer
-Move		actions	npc	Boulder
-Log-storage		actions	npc	Friendly Forester
-Claim Sand		actions	npc	Drew
-Deposit buckets		actions	npc	Drew
-Toggle warnings		actions	npc	Doomsayer
-Remove PvP Protection		actions	npc	Doomsayer
-Observe		actions	npc	Maze Guardian
-New-maze		actions	npc	Maze Guardian
-Maxhit Variant		actions	npc	Combat Test
-Kill-count		actions	npc	Soldier
-Canyon-count (east)		actions	npc	Soldier
-Canyon-count (west)		actions	npc	Soldier
-Pay (north-east)		actions	npc	Marisi
-Pay (south-west)		actions	npc	Marisi
-Task		actions	npc	Captain Khaled
-Help		actions	npc	Villia
-Spellbook		actions	npc	Tyss
-Climb-on		actions	npc	Stunted demonic gorilla
-Glider		actions	npc	Captain Shoracks
-Watermill		actions	npc	Mistag
-Join		actions	npc	Lisa
-Locking		actions	npc	Rift guardian
-Check Scores		actions	npc	Captain Kalt
-Contract		actions	npc	Amy
-Last-tier contract		actions	npc	Amy
-Port Sarim		actions	npc	Captain Magoro
-Port Piscarilius		actions	npc	Captain Magoro
-Feed		actions	npc	Lux grub
-Douse		actions	npc	Fire
-Cut		actions	npc	Meat tree
-Smash		actions	npc	Jewelled Crab
-Claim-cape		actions	npc	Captain Rimor
-Set-difficulty		actions	npc	Captain Rimor
-Fight		actions	npc	Abigale
-Bars		actions	npc	Pirate Jackie the Fruit
-Toggle-minerals		actions	npc	Belona
-Kitten		actions	npc	Gertrude
-Toggle-vials		actions	npc	Barbarian guard
-Redeem-code		actions	npc	Recruiter
-Purchase Amulet		actions	npc	Wizard Mizgog
-Staves		actions	npc	Dark Mage
-Deboard		actions	npc	Barge guard
-Toggle Fossils		actions	npc	Peter
-Poke		actions	npc	Bobbing fossil
-Training		actions	npc	Mairin
-Harvest		actions	npc	Herbiboar
-Stun		actions	npc	Hoop Snake
-Murder		actions	npc	Conrad King
-Challenge		actions	npc	The Mimic
-Quick-Travel		actions	npc	Barge guard
-Escape		actions	npc	Brundt the Chieftain
-Scry		actions	npc	Abigaila
-Claim Pet Rock		actions	npc	Askeladden
-Standard Variant		actions	npc	Combat Test (maxhit)
-Get-log		actions	npc	The Collector
-Count-log		actions	npc	The Collector
-Get bird		actions	npc	Alry the Angler
-Pay (Fruit tree)		actions	npc	Nikkie
-Pay (tree patch)		actions	npc	Rosie
-Pay (Redwood tree)		actions	npc	Alexandra
-Pay (Spirit tree)		actions	npc	Latlink Fastbell
-Swap		actions	npc	Ornate combat dummy
-Pay (Celastrus tree)		actions	npc	Taylor
-Land's End		actions	npc	Veos
-Join Castle Wars		actions	npc	Saradominist recruiter
-Holiday-items		actions	npc	Diango
-Tan-hides		actions	npc	Eodan
-Ardougne		actions	npc	Captain Barnaby
-Brimhaven		actions	npc	Captain Barnaby
-Rimmington		actions	npc	Captain Barnaby
-Enchant		actions	npc	Eluned
-Quick-escape		actions	npc	Elena
-Investigate		actions	npc	Elderly Elf
-Fix-exoskeleton		actions	npc	Elderly Elf
-Chop down		actions	npc	Tree
-Sing		actions	npc	Reese
-Statistics		actions	npc	Ystwyth
-Repair		actions	npc	Aneirin
-Open Adventure Paths		actions	npc	Adventurer Jon
-Island of Stone		actions	npc	Haskell
-Charter		actions	npc	Trader Stan
-Charter-to Brimhaven		actions	npc	Trader Stan
-Charter-to Catherby		actions	npc	Trader Stan
-Charter-to Mos Le'Harmless		actions	npc	Trader Stan
-Charter-to Musa Point		actions	npc	Trader Stan
-Charter-to Port Khazard		actions	npc	Trader Stan
-Charter-to Port Phasmatys		actions	npc	Trader Stan
-Charter-to Port Sarim		actions	npc	Trader Stan
-Charter-to Shipyard		actions	npc	Trader Stan
-Charter-to Corsair Cove		actions	npc	Trader Stan
-Charter-to Prifddinas		actions	npc	Trader Stan
-Charter-to Port Tyras		actions	npc	Trader Stan
-Charge		actions	npc	Totem
-Spectate		actions	npc	The Nightmare
-Convert-shards		actions	npc	Noranna Tytanin
-Loot		actions	npc	Grave
-Lap-count		actions	npc	Bobawu
-Value		actions	npc	Skully
-Settings		actions	npc	Skully
-Ungael		actions	npc	Torfinn
-Glider-to Ta Quir Priw		actions	npc	Gnormadium Avlafrim
-Glider-to Gandius		actions	npc	Gnormadium Avlafrim
-Glider-to Kar-Hewo		actions	npc	Gnormadium Avlafrim
-Glider-to Lemanto Andra		actions	npc	Gnormadium Avlafrim
-Glider-to Sindarpos		actions	npc	Gnormadium Avlafrim
-Glider-to Ookookolly Undri		actions	npc	Gnormadium Avlafrim
-Glider-to Lemantolly Undri		actions	npc	Captain Dalbur
-Other-services		actions	npc	Thessalia
-Leave-tutorial		actions	npc	Nomad
-Fill		actions	npc	Ammunition crate
-Check-ammo		actions	npc	Ammunition crate
-Forfeit		actions	npc	Captain Pudi
-Locks		actions	npc	Dampe
-Take-net		actions	npc	Spirit Angler
-Ferry		actions	npc	Ferryman Sathwood
-Awaken		actions	npc	Rubble
-Items		actions	npc	Clerk
-Buy-sphere		actions	npc	Oldak
-Power-up		actions	npc	The Great Guardian
-Buy-crystals		actions	npc	Rick
-Quick-lock		actions	npc	Apprentice Tamara
-Strike		actions	npc	Hill Giant
-Hand-in		actions	npc	Kovac
-Commission		actions	npc	Kovac
-Talk		actions	npc	Hannibal
-Proceed		actions	npc	Osmumten
-Begin		actions	npc	Osmumten
-Water		actions	npc	Palm of Resourcefulness
-Check-costume		actions	npc	Costumed child
-Trick-or-treat		actions	npc	Generous Treater
-Scare-away		actions	npc	Spooky dog
-Tend-to		actions	npc	Flowering bush (Lilac)
-Emote		actions	npc	Wisp
-Deposit		actions	npc	Woodcutting Leprechaun
-Cast		actions	npc	Fishing spot
-Reset-room		actions	npc	Cerebral pathfinder
-Take-lure		actions	npc	Light leech
-Build		actions	npc	Unfinished Beehive
-Disarm		actions	npc	Fox trap
-Prune		actions	npc	Entling
-Prune-top		actions	npc	Entling
-Prune-back		actions	npc	Entling
-Prune-sides		actions	npc	Entling
-Listen		actions	npc	Key Master
-Charter-to Port Piscarilius		actions	npc	Trader Stan
-Charter-to Land's End		actions	npc	Trader Stan
-Mark		actions	npc	Guard
-Unmark		actions	npc	Guard
-Charter-to Civitas illa Fortis		actions	npc	Trader Stan
-Charter-to Aldarin		actions	npc	Trader Stan
-Charter-to Sunset Coast		actions	npc	Trader Stan
-Charter-to Tempestus		actions	npc	Trader Stan
-Start-wave		actions	npc	Minimus
-Scoreboard		actions	npc	Eyatlalli
-Rumour		actions	npc	Huntmaster Gilman (Novice)
-Rumour-settings		actions	npc	Guild Scribe Verity
-Fur-clothing		actions	npc	Pellem
-Recharge-whistle		actions	npc	Soar Leader Pitri
-Trade-in		actions	npc	Oriana
-Last-destination		actions	npc	Renu
-Plant-orb		actions	npc	Surok Magis
-Metamorph		actions	npc	Nid
-Choose		actions	npc	Tenoch
-Check-on		actions	npc	Man
-Stats		actions	npc	Worm Tongue
-Examine		actions	npc	
-Search		actions	object	Crate
-Enter		actions	object	Cave Entrance
-Open		actions	object	Door
-Inspect		actions	object	Broken multicannon
-Fire		actions	object	Dwarf multicannon
-Pick-up		actions	object	Dwarf multicannon
-Empty		actions	object	Dwarf multicannon
-Climb-down		actions	object	Ladder
-Climb-up		actions	object	Ladder
-Climb-over		actions	object	Rock pile
-Prod		actions	object	Sacks
-Pull		actions	object	Lever
-Go-through		actions	object	Gate
-Fish		actions	object	Fishing spot
-Squeeze-through		actions	object	Loose Railing
-Check		actions	object	Vine
-Pray-at		actions	object	Chaos altar
-Smash		actions	object	Giant crystal
-Hide-in		actions	object	Crate
-Take-from		actions	object	Beehive
-Cross		actions	object	Gangplank
-Knock-at		actions	object	Large door
-Search for traps		actions	object	Lever
-Shut		actions	object	Open chest
-Cook		actions	object	Cooking range
-Burst		actions	object	Party Balloon
-Jump-up		actions	object	Rocks
-Operate		actions	object	Winch
-Pick		actions	object	Potato
-Close		actions	object	Large open cupboard
-Play		actions	object	Church organ
-Use		actions	object	Crevice
-Peek		actions	object	Crevice
-Private		actions	object	Crevice
-Jump		actions	object	Broken Fence
-Steal-from		actions	object	Tea stall
-Take		actions	object	Small fishing net
-Exit		actions	object	Cave exit
-Suck		actions	object	Swamp bubbles
-Reset		actions	object	Shaking box
-Slash		actions	object	Web
-Weave		actions	object	Loom
-Attack		actions	object	Dummy
-Read		actions	object	Plaque
-Chop down		actions	object	Tree
-Push		actions	object	Wall
-Take-1		actions	object	Bandage table
-Take-5		actions	object	Bandage table
-Take-10		actions	object	Bandage table
-Commune		actions	object	Lever
-Board		actions	object	Log raft
-Swim to		actions	object	Rock
-Take treasure		actions	object	Chalice
-Climb		actions	object	Dead Tree
-Get in		actions	object	Barrel
-Chop		actions	object	Achey Tree
-Drink-from		actions	object	Cauldron
-Smelt		actions	object	Furnace
-Smith		actions	object	Anvil
-Hit		actions	object	Dummy
-Fill		actions	object	Crate
-Look-at		actions	object	Mound of earth
-Investigate		actions	object	Strange looking stone
-Craft		actions	object	Smashed table
-Disembark		actions	object	Crude raft
-Pay-fare		actions	object	Travel cart
-Listen-at		actions	object	Grill
-Pan		actions	object	Panning point
-Shoot		actions	object	Gnome goal
-Deposit		actions	object	Chest
-Climb-on		actions	object	Barrel
-Kick		actions	object	Loose panel
-Rotate		actions	object	Crane
-Walk-down		actions	object	Spooky stairs
-Walk-up		actions	object	Spooky stairs
-Repair		actions	object	Hole
-Walk-Down		actions	object	Stairs
-Walk-Up		actions	object	Stairs
-Mine		actions	object	Rock slide
-Look at		actions	object	Winch
-Cut		actions	object	Kharidian cactus (Healthy)
-Watch		actions	object	Mine door entrance
-Look-in		actions	object	Barrel
-Look in		actions	object	Barrel
-Collect		actions	object	Bank chest
-Climb-to		actions	object	Rock
-Climb down		actions	object	Rock
-Walk through		actions	object	Mine cave
-Walk-through		actions	object	Tent door
-Remove		actions	object	Hellhound
-Steal-From		actions	object	Counter
-Prospect		actions	object	Rock of Dalgroth
-Leave		actions	object	Cave exit
-Jump-Over		actions	object	Gap
-Turn		actions	object	Sewer valve
-Look-under		actions	object	Potted plant
-Step-into		actions	object	Sparkling pool
-Chop-down		actions	object	Jungle tree
-Touch		actions	object	Fire Wall
-search		actions	object	Desk
-Smash-to-bits		actions	object	Boulder
-Jump-over		actions	object	Jagged wall
-Look		actions	object	Carved rock
-Lift		actions	object	Totem pole
-Shake		actions	object	Leafy Palm Tree
-Cut down		actions	object	Arctic pine tree
-Forfeit		actions	object	Entrance
-Bank		actions	object	Open chest
-Buy		actions	object	Crate
-Pass-through		actions	object	Tunnel
-Descend		actions	object	Cave
-Ascend		actions	object	Cave
-Picklock		actions	object	Gate
-Fire-at		actions	object	Guide rope
-Unlock		actions	object	Locked Ogre chest
-Study		actions	object	Monument
-Take-cutting		actions	object	Budding branch
-Walk-on		actions	object	Balancing rope
-Walk-across		actions	object	Balancing ledge
-Swing-across		actions	object	Monkey bars
-Swing-on		actions	object	Rope swing
-Jump-on		actions	object	Pillar
-Tag		actions	object	Ticket Dispenser
-Climb-across		actions	object	Hand holds
-Toggle-warning		actions	object	Cave entrance
-Dump		actions	object	Compost Bin
-Step-over		actions	object	Tripwire
-Pass		actions	object	Sticks
-Reinforce		actions	object	Temple wall
-Light		actions	object	Fire altar
-Build		actions	object	Funeral Pyre
-Summon		actions	object	Strange altar
-Cut-branch		actions	object	Swaying tree
-Put-inside		actions	object	Pipe
-Spin		actions	object	Spinning wheel
-Capture		actions	object	Standard Stand
-Jump-to		actions	object	Stepping stone
-Collapse		actions	object	Cave wall
-Lock		actions	object	Door
-View		actions	object	Scoreboard
-View Stats		actions	object	Scoreboard
-Remove board advert		actions	object	Portal
-Remove-room		actions	object	Dungeon entrance
-Jump-across		actions	object	Basalt rock
-View-game		actions	object	Table
-Weed		actions	object	Herbs
-Jump off		actions	object	End of bridge
-Talk-to		actions	object	Awowogei
-Pick-lock		actions	object	Jail Door
-Steal from		actions	object	Crafting Stall
-Crawl-down		actions	object	Cart tunnel
-Crawl-through		actions	object	Cart tunnel
-Go-down		actions	object	Lift
-Go-up		actions	object	Lift
-Slide		actions	object	Slope
-Squeeze-past		actions	object	Stalagmite
-Wind		actions	object	Clock
-Dig		actions	object	Grave
-Pick-Lock		actions	object	Trapdoor
-Take-axe		actions	object	Logs
-Ring-bell		actions	object	Antiques Shop Stall
-Listen-to		actions	object	Shining pool
-Pick-from		actions	object	Thorny bushes
-Dig-up		actions	object	Mud
-Dig-below		actions	object	Roots
-Jump-through		actions	object	Wall of flame
-Take-beer		actions	object	Table
-Hide-behind		actions	object	Cactus
-Smoke		actions	object	Smokey well
-Look-into		actions	object	Mystical mirror
-Step-off		actions	object	Ice ledge
-Climb-through		actions	object	Hole
-Collect-from		actions	object	Weeping wall
-Sit-on		actions	object	Chair
-Upgrade		actions	object	Tools
-Work-at		actions	object	Workbench
-Make-helmet		actions	object	Helmet pluming stand
-Ring		actions	object	Bell
-Quick-board		actions	object	Swamp Boaty
-Ride		actions	object	Train cart
-Observe		actions	object	Telescope
-Leave-area		actions	object	Ladder
-Crack		actions	object	Wall safe
-Pull-spade		actions	object	Stone Door
-Guide		actions	object	Belladonna patch
-Rake		actions	object	Belladonna patch
-Cure		actions	object	Diseased Belladonna
-Clear		actions	object	Dead Belladonna
-Check-health		actions	object	Cadavaberry bush
-Prune		actions	object	Diseased cadavaberry bush
-Pick-spine		actions	object	Cactus
-Pick-fruit		actions	object	Calquat tree
-Gear		actions	object	Supplies
-Stats		actions	object	Supplies
-Standard spellbook		actions	object	Altar
-Ancient spellbook		actions	object	Altar
-Lunar spellbook		actions	object	Altar
-Arceuus spellbook		actions	object	Altar
-Pick-apple		actions	object	Apple tree
-Pick-pineapple		actions	object	Pineapple plant
-Pick-banana		actions	object	Banana tree
-Pick-leaf		actions	object	Curry tree
-Pick-orange		actions	object	Orange tree
-Pick-coconut		actions	object	Palm tree
-Harvest		actions	object	Asgarnian Hops
-Travel		actions	object	Spirit Tree
-Milk		actions	object	Dairy cow
-Steal-cowbell		actions	object	Dairy cow
-Dismantle		actions	object	Young tree
-Set-trap		actions	object	Young tree
-Release		actions	object	Gnome on a rack
-Level		actions	object	Kelda Stout
-Control		actions	object	Dwarven machinery
-Return		actions	object	Train cart
-Chip		actions	object	Dense runestone
-Hack		actions	object	Light Jungle
-Quick-Pay(100)		actions	object	Hardwood Grove Doors
-Refuel		actions	object	Stove
-Retrieve		actions	object	Bars
-Pedal		actions	object	Pedals
-Put-ore-on		actions	object	Conveyor belt
-Fill-bucket		actions	object	Sink
-Take-seed		actions	object	Roses
-Attach		actions	object	Ornate combat dummy
-Swap		actions	object	Ornate combat dummy
-Take-Coffin		actions	object	Grave
-Make		actions	object	Bed
-Net		actions	object	Fishing spot
-Ardougne		actions	object	Lever
-Edgeville		actions	object	Lever
-Swap-options		actions	object	Lever
-Talk to		actions	object	Tree
-Exchange		actions	object	Grand Exchange booth
-Lure		actions	object	Ominous Fishing Spot
-Bait		actions	object	Ominous Fishing Spot
-Fish-In		actions	object	Aquarium
-Count		actions	object	Pressure Barrel
-Swim		actions	object	River
-Look-up		actions	object	Trellis
-Spectate		actions	object	Rat wall
-Deposit-box		actions	object	Bank booth
-Grab		actions	object	Bones
-Remove-coal		actions	object	Coal Truck
-Take-sigil		actions	object	Pedestal
-Empty-Out		actions	object	Cannon
-Fire!		actions	object	Cannon
-Loot		actions	object	Crate
-Plunder		actions	object	Closed chest
-Ransack		actions	object	Barrel
-Count-plunder		actions	object	Plunder Storage
-Store-plunder		actions	object	Plunder Storage
-Take-powder		actions	object	Powder Barrel
-Waterproof		actions	object	Ship hull
-Balance		actions	object	Narrow wall
-Teeth-grip		actions	object	Zip line
-Drain		actions	object	Barrel
-Churn		actions	object	Dairy churn
-Zanaris		actions	object	Fairy ring
-Configure		actions	object	Fairy ring
-Last-destination (AIP)		actions	object	Fairy ring
-Escape		actions	object	Cave entrance
-Examine		actions	object	Healing certificate
-Shape-Canoe		actions	object	Canoe Station
-Float Log		actions	object	Canoe Station
-Float Canoe		actions	object	Canoe Station
-Paddle Log		actions	object	Canoe Station
-Paddle Canoe		actions	object	Canoe Station
-Look-inside		actions	object	Mole hill
-Buy-food		actions	object	Chest
-Buy-items		actions	object	Chest
-Quick-escape		actions	object	Door
-Pick-Fruit		actions	object	Sq'irk tree
-Stand-on		actions	object	Balance beam
-Get-down		actions	object	Balance beam
-Change-clothes		actions	object	Shoe box
-Preen		actions	object	Shaving stand
-Haircut		actions	object	Shaving stand
-Shave		actions	object	Shaving stand
-Pray		actions	object	Altar
-Re-light		actions	object	Incense burner
-Build-in		actions	object	Cage
-Force		actions	object	Door
-Activate		actions	object	Treasure Hunt Fairy House
-Set-up		actions	object	Attack stone
-Hoop		actions	object	Stick
-Throw-at		actions	object	Dartboard
-Shoot-at		actions	object	Archery target
-Karamja		actions	object	Amulet of Glory
-Draynor Village		actions	object	Amulet of Glory
-Al Kharid		actions	object	Amulet of Glory
-Take-kettle		actions	object	Firepit with hook
-Sleep-in		actions	object	Pet blanket
-Last-destination (AIS)		actions	object	Fairy ring
-Last-destination (AIR)		actions	object	Fairy ring
-Last-destination (AIQ)		actions	object	Fairy ring
-Direct-portal		actions	object	Scrying pool
-Scry		actions	object	Scrying pool
-Challenge-mode		actions	object	Lever
-Evade-event		actions	object	Path
-Continue-trek		actions	object	Path
-Swing-from		actions	object	Swamp tree branch
-Cut-vine		actions	object	Swamp tree
-Escape-event		actions	object	Boat
-Return-to-Burgh		actions	object	Path
-Remove-Pot		actions	object	Pot-boiler
-Remove-Bone		actions	object	Pot-boiler
-Jump-down		actions	object	Rocks
-Use-Driftwood		actions	object	Embers
-Climb-through (normal)		actions	object	Broken bars
-Climb-through (private)		actions	object	Broken bars
-Peek (normal)		actions	object	Broken bars
-Eat		actions	object	Food Pile
-Leap		actions	object	Gap
-Teleport to Destination		actions	object	Obelisk
-Set Destination		actions	object	Obelisk
-Hurdle		actions	object	Ledge
-Jump-off		actions	object	Edge
-Vault		actions	object	Pole-vault
-Jump-in		actions	object	Pile of fish
-Take-pickaxe		actions	object	Rocks
-Use-Lift		actions	object	Platform
-Take-Beam		actions	object	Crate
-Take-Pulley-Beam		actions	object	Crate
-Take-Rope		actions	object	Crate
-Swing Across		actions	object	Monkeybars
-Home		actions	object	Portal
-Build mode		actions	object	Portal
-Friend's house		actions	object	Portal
-Swing		actions	object	Rope
-Sit-On		actions	object	Piano stool
-Pick Nuts		actions	object	Tchiki Monkey Nut Bush
-Pick Banana		actions	object	Strange banana tree
-Throw		actions	object	Shot
-Unblock		actions	object	Tunnel
-Take-Rum		actions	object	Conveyor Belt
-Pump		actions	object	Steam Pump
-Vent		actions	object	Steam Pump
-Take-Log		actions	object	Log Store
-Take-Tool		actions	object	Workbench
-Cut-Down		actions	object	Jungle tree
-Pay-toll(2-Ecto)		actions	object	Energy Barrier
-Jump-To		actions	object	Rock
-Enter-cloud		actions	object	Cloud bank
-Listen		actions	object	Crevice
-Manoeuvre-past		actions	object	Tight-gap
-Climb-under		actions	object	Castle wall
-Climb-into		actions	object	Hole
-Jump-onto		actions	object	Stepping stone
-Press		actions	object	Zero
-Step-on		actions	object	Platform
-Worship		actions	object	Ectofuntus
-Status		actions	object	Bone grinder
-Talk-To		actions	object	Pirate Captain
-Admire		actions	object	Tall mirror
-Roll		actions	object	Dice
-Grapple		actions	object	Rocks
-Take-bowl		actions	object	Table
-Sing-crystal		actions	object	Singing bowl
-test		actions	object	Argento
-Crawl-under		actions	object	Wall
-Fix		actions	object	Bellows
-Bend		actions	object	Cell wall window
-Steal		actions	object	Candles
-Deactivate		actions	object	Magic box
-Trap		actions	object	Pit
-Flush		actions	object	Rabbit hole
-Shout-over		actions	object	Rockslide
-Pull-down		actions	object	Eagle lever
-Push-up		actions	object	Eagle lever
-Quick-start		actions	object	Ladder
-Reset-wave		actions	object	Door
-Dunk		actions	object	Lava crater
-Block		actions	object	Penance cave
-Demolish		actions	object	Penance cave
-Take-Arrows		actions	object	Attacker item machine
-Take-Runes		actions	object	Attacker item machine
-Stock-Up		actions	object	Defender item machine
-Take-Crackers		actions	object	Defender item machine
-Take-Tofu		actions	object	Defender item machine
-Take-Worms		actions	object	Defender item machine
-Take-Vial		actions	object	Healer item machine
-Take-Meat		actions	object	Healer item machine
-Call		actions	object	Horn of glory
-Get-Spikes		actions	object	Petrified mushroom
-Load		actions	object	Egg hopper
-Evade		actions	object	Trap
-Disable		actions	object	Trap
-Harpoon		actions	object	Fishing spot
-Cage		actions	object	Fishing spot
-Leave Tomb		actions	object	Tomb Door
-Quick-leave		actions	object	Tomb Door
-Tread-softly		actions	object	Icicles
-Convert		actions	object	Collector Converter
-Check for Snakes		actions	object	Urn
-Charm Snake		actions	object	Urn
-Cut-wood		actions	object	Woodcutting stump
-Cross-bridge		actions	object	Rope bridge
-Exit-cave		actions	object	Exit cavern
-Decapitate		actions	object	Ice Troll King
-Jump-from		actions	object	Stepping stone
-Peer-through		actions	object	Peephole
-Add-bottom		actions	object	Crate
-Return-to-Paterdomus		actions	object	Path
-Excavate		actions	object	Statue
-Quick Pass		actions	object	Flames
-Tamper		actions	object	Device
-Untie		actions	object	Zanik
-Walk-along		actions	object	Tunnel
-Swing across		actions	object	Monkeybars
-Animate		actions	object	Magical Animator
-Check Kudos		actions	object	Information booth
-Add finds		actions	object	Storage crate
-Clean		actions	object	Specimen table
-Talk-into		actions	object	Drain Pipe
-Wind-up		actions	object	Gramophone
-Turn-Off		actions	object	Gramophone
-Climb up		actions	object	Beard
-Exit-through		actions	object	Fire rift
-Push-through		actions	object	Magical wheat
-Dive in		actions	object	Whirlpool
-Construct		actions	object	Pyre site
-Rummage		actions	object	Skeleton
-Burn-down		actions	object	Boil
-Take From		actions	object	Barrel of flour
-Reach		actions	object	Vent
-Free		actions	object	King Arthur
-Break		actions	object	Smashed window
-Distract		actions	object	Eyes
-Drink		actions	object	Potion
-Store		actions	object	Super ranging potion
-Equip		actions	object	Anti-dragon shield
-Teleport		actions	object	Zamorak altar
-Tie-rope		actions	object	Rock
-Move		actions	object	Boulder
-Claim-staves		actions	object	Barrel
-Climb-off		actions	object	Ice bridge
-Crawl		actions	object	Cave
-Join		actions	object	Challenge portal
-Hammer		actions	object	Broken strut
-Toggle K/D		actions	object	Wilderness Statistics
-Make-raft		actions	object	Old log
-Weiss		actions	object	Portal Nexus
-Teleport Menu		actions	object	Portal Nexus
-Configuration		actions	object	Portal Nexus
-Toggle XP		actions	object	Deadman chest
-Take-X		actions	object	Meat table
-Serve		actions	object	Buffet table
-Water		actions	object	Golovanova seedling
-Bind		actions	object	Blood Altar
-Venerate		actions	object	Dark Altar
-Take-remains		actions	object	Kruk
-Scale		actions	object	Rocks
-Walk on		actions	object	Vine
-Look-in-all		actions	object	Hole
-Disarm		actions	object	Floor spikes
-Pass through		actions	object	Sliced web
-Gaze-into		actions	object	Burning brazier
-Reset-time		actions	object	Burning brazier
-Balance-across		actions	object	Steep roof
-Leave Cavern		actions	object	Inanimate Altar
-Story		actions	object	Juna
-Climb over		actions	object	Broken cart
-Claim		actions	object	Reward chest
-Add-House		actions	object	House Advertisement
-Visit-Last		actions	object	House Advertisement
-Cross-to		actions	object	Rock
-Setup		actions	object	Tip jar
-Jars		actions	object	Boss lair display
-Perks		actions	object	Mounted Max Cape
-Spellbook		actions	object	Mounted Magic Cape
-Clip		actions	object	Topiary bush
-Feed		actions	object	Burning brazier
-Take-hammer		actions	object	Crate
-Take-knife		actions	object	Crate
-Take-tinderbox		actions	object	Crate
-Take-concoction		actions	object	Crate
-Take-5 concoctions		actions	object	Crate
-Take-10 concoctions		actions	object	Crate
-Last-destination (ALP)		actions	object	Fairy ring
-Last-destination (ALS)		actions	object	Fairy ring
-Last-destination (ALR)		actions	object	Fairy ring
-Last-destination (ALQ)		actions	object	Fairy ring
-Last-destination (AKP)		actions	object	Fairy ring
-Last-destination (AKS)		actions	object	Fairy ring
-Last-destination (AKR)		actions	object	Fairy ring
-Last-destination (AKQ)		actions	object	Fairy ring
-Last-destination (AJP)		actions	object	Fairy ring
-Last-destination (AJS)		actions	object	Fairy ring
-Last-destination (AJR)		actions	object	Fairy ring
-Last-destination (AJQ)		actions	object	Fairy ring
-Last-destination (DIP)		actions	object	Fairy ring
-Last-destination (DIS)		actions	object	Fairy ring
-Last-destination (DIR)		actions	object	Fairy ring
-Last-destination (DIQ)		actions	object	Fairy ring
-Last-destination (DLP)		actions	object	Fairy ring
-Last-destination (DLS)		actions	object	Fairy ring
-Last-destination (DLR)		actions	object	Fairy ring
-Last-destination (DLQ)		actions	object	Fairy ring
-Last-destination (DKP)		actions	object	Fairy ring
-Last-destination (DKS)		actions	object	Fairy ring
-Last-destination (DKR)		actions	object	Fairy ring
-Last-destination (DKQ)		actions	object	Fairy ring
-Last-destination (DJP)		actions	object	Fairy ring
-Last-destination (DJS)		actions	object	Fairy ring
-Last-destination (DJR)		actions	object	Fairy ring
-Last-destination (DJQ)		actions	object	Fairy ring
-Last-destination (CIP)		actions	object	Fairy ring
-Last-destination (CIS)		actions	object	Fairy ring
-Last-destination (CIR)		actions	object	Fairy ring
-Last-destination (CIQ)		actions	object	Fairy ring
-Last-destination (CLP)		actions	object	Fairy ring
-Last-destination (CLS)		actions	object	Fairy ring
-Last-destination (CLR)		actions	object	Fairy ring
-Last-destination (CLQ)		actions	object	Fairy ring
-Last-destination (CKP)		actions	object	Fairy ring
-Last-destination (CKS)		actions	object	Fairy ring
-Last-destination (CKR)		actions	object	Fairy ring
-Last-destination (CKQ)		actions	object	Fairy ring
-Last-destination (CJP)		actions	object	Fairy ring
-Last-destination (CJS)		actions	object	Fairy ring
-Last-destination (CJR)		actions	object	Fairy ring
-Last-destination (CJQ)		actions	object	Fairy ring
-Last-destination (BIP)		actions	object	Fairy ring
-Last-destination (BIS)		actions	object	Fairy ring
-Last-destination (BIR)		actions	object	Fairy ring
-Last-destination (BIQ)		actions	object	Fairy ring
-Last-destination (BLP)		actions	object	Fairy ring
-Last-destination (BLS)		actions	object	Fairy ring
-Last-destination (BLR)		actions	object	Fairy ring
-Last-destination (BLQ)		actions	object	Fairy ring
-Last-destination (BKP)		actions	object	Fairy ring
-Last-destination (BKS)		actions	object	Fairy ring
-Last-destination (BKR)		actions	object	Fairy ring
-Last-destination (BKQ)		actions	object	Fairy ring
-Last-destination (BJP)		actions	object	Fairy ring
-Last-destination (BJS)		actions	object	Fairy ring
-Last-destination (BJR)		actions	object	Fairy ring
-Last-destination (BJQ)		actions	object	Fairy ring
-Tree		actions	object	Spiritual Fairy Tree
-Ring-Zanaris		actions	object	Spiritual Fairy Tree
-Ring-configure		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AIP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AIS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AIR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AIQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (ALP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (ALS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (ALR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (ALQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AKP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AKS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AKR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AKQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AJP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AJS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AJR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (AJQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DIP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DIS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DIR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DIQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DLP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DLS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DLR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DLQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DKP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DKS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DKR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DKQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DJP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DJS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DJR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (DJQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CIP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CIS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CIR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CIQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CLP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CLS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CLR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CLQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CKP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CKS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CKR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CKQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CJP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CJS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CJR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (CJQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BIP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BIS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BIR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BIQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BLP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BLS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BLR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BLQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BKP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BKS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BKR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BKQ)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BJP)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BJS)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BJR)		actions	object	Spiritual Fairy Tree
-Ring-last-destination (BJQ)		actions	object	Spiritual Fairy Tree
-Craft-rune		actions	object	Altar
-Fuel		actions	object	Brazier
-Dispel		actions	object	Shimmering barrier
-Shared		actions	object	Small storage unit
-Take Rake		actions	object	Old tools
-Take Spade		actions	object	Old tools
-Take Seed Dibber		actions	object	Old tools
-Pick-lots		actions	object	Gourd tree
-Quick-pass		actions	object	Mystical barrier
-Coffer		actions	object	Furnace
-Quick-exit		actions	object	Cave exit
-Travel to platform		actions	object	Row boat
-Leave platform		actions	object	Row boat
-Check count		actions	object	Rock
-Toggle warning		actions	object	Rock
-Seeds		actions	object	Birdhouse (empty)
-Interact		actions	object	Birdhouse
-Inject		actions	object	Sulliuscep
-Jump on		actions	object	Rubber cap mushroom
-Navigate		actions	object	Obstacle
-Climb Down		actions	object	Trap Door
-Climb Up		actions	object	Rope anchor
-Dive		actions	object	Rowboat
-Build on		actions	object	Ring of Stones
-Take tools		actions	object	Crate
-Set up		actions	object	Drift net anchors
-Take down		actions	object	Drift net anchors
-Pick up		actions	object	Pile of Fishbowls
-Pay		actions	object	Volcano Entrance
-Feel		actions	object	Gas hole
-Add to		actions	object	Large Fossil Support
-Climb through		actions	object	Hole
-Teleport to destination		actions	object	Obelisk
-Set destination		actions	object	Obelisk
-Jump to		actions	object	Pillar
-Preferences		actions	object	Log storage
-Absorb		actions	object	Energy Sphere
-Reminisce		actions	object	Pool of Dreams
-Nets		actions	object	Annette
-Ancient		actions	object	Altar of the Occult
-Lunar		actions	object	Altar of the Occult
-Arceuus		actions	object	Altar of the Occult
-Standard		actions	object	Altar of the Occult
-Recharge-jewellery		actions	object	Totem Pole
-Douse		actions	object	Fire
-Heal		actions	object	Fremennik warrior
-Complete		actions	object	Incomplete map
-Check-Count		actions	object	Gate
-Clamber		actions	object	Rock Pile
-Look-through		actions	object	Window
-Charge-at		actions	object	Vyre well
-Quick-enter		actions	object	Door
-Resign		actions	object	Vyre Orator
-Varrock		actions	object	Varrock Portal
-Grand Exchange		actions	object	Varrock Portal
-Toggle		actions	object	Varrock Portal
-Camelot		actions	object	Camelot Portal
-Seers' Village		actions	object	Camelot Portal
-Watchtower		actions	object	Yanille Watchtower Portal
-Yanille		actions	object	Yanille Watchtower Portal
-Quick-Enter		actions	object	Formidable passage
-Iceberg		actions	object	Boat
-Lumbridge		actions	object	Portal Nexus
-Falador		actions	object	Portal Nexus
-Senntisten		actions	object	Portal Nexus
-Marim		actions	object	Portal Nexus
-Kharyrll		actions	object	Portal Nexus
-Lunar Isle		actions	object	Portal Nexus
-Great Kourend		actions	object	Portal Nexus
-Waterbirth Island		actions	object	Portal Nexus
-Fishing Guild		actions	object	Portal Nexus
-Annakarl		actions	object	Portal Nexus
-Troll Stronghold		actions	object	Portal Nexus
-Look out		actions	object	Xeric's Talisman
-Teleport menu		actions	object	Xeric's Talisman
-Glade		actions	object	Xeric's Talisman
-Inferno		actions	object	Xeric's Talisman
-Heart		actions	object	Xeric's Talisman
-Honour		actions	object	Xeric's Talisman
-Digsite		actions	object	Digsite Pendant
-Fossil Island		actions	object	Digsite Pendant
-Lithkren		actions	object	Digsite Pendant
-Catherby		actions	object	Portal Nexus
-Ghorrock		actions	object	Portal Nexus
-Carrallanger		actions	object	Portal Nexus
-Ancients		actions	object	Supplies
-Start		actions	object	Steam Generator
-Align		actions	object	Power Grid
-Fill-jug		actions	object	Coolant Dispenser
-Cleanse		actions	object	Refinery
-Rebalance		actions	object	Energy Pylon
-Pick-dragonfruit		actions	object	Dragonfruit tree
-Crawl through		actions	object	Tunnel
-Quick-open		actions	object	Alchemical door
-Take-rock		actions	object	Rubble
-Quick-Exit		actions	object	Ancient Fire
-Check-Faith		actions	object	Sacred Bone Burner
-Enter-crypt		actions	object	Thick Web
-Follow		actions	object	Tracks
-Fill-from		actions	object	Water Pump
-Channel		actions	object	Teleport Platform
-Enter-corrupted		actions	object	The Gauntlet
-Refine		actions	object	Furnace
-Imbue		actions	object	Altar
-Emir's Arena		actions	object	Basic Jewellery Box
-Castle Wars		actions	object	Basic Jewellery Box
-Ferox Enclave		actions	object	Basic Jewellery Box
-Burthorpe		actions	object	Basic Jewellery Box
-Barbarian Outpost		actions	object	Basic Jewellery Box
-Corporeal Beast		actions	object	Basic Jewellery Box
-Tears of Guthix		actions	object	Basic Jewellery Box
-Wintertodt Camp		actions	object	Basic Jewellery Box
-Warriors' Guild		actions	object	Fancy Jewellery Box
-Champions' Guild		actions	object	Fancy Jewellery Box
-Monastery		actions	object	Fancy Jewellery Box
-Ranging Guild		actions	object	Fancy Jewellery Box
-Mining Guild		actions	object	Fancy Jewellery Box
-Crafting Guild		actions	object	Fancy Jewellery Box
-Cooking Guild		actions	object	Fancy Jewellery Box
-Woodcutting Guild		actions	object	Fancy Jewellery Box
-Farming Guild		actions	object	Fancy Jewellery Box
-Miscellania		actions	object	Ornate Jewellery Box
-Falador Park		actions	object	Ornate Jewellery Box
-Dondakan's Rock		actions	object	Ornate Jewellery Box
-Draynor Manor		actions	object	Portal Nexus
-Battlefront		actions	object	Portal Nexus
-Mind Altar		actions	object	Portal Nexus
-Salve Graveyard		actions	object	Portal Nexus
-Fenkenstrain's Castle		actions	object	Portal Nexus
-West Ardougne		actions	object	Portal Nexus
-Harmony Island		actions	object	Portal Nexus
-Cemetery		actions	object	Portal Nexus
-Barrows		actions	object	Portal Nexus
-Ape Atoll Dungeon		actions	object	Portal Nexus
-Destroy		actions	object	Lab table
-Stamp-out		actions	object	Magical Fire
-Continue		actions	object	Path
-Climp-up		actions	object	Stairs
-Check-statistics (Personal)		actions	object	Noticeboard
-Check-statistics (Global)		actions	object	Noticeboard
-Sacrifice		actions	object	Saradomin Brazier
-Walk-over		actions	object	Bridge
-Conjure		actions	object	Portal frame
-Search-for-traps		actions	object	Coffin
-Pass-Through		actions	object	Casual
-Cut-foot		actions	object	Dead sourhog
-Take-candy		actions	object	Magical pumpkin
-Jump-Down		actions	object	Crevice
-Channel (Asgarnia)		actions	object	Waystone
-Channel (Misthalin)		actions	object	Waystone
-Channel (Kandarin)		actions	object	Waystone
-Channel (Fremennik)		actions	object	Waystone
-Channel (Kharidian Desert)		actions	object	Waystone
-Channel (Morytania)		actions	object	Waystone
-Channel (Tirannwn)		actions	object	Waystone
-Channel (Karamja)		actions	object	Waystone
-Channel (Wilderness)		actions	object	Waystone
-Slayer		actions	object	Kings' ladder
-Open (normal)		actions	object	Big door
-Open (private)		actions	object	Big door
-Climb-down (normal)		actions	object	Tunnel entrance
-Climb-down (private)		actions	object	Tunnel entrance
-Sacrifice-fragments		actions	object	Soul Obelisk
-Remove-decorations		actions	object	Christmas curtains
-Untether		actions	object	Mast
-Tether		actions	object	Mast
-Remove-trophy		actions	object	Trophy pedestal
-View-trophies		actions	object	Oak trophy case
-Remove-banner		actions	object	Banner stand
-Remove-outfit		actions	object	Oak outfit stand
-Spin-globe		actions	object	Trailblazer globe
-League-statistics		actions	object	League Accomplishment Scroll
-League-rankings		actions	object	League Accomplishment Scroll
-League-firsts		actions	object	League Accomplishment Scroll
-Cook-at		actions	object	Shrine
-Big-search		actions	object	Reward pool
-Quick-climb		actions	object	Rope ladder
-Solo-start		actions	object	Rope ladder
-Arceuus Library		actions	object	Portal Nexus
-Prepare-fish		actions	object	Preparation Table
-Offer-fish		actions	object	Altar
-Entertain		actions	object	Piano
-Play-quietly		actions	object	Piano
-Background-music		actions	object	Piano
-Enter-member		actions	object	Clan hall portal
-Enter-guest		actions	object	Clan hall portal
-Pet		actions	object	Cat
-Pass (normal)		actions	object	Ancient Barrier
-Pass (private)		actions	object	Ancient Barrier
-Adjust		actions	object	Machine
-Say-name		actions	object	Grave
-Deposit-runes		actions	object	Deposit Pool
-Deposit-items		actions	object	Deposit Pool
-Visual-effects		actions	object	Barrier
-Toggle-talisman		actions	object	Guardian of Air
-Assemble		actions	object	Essence pile (elemental)
-Take-chisel		actions	object	Weak cells
-Place-cell		actions	object	Inactive cell tile
-Exit-through (Kourend)		actions	object	Blood rift
-Pay-toll(10gp)		actions	object	Gate
-Pour		actions	object	Crucible (full)
-Heat-preform		actions	object	Lava pool
-Dunk-preform		actions	object	Lava pool
-Cool-preform		actions	object	Waterfall
-Quench-preform		actions	object	Waterfall
-Store-preform		actions	object	Preform storage
-Take-preform		actions	object	Preform storage
-Rank		actions	object	Arena recruitment board
-Quick-use		actions	object	Staging area steps
-Quick-Pass		actions	object	Barrier
-Flip		actions	object	Pressure plate
-Rotate-clockwise		actions	object	Mirror
-Rotate-anticlockwise		actions	object	Mirror
-Deposit-pickaxe		actions	object	Statue
-Quick-Use		actions	object	Teleport crystal
-Quick-Board		actions	object	Sacrificial boat
-Check-permissions		actions	object	Chest
-Pickup		actions	object	Gingerbread
-Check-times		actions	object	Santa's log
-Push-against		actions	object	Wall
-Check-Fee		actions	object	Crevice
-Peer-into		actions	object	Prifddinas Display
-Release-bees		actions	object	Beehive
-Add-mulch		actions	object	Struggling sapling
-Read (Awakened)		actions	object	Scoreboard
-Attach-rope		actions	object	Rock
-Climb-rope		actions	object	Rock
-Build-barricade		actions	object	Surface
-Take-supplies		actions	object	Stone chest
-Lockpick		actions	object	Stone chest (locked)
-Burn		actions	object	Shipwreck
-Burn`		actions	object	Gunpowder
-Withdraw		actions	object	Extract orifice
-Tend-to		actions	object	Forester's Campfire
-Rest		actions	object	Forester's Campfire
-Retrieve-egg		actions	object	Pheasant Nest
-Revert		actions	object	Fiery Ornate Pool of Rejuvenation
-Channel (Great Kourend)		actions	object	Waystone
-Travel-End		actions	object	Portal
-Travel-Start		actions	object	Portal
-Reload		actions	object	Steps
-Collect-reward		actions	object	Table
-Look-over		actions	object	Balcony
-Civitas illa Fortis		actions	object	Portal Nexus
-Fortis Colosseum		actions	object	Basic Jewellery Box
-View-stats		actions	object	Colosseum scoreboard
-View-glory		actions	object	Colosseum scoreboard
-Sabotage		actions	object	Lily pad
-Plant-evidence		actions	object	Capybara Dung
-Rustle		actions	object	Bush
-Make-cuppa		actions	object	Cooking stove
-Align-net		actions	object	Stream
-Take-from Fishing		actions	object	Supply crates
-Take-from Hunting		actions	object	Supply crates
-Take-from Herblore		actions	object	Supply crates
-Take-log		actions	object	Roots
-Bask		actions	object	Shrine of Ralos
-Cimb-down		actions	object	Open trapdoor
-Bless		actions	object	Exposed altar
-Deposit-eggs		actions	object	Easter mine cart
-Redeem		actions	object	Agility dispenser
-Squeeze-Through		actions	object	Crevice
-Jump-Across		actions	object	Dry stone wall
-Cross-over		actions	object	Broken wall
-Take-many		actions	object	Medical box
-Slide-along		actions	object	Icy ledge
-Take-uniform		actions	object	Wardrobe
-Concentrate-potion		actions	object	Retort
-Homogenise-potion		actions	object	Agitator
-Crystalise-potion		actions	object	Alembic
-Fulfil-order		actions	object	Conveyor belt
-Fight-privately		actions	object	Meeting flag
-Leave-group		actions	object	Meeting flag (private)
-Quick-slide		actions	object	Slope
-Change		actions	object	Scarecrow
-Plant		actions	object	Pumpkin patch
-Carve-pumpkin		actions	object	Pumpkin carving table
-Walk-to		actions	object	Blue tile
-Channel (Varlamore)		actions	object	Waystone
-Follow		actions	player	
-Trade with		actions	player	
-Lookup		actions	player	
-Equipment		actions	player	
-Report		actions	player	
+Shoot	Стрелять	actions	npc	Target
+Shop	Покупать	actions	npc	Ezekial Lovecraft
+Board	Пришвартоваться	actions	npc	Ogre boat
+Potions	Приготовить зелья	actions	npc	Apothecary
+Grab-feather	Схватить перо	actions	npc	Desert Phoenix
+Take-from	Взять из	actions	npc	Jig cart
+Coffer	Открыть сундук	actions	npc	Yohnus
+Attract	Привлечь	actions	npc	Light creature
+Call-Over	Подозвать	actions	npc	Zombie
+Insult	Оскорбить	actions	npc	Zombie
+Scare	Испугать	actions	npc	Zombie
+Skin	Снять шкуру	actions	npc	Swamp snake
+Burn	Сжечь	actions	npc	Barricade
+Extinguish	Потушить	actions	npc	Barricade
+Quick-withdraw	Быстро извлечь	actions	npc	Elnock Inquisitor
+Check-gates	Проверить ворота	actions	npc	Wandering impling
+Sand	Собрать песок	actions	npc	Bert
+Request-supplies	Запросить припасы	actions	npc	Bork Sigmundson
+Sew	Шить	actions	npc	Patchy
+Check	Проверить	actions	npc	Probita
+View Laps	Просмотреть круги	actions	npc	Grace
+Toggle Counter	Переключить счетчик	actions	npc	Grace
+Tap	Нажать	actions	npc	Skullball
+Show-Goal	Показать цель	actions	npc	Skullball
+Give-Stick	Дать палку	actions	npc	Agility Trainer
+Waterbirth Island	Отправиться на остров Водорождения	actions	npc	Jarvald
+Take-flyer	Взять флаер	actions	npc	Ali the Leaflet Dropper
+Trade-with	Торговать с	actions	npc	Rewards Guardian
+Trade-Co-op	Торговать в кооперативе	actions	npc	Gabooty
+Trade-Drinks	Торговать напитками	actions	npc	Gabooty
+Send-parcel	Отправить посылку	actions	npc	Rionasta
+Peek	Подглядеть	actions	npc	Eye
+Deposit-box	Положить в ячейку	actions	npc	Financial Seer
+Move	Переместить	actions	npc	Boulder
+Log-storage	Проверить хранилище бревен	actions	npc	Friendly Forester
+Claim Sand	Забрать песок	actions	npc	Drew
+Deposit buckets	Положить ведра	actions	npc	Drew
+Toggle warnings	Переключать предупреждения	actions	npc	Doomsayer
+Remove PvP Protection	Снять защиту от PvP	actions	npc	Doomsayer
+Observe	Наблюдать	actions	npc	Maze Guardian
+New-maze	Новый лабиринт	actions	npc	Maze Guardian
+Maxhit Variant	Вариант Maxhit	actions	npc	Combat Test
+Kill-count	Считать убийства	actions	npc	Soldier
+Canyon-count (east)	Считать каньоны (восток)	actions	npc	Soldier
+Canyon-count (west)	Считать каньоны (запад)	actions	npc	Soldier
+Pay (north-east)	Платить (северо-восток)	actions	npc	Marisi
+Pay (south-west)	Платить (юго-запад)	actions	npc	Marisi
+Task	Выполнить задачу	actions	npc	Captain Khaled
+Help	Помочь	actions	npc	Villia
+Spellbook	Открыть книгу заклинаний	actions	npc	Tyss
+Climb-on	Забраться	actions	npc	Stunted demonic gorilla
+Glider	Планировать	actions	npc	Captain Shoracks
+Watermill	Построить водяную мельницу	actions	npc	Mistag
+Join	Присоединиться	actions	npc	Lisa
+Locking	Запереть	actions	npc	Rift guardian
+Check Scores	Проверить счёт	actions	npc	Captain Kalt
+Contract	Заключить договор	actions	npc	Amy
+Last-tier contract	Заключить контракт последнего уровня	actions	npc	Amy
+Port Sarim	Отправиться в Порт Сарим	actions	npc	Captain Magoro
+Port Piscarilius	Отправиться в Порт Пискарилиус	actions	npc	Captain Magoro
+Feed	Кормить	actions	npc	Lux grub
+Douse	Облить	actions	npc	Fire
+Cut	Рубить	actions	npc	Meat tree
+Smash	Разбить	actions	npc	Jewelled Crab
+Claim-cape	Получить плащ	actions	npc	Captain Rimor
+Set-difficulty	Установить сложность	actions	npc	Captain Rimor
+Fight	Сражаться	actions	npc	Abigale
+Bars	Подтянуться	actions	npc	Pirate Jackie the Fruit
+Toggle-minerals	Переключать минералы	actions	npc	Belona
+Kitten	Погладить котёнка	actions	npc	Gertrude
+Toggle-vials	Переключать флаконы	actions	npc	Barbarian guard
+Redeem-code	Активировать код	actions	npc	Recruiter
+Purchase Amulet	Купить амулет	actions	npc	Wizard Mizgog
+Staves	Использовать посохи	actions	npc	Dark Mage
+Deboard	Сойти с борта	actions	npc	Barge guard
+Toggle Fossils	Переключать окаменелости	actions	npc	Peter
+Poke	Ткнуть	actions	npc	Bobbing fossil
+Training	Тренироваться	actions	npc	Mairin
+Harvest	Собирать урожай	actions	npc	Herbiboar
+Stun	Оглушить	actions	npc	Hoop Snake
+Murder	Убить	actions	npc	Conrad King
+Challenge	Бросить вызов	actions	npc	The Mimic
+Quick-Travel	Быстро переместиться	actions	npc	Barge guard
+Escape	Сбежать	actions	npc	Brundt the Chieftain
+Scry	Гадать	actions	npc	Abigaila
+Claim Pet Rock	Забрать питомца-камень	actions	npc	Askeladden
+Standard Variant	Выбрать стандартный вариант	actions	npc	Combat Test (maxhit)
+Get-log	Получить бревно	actions	npc	The Collector
+Count-log	Подсчитать бревна	actions	npc	The Collector
+Get bird	Поймать птицу	actions	npc	Alry the Angler
+Pay (Fruit tree)	Платить (фруктовое дерево)	actions	npc	Nikkie
+Pay (tree patch)	Платить (участок дерева)	actions	npc	Rosie
+Pay (Redwood tree)	Платить (красное дерево)	actions	npc	Alexandra
+Pay (Spirit tree)	Платить (духовное дерево)	actions	npc	Latlink Fastbell
+Swap	Обменять	actions	npc	Ornate combat dummy
+Pay (Celastrus tree)	Платить (целастровое дерево)	actions	npc	Taylor
+Land's End	Отправиться на Край света	actions	npc	Veos
+Join Castle Wars	Присоединиться к Войнам замков	actions	npc	Saradominist recruiter
+Holiday-items	Получить праздничные предметы	actions	npc	Diango
+Tan-hides	Дубить шкуры	actions	npc	Eodan
+Ardougne	Отправиться в Ардун	actions	npc	Captain Barnaby
+Brimhaven	Отправиться в Бримхейвен	actions	npc	Captain Barnaby
+Rimmington	Отправиться в Риммингтон	actions	npc	Captain Barnaby
+Enchant	Зачаровать	actions	npc	Eluned
+Quick-escape	Быстро сбежать	actions	npc	Elena
+Investigate	Исследовать	actions	npc	Elderly Elf
+Fix-exoskeleton	Починить экзоскелет	actions	npc	Elderly Elf
+Chop down	Срубить	actions	npc	Tree
+Sing	Петь	actions	npc	Reese
+Statistics	Просмотреть статистику	actions	npc	Ystwyth
+Repair	Починить	actions	npc	Aneirin
+Open Adventure Paths	Открыть пути приключений	actions	npc	Adventurer Jon
+Island of Stone	Отправиться на Каменный остров	actions	npc	Haskell
+Charter	Зафрахтовать	actions	npc	Trader Stan
+Charter-to Brimhaven	Зафрахтовать в Бримхейвен	actions	npc	Trader Stan
+Charter-to Catherby	Зафрахтовать в Катерби	actions	npc	Trader Stan
+Charter-to Mos Le'Harmless	Зафрахтовать в Мос Ле'Хармлесс	actions	npc	Trader Stan
+Charter-to Musa Point	Зафрахтовать до Муса-Пойнт	actions	npc	Trader Stan
+Charter-to Port Khazard	Зафрахтовать в Порт Хазард	actions	npc	Trader Stan
+Charter-to Port Phasmatys	Зафрахтовать в Порт Фазматис	actions	npc	Trader Stan
+Charter-to Port Sarim	Зафрахтовать в Порт Сарим	actions	npc	Trader Stan
+Charter-to Shipyard	Зафрахтовать на верфь	actions	npc	Trader Stan
+Charter-to Corsair Cove	Зафрахтовать в Корсарскую бухту	actions	npc	Trader Stan
+Charter-to Prifddinas	Зафрахтовать в Прифеддинас	actions	npc	Trader Stan
+Charter-to Port Tyras	Зафрахтовать в Порт Тирас	actions	npc	Trader Stan
+Charge	Зарядить	actions	npc	Totem
+Spectate	Наблюдать	actions	npc	The Nightmare
+Convert-shards	Преобразовать осколки	actions	npc	Noranna Tytanin
+Loot	Собрать добычу	actions	npc	Grave
+Lap-count	Подсчитать круги	actions	npc	Bobawu
+Value	Оценить	actions	npc	Skully
+Settings	Настроить	actions	npc	Skully
+Ungael	Отправиться в Негаэль	actions	npc	Torfinn
+Glider-to Ta Quir Priw	Планировать до Та Квир Прив	actions	npc	Gnormadium Avlafrim
+Glider-to Gandius	Планировать до Гандиуса	actions	npc	Gnormadium Avlafrim
+Glider-to Kar-Hewo	Планировать до Кар-Хево	actions	npc	Gnormadium Avlafrim
+Glider-to Lemanto Andra	Планировать до Леманто Андра	actions	npc	Gnormadium Avlafrim
+Glider-to Sindarpos	Планировать до Синдарпоса	actions	npc	Gnormadium Avlafrim
+Glider-to Ookookolly Undri	Планировать до Оокооколли Ундри	actions	npc	Gnormadium Avlafrim
+Glider-to Lemantolly Undri	Планировать до Лемантолли Ундри	actions	npc	Captain Dalbur
+Other-services	Другие услуги	actions	npc	Thessalia
+Leave-tutorial	Покинуть обучение	actions	npc	Nomad
+Fill	Заполнить	actions	npc	Ammunition crate
+Check-ammo	Проверить боезапас	actions	npc	Ammunition crate
+Forfeit	Сдаться	actions	npc	Captain Pudi
+Locks	Замки	actions	npc	Dampe
+Take-net	Взять сеть	actions	npc	Spirit Angler
+Ferry	Переправиться	actions	npc	Ferryman Sathwood
+Awaken	Пробудить	actions	npc	Rubble
+Items	Предметы	actions	npc	Clerk
+Buy-sphere	Купить сферу	actions	npc	Oldak
+Power-up	Усилить	actions	npc	The Great Guardian
+Buy-crystals	Купить кристаллы	actions	npc	Rick
+Quick-lock	Быстро зафиксировать	actions	npc	Apprentice Tamara
+Strike	Ударить	actions	npc	Hill Giant
+Hand-in	Сдать	actions	npc	Kovac
+Commission	Получить задание	actions	npc	Kovac
+Talk	Поговорить	actions	npc	Hannibal
+Proceed	Продолжить	actions	npc	Osmumten
+Begin	Начать	actions	npc	Osmumten
+Water	Полить	actions	npc	Palm of Resourcefulness
+Check-costume	Проверить костюм	actions	npc	Costumed child
+Trick-or-treat	Кошелёк или жизнь	actions	npc	Generous Treater
+Scare-away	Отпугнуть	actions	npc	Spooky dog
+Tend-to	Ухаживать	actions	npc	Flowering bush (Lilac)
+Emote	Выразить эмоции	actions	npc	Wisp
+Deposit	Положить	actions	npc	Woodcutting Leprechaun
+Cast	Применить	actions	npc	Fishing spot
+Reset-room	Сбросить комнату	actions	npc	Cerebral pathfinder
+Take-lure	Взять приманку	actions	npc	Light leech
+Build	Построить	actions	npc	Unfinished Beehive
+Disarm	Обезвредить	actions	npc	Fox trap
+Prune	Обрезать	actions	npc	Entling
+Prune-top	Обрезать верх	actions	npc	Entling
+Prune-back	Обрезать низ	actions	npc	Entling
+Prune-sides	Обрезать бока	actions	npc	Entling
+Listen	Слушать	actions	npc	Key Master
+Charter-to Port Piscarilius	Зафрахтовать в Порт Пискарилиус	actions	npc	Trader Stan
+Charter-to Land's End	Зафрахтовать на Край света	actions	npc	Trader Stan
+Mark	Отметить	actions	npc	Guard
+Unmark	Снять отметку	actions	npc	Guard
+Charter-to Civitas illa Fortis	Зафрахтовать в Civitas illa Fortis	actions	npc	Trader Stan
+Charter-to Aldarin	Зафрахтовать в Алдарин	actions	npc	Trader Stan
+Charter-to Sunset Coast	Зафрахтовать на Сансет-Кост	actions	npc	Trader Stan
+Charter-to Tempestus	Зафрахтовать в Темпестус	actions	npc	Trader Stan
+Start-wave	Начать волну	actions	npc	Minimus
+Scoreboard	Табло	actions	npc	Eyatlalli
+Rumour	Распространить слух	actions	npc	Huntmaster Gilman (Novice)
+Rumour-settings	Настройки слухов	actions	npc	Guild Scribe Verity
+Fur-clothing	Меховая одежда	actions	npc	Pellem
+Recharge-whistle	Перезарядить свисток	actions	npc	Soar Leader Pitri
+Trade-in	Обменять	actions	npc	Oriana
+Last-destination	Последний пункт назначения	actions	npc	Renu
+Plant-orb	Посадить шар	actions	npc	Surok Magis
+Metamorph	Превратить	actions	npc	Nid
+Choose	Выбрать	actions	npc	Tenoch
+Check-on	Проверить	actions	npc	Man
+Stats	Статистика	actions	npc	Worm Tongue
+Examine	Осмотреть	actions	npc	
+Search	Искать	actions	object	Crate
+Enter	Войти	actions	object	Cave Entrance
+Open	Открыть	actions	object	Door
+Inspect	Проверить	actions	object	Broken multicannon
+Fire	Поджечь	actions	object	Dwarf multicannon
+Pick-up	Поднять	actions	object	Dwarf multicannon
+Empty	Опустошить	actions	object	Dwarf multicannon
+Climb-down	Спуститься	actions	object	Ladder
+Climb-up	Подняться	actions	object	Ladder
+Climb-over	Перелезть	actions	object	Rock pile
+Prod	Ткнуть	actions	object	Sacks
+Pull	Потянуть	actions	object	Lever
+Go-through	Пройти	actions	object	Gate
+Fish	Ловить рыбу	actions	object	Fishing spot
+Squeeze-through	Просочиться	actions	object	Loose Railing
+Check	Проверить	actions	object	Vine
+Pray-at	Молиться	actions	object	Chaos altar
+Smash	Разбить	actions	object	Giant crystal
+Hide-in	Спрятаться	actions	object	Crate
+Take-from	Взять	actions	object	Beehive
+Cross	Пересечь	actions	object	Gangplank
+Knock-at	Постучать	actions	object	Large door
+Search for traps	Искать ловушки	actions	object	Lever
+Shut	Закрыть	actions	object	Open chest
+Cook	Готовить	actions	object	Cooking range
+Burst	Взорвать	actions	object	Party Balloon
+Jump-up	Подпрыгнуть	actions	object	Rocks
+Operate	Управлять	actions	object	Winch
+Pick	Выбрать	actions	object	Potato
+Close	Закрыть	actions	object	Large open cupboard
+Play	Играть	actions	object	Church organ
+Use	Использовать	actions	object	Crevice
+Peek	Подглядеть	actions	object	Crevice
+Private	Частный	actions	object	Crevice
+Jump	Прыгнуть	actions	object	Broken Fence
+Steal-from	Украсть	actions	object	Tea stall
+Take	Взять	actions	object	Small fishing net
+Exit	Выйти	actions	object	Cave exit
+Suck	Всосать	actions	object	Swamp bubbles
+Reset	Сбросить	actions	object	Shaking box
+Slash	Рубить	actions	object	Web
+Weave	Ткать	actions	object	Loom
+Attack	Атаковать	actions	object	Dummy
+Read	Прочитать	actions	object	Plaque
+Chop down	Срубить	actions	object	Tree
+Push	Толкнуть	actions	object	Wall
+Take-1	Взять 1	actions	object	Bandage table
+Take-5	Взять 5	actions	object	Bandage table
+Take-10	Взять 10	actions	object	Bandage table
+Commune	Общаться	actions	object	Lever
+Board	Взойти на борт	actions	object	Log raft
+Swim to	Плыть к	actions	object	Rock
+Take treasure	Взять сокровище	actions	object	Chalice
+Climb	Забраться	actions	object	Dead Tree
+Get in	Залезть внутрь	actions	object	Barrel
+Chop	Рубить	actions	object	Achey Tree
+Drink-from	Пить из	actions	object	Cauldron
+Smelt	Плавить	actions	object	Furnace
+Smith	Ковать	actions	object	Anvil
+Hit	Ударить	actions	object	Dummy
+Fill	Заполнить	actions	object	Crate
+Look-at	Посмотреть на	actions	object	Mound of earth
+Investigate	Исследовать	actions	object	Strange looking stone
+Craft	Создавать	actions	object	Smashed table
+Disembark	Сойти с борта	actions	object	Crude raft
+Pay-fare	Оплатить проезд	actions	object	Travel cart
+Listen-at	Слушать	actions	object	Grill
+Pan	Промывать	actions	object	Panning point
+Shoot	Стрелять	actions	object	Gnome goal
+Deposit	Положить	actions	object	Chest
+Climb-on	Забраться	actions	object	Barrel
+Kick	Пнуть	actions	object	Loose panel
+Rotate	Повернуть	actions	object	Crane
+Walk-down	Спуститься	actions	object	Spooky stairs
+Walk-up	Подняться	actions	object	Spooky stairs
+Repair	Починить	actions	object	Hole
+Walk-Down	Спуститься	actions	object	Stairs
+Walk-Up	Подняться	actions	object	Stairs
+Mine	Добывать	actions	object	Rock slide
+Look at	Смотреть на	actions	object	Winch
+Cut	Резать	actions	object	Kharidian cactus (Healthy)
+Watch	Смотреть	actions	object	Mine door entrance
+Look-in	Заглянуть внутрь	actions	object	Barrel
+Look in	Заглянуть внутрь	actions	object	Barrel
+Collect	Собрать	actions	object	Bank chest
+Climb-to	Забраться на	actions	object	Rock
+Climb down	Спуститься	actions	object	Rock
+Walk through	Пройти через	actions	object	Mine cave
+Walk-through	Пройти через	actions	object	Tent door
+Remove	Убрать	actions	object	Hellhound
+Steal-From	Украсть у	actions	object	Counter
+Prospect	Исследовать	actions	object	Rock of Dalgroth
+Leave	Покинуть	actions	object	Cave exit
+Jump-Over	Перепрыгнуть	actions	object	Gap
+Turn	Повернуть	actions	object	Sewer valve
+Look-under	Заглянуть под	actions	object	Potted plant
+Step-into	Шагнуть внутрь	actions	object	Sparkling pool
+Chop-down	Срубить	actions	object	Jungle tree
+Touch	Прикоснуться	actions	object	Fire Wall
+search	Искать	actions	object	Desk
+Smash-to-bits	Разбить вдребезги	actions	object	Boulder
+Jump-over	Перепрыгнуть	actions	object	Jagged wall
+Look	Смотреть	actions	object	Carved rock
+Lift	Поднять	actions	object	Totem pole
+Shake	Трясти	actions	object	Leafy Palm Tree
+Cut down	Срубить	actions	object	Arctic pine tree
+Forfeit	Сдаться	actions	object	Entrance
+Bank	Банк	actions	object	Open chest
+Buy	Купить	actions	object	Crate
+Pass-through	Пройти через	actions	object	Tunnel
+Descend	Спуститься	actions	object	Cave
+Ascend	Подняться	actions	object	Cave
+Picklock	Взломать замок	actions	object	Gate
+Fire-at	Стрелять по	actions	object	Guide rope
+Unlock	Отпереть	actions	object	Locked Ogre chest
+Study	Изучить	actions	object	Monument
+Take-cutting	Взять черенок	actions	object	Budding branch
+Walk-on	Идти по	actions	object	Balancing rope
+Walk-across	Идти через	actions	object	Balancing ledge
+Swing-across	Перепрыгнуть через	actions	object	Monkey bars
+Swing-on	Перепрыгнуть на	actions	object	Rope swing
+Jump-on	Прыгнуть на	actions	object	Pillar
+Tag	Пометить	actions	object	Ticket Dispenser
+Climb-across	Перелезть через	actions	object	Hand holds
+Toggle-warning	Переключить предупреждение	actions	object	Cave entrance
+Dump	Выбросить	actions	object	Compost Bin
+Step-over	Перешагнуть	actions	object	Tripwire
+Pass	Пройти	actions	object	Sticks
+Reinforce	Усилить	actions	object	Temple wall
+Light	Зажечь	actions	object	Fire altar
+Build	Построить	actions	object	Funeral Pyre
+Summon	Призвать	actions	object	Strange altar
+Cut-branch	Срезать ветку	actions	object	Swaying tree
+Put-inside	Положить внутрь	actions	object	Pipe
+Spin	Крутить	actions	object	Spinning wheel
+Capture	Захватить	actions	object	Standard Stand
+Jump-to	Прыгнуть к	actions	object	Stepping stone
+Collapse	Обрушить	actions	object	Cave wall
+Lock	Запереть	actions	object	Door
+View	Смотреть	actions	object	Scoreboard
+View Stats	Просмотреть статистику	actions	object	Scoreboard
+Remove board advert	Убрать объявление	actions	object	Portal
+Remove-room	Убрать комнату	actions	object	Dungeon entrance
+Jump-across	Перепрыгнуть через	actions	object	Basalt rock
+View-game	Просмотреть игру	actions	object	Table
+Weed	Прополоть	actions	object	Herbs
+Jump off	Спрыгнуть с	actions	object	End of bridge
+Talk-to	Поговорить с	actions	object	Awowogei
+Pick-lock	Взломать замок	actions	object	Jail Door
+Steal from	Украсть у	actions	object	Crafting Stall
+Crawl-down	Проползти вниз	actions	object	Cart tunnel
+Crawl-through	Проползти через	actions	object	Cart tunnel
+Go-down	Спуститься вниз	actions	object	Lift
+Go-up	Подняться вверх	actions	object	Lift
+Slide	Съехать	actions	object	Slope
+Squeeze-past	Протиснуться мимо	actions	object	Stalagmite
+Wind	Крутить	actions	object	Clock
+Dig	Копать	actions	object	Grave
+Pick-Lock	Взломать замок	actions	object	Trapdoor
+Take-axe	Взять топор	actions	object	Logs
+Ring-bell	Позвонить в колокольчик	actions	object	Antiques Shop Stall
+Listen-to	Слушать	actions	object	Shining pool
+Pick-from	Выбрать из	actions	object	Thorny bushes
+Dig-up	Выкопать	actions	object	Mud
+Dig-below	Копать ниже	actions	object	Roots
+Jump-through	Прыгнуть через	actions	object	Wall of flame
+Take-beer	Взять пиво	actions	object	Table
+Hide-behind	Спрятаться за	actions	object	Cactus
+Smoke	Курить	actions	object	Smokey well
+Look-into	Заглянуть внутрь	actions	object	Mystical mirror
+Step-off	Сойти	actions	object	Ice ledge
+Climb-through	Проползти через	actions	object	Hole
+Collect-from	Собрать с	actions	object	Weeping wall
+Sit-on	Сесть на	actions	object	Chair
+Upgrade	Улучшить	actions	object	Tools
+Work-at	Работать на	actions	object	Workbench
+Make-helmet	Сделать шлем	actions	object	Helmet pluming stand
+Ring	Позвонить	actions	object	Bell
+Quick-board	Быстро сесть на борт	actions	object	Swamp Boaty
+Ride	Ехать	actions	object	Train cart
+Observe	Наблюдать	actions	object	Telescope
+Leave-area	Покинуть зону	actions	object	Ladder
+Crack	Треснуть	actions	object	Wall safe
+Pull-spade	Потянуть лопату	actions	object	Stone Door
+Guide	Направить	actions	object	Belladonna patch
+Rake	Грабить	actions	object	Belladonna patch
+Cure	Лечить	actions	object	Diseased Belladonna
+Clear	Очистить	actions	object	Dead Belladonna
+Check-health	Проверить здоровье	actions	object	Cadavaberry bush
+Prune	Обрезать	actions	object	Diseased cadavaberry bush
+Pick-spine	Собрать шип	actions	object	Cactus
+Pick-fruit	Собрать фрукт	actions	object	Calquat tree
+Gear	Снарядить	actions	object	Supplies
+Stats	Статистика	actions	object	Supplies
+Standard spellbook	Стандартная книга заклинаний	actions	object	Altar
+Ancient spellbook	Древняя книга заклинаний	actions	object	Altar
+Lunar spellbook	Лунная книга заклинаний	actions	object	Altar
+Arceuus spellbook	Книга заклинаний Аркеуса	actions	object	Altar
+Pick-apple	Собрать яблоко	actions	object	Apple tree
+Pick-pineapple	Собрать ананас	actions	object	Pineapple plant
+Pick-banana	Собрать банан	actions	object	Banana tree
+Pick-leaf	Собрать лист	actions	object	Curry tree
+Pick-orange	Собрать апельсин	actions	object	Orange tree
+Pick-coconut	Собрать кокос	actions	object	Palm tree
+Harvest	Собрать урожай	actions	object	Asgarnian Hops
+Travel	Путешествовать	actions	object	Spirit Tree
+Milk	Доить	actions	object	Dairy cow
+Steal-cowbell	Украсть коровий колокольчик	actions	object	Dairy cow
+Dismantle	Разобрать	actions	object	Young tree
+Set-trap	Установить ловушку	actions	object	Young tree
+Release	Выпустить	actions	object	Gnome on a rack
+Level	Уровень	actions	object	Kelda Stout
+Control	Контролировать	actions	object	Dwarven machinery
+Return	Вернуть	actions	object	Train cart
+Chip	Отколоть	actions	object	Dense runestone
+Hack	Копать	actions	object	Light Jungle
+Quick-Pay(100)	Быстро оплатить (100)	actions	object	Hardwood Grove Doors
+Refuel	Заправить	actions	object	Stove
+Retrieve	Извлечь	actions	object	Bars
+Pedal	Крутить педали	actions	object	Pedals
+Put-ore-on	Положить руду на	actions	object	Conveyor belt
+Fill-bucket	Наполнить ведро	actions	object	Sink
+Take-seed	Взять семя	actions	object	Roses
+Attach	Прикрепить	actions	object	Ornate combat dummy
+Swap	Обменять	actions	object	Ornate combat dummy
+Take-Coffin	Взять гроб	actions	object	Grave
+Make	Сделать	actions	object	Bed
+Net	Сеть	actions	object	Fishing spot
+Ardougne	Ардун	actions	object	Lever
+Edgeville	Эджвилл	actions	object	Lever
+Swap-options	Опции обмена	actions	object	Lever
+Talk to	Поговорить с	actions	object	Tree
+Exchange	Обменять	actions	object	Grand Exchange booth
+Lure	Приманить	actions	object	Ominous Fishing Spot
+Bait	Наживить	actions	object	Ominous Fishing Spot
+Fish-In	Ловить рыбу	actions	object	Aquarium
+Count	Считать	actions	object	Pressure Barrel
+Swim	Плыть	actions	object	River
+Look-up	Посмотреть	actions	object	Trellis
+Spectate	Наблюдать	actions	object	Rat wall
+Deposit-box	Открыть банковскую ячейку	actions	object	Bank booth
+Grab	Захватить	actions	object	Bones
+Remove-coal	Удалить уголь	actions	object	Coal Truck
+Take-sigil	Взять символ	actions	object	Pedestal
+Empty-Out	Опустошить	actions	object	Cannon
+Fire!	Огонь!	actions	object	Cannon
+Loot	Добыть	actions	object	Crate
+Plunder	Грабить	actions	object	Closed chest
+Ransack	Обыскать	actions	object	Barrel
+Count-plunder	Посчитать добычу	actions	object	Plunder Storage
+Store-plunder	Хранить добычу	actions	object	Plunder Storage
+Take-powder	Взять порошок	actions	object	Powder Barrel
+Waterproof	Сделать водонепроницаемым	actions	object	Ship hull
+Balance	Балансировать	actions	object	Narrow wall
+Teeth-grip	Схватить зубами	actions	object	Zip line
+Drain	Выкачать	actions	object	Barrel
+Churn	Сбивать масло	actions	object	Dairy churn
+Zanaris	Занарис	actions	object	Fairy ring
+Configure	Настроить	actions	object	Fairy ring
+Last-destination (AIP)	Последний пункт назначения (AIP)	actions	object	Fairy ring
+Escape	Сбежать	actions	object	Cave entrance
+Examine	Исследовать	actions	object	Healing certificate
+Shape-Canoe	Сделать каноэ	actions	object	Canoe Station
+Float Log	Плыть на бревне	actions	object	Canoe Station
+Float Canoe	Плыть на каноэ	actions	object	Canoe Station
+Paddle Log	Грести на бревне	actions	object	Canoe Station
+Paddle Canoe	Грести на каноэ	actions	object	Canoe Station
+Look-inside	Заглянуть внутрь	actions	object	Mole hill
+Buy-food	Купить еду	actions	object	Chest
+Buy-items	Купить предметы	actions	object	Chest
+Quick-escape	Быстро сбежать	actions	object	Door
+Pick-Fruit	Собрать фрукты	actions	object	Sq'irk tree
+Stand-on	Встать на	actions	object	Balance beam
+Get-down	Спуститься	actions	object	Balance beam
+Change-clothes	Переодеться	actions	object	Shoe box
+Preen	Прихорашиваться	actions	object	Shaving stand
+Haircut	Подстричься	actions	object	Shaving stand
+Shave	Побриться	actions	object	Shaving stand
+Pray	Молиться	actions	object	Altar
+Re-light	Зажечь снова	actions	object	Incense burner
+Build-in	Встроить	actions	object	Cage
+Force	Применить силу	actions	object	Door
+Activate	Активировать	actions	object	Treasure Hunt Fairy House
+Set-up	Настроить	actions	object	Attack stone
+Hoop	Кинуть обруч	actions	object	Stick
+Throw-at	Бросить в	actions	object	Dartboard
+Shoot-at	Стрелять в	actions	object	Archery target
+Karamja	Карамья	actions	object	Amulet of Glory
+Draynor Village	Деревня Дрейнор	actions	object	Amulet of Glory
+Al Kharid	Аль-Харид	actions	object	Amulet of Glory
+Take-kettle	Взять чайник	actions	object	Firepit with hook
+Sleep-in	Спать в	actions	object	Pet blanket
+Last-destination (AIS)	Последний пункт назначения (AIS)	actions	object	Fairy ring
+Last-destination (AIR)	Последний пункт назначения (AIR)	actions	object	Fairy ring
+Last-destination (AIQ)	Последний пункт назначения (AIQ)	actions	object	Fairy ring
+Direct-portal	Открыть портал	actions	object	Scrying pool
+Scry	Гадать	actions	object	Scrying pool
+Challenge-mode	Включить режим испытания	actions	object	Lever
+Evade-event	Уклониться от события	actions	object	Path
+Continue-trek	Продолжить путь	actions	object	Path
+Swing-from	Качаться с	actions	object	Swamp tree branch
+Cut-vine	Срезать лозу	actions	object	Swamp tree
+Escape-event	Сбежать от события	actions	object	Boat
+Return-to-Burgh	Вернуться в Бург	actions	object	Path
+Remove-Pot	Снять горшок	actions	object	Pot-boiler
+Remove-Bone	Удалить кость	actions	object	Pot-boiler
+Jump-down	Спрыгнуть вниз	actions	object	Rocks
+Use-Driftwood	Использовать корягу	actions	object	Embers
+Climb-through (normal)	Пролезть (обычный)	actions	object	Broken bars
+Climb-through (private)	Пролезть (частный)	actions	object	Broken bars
+Peek (normal)	Подглядеть (обычный)	actions	object	Broken bars
+Eat	Есть	actions	object	Food Pile
+Leap	Прыгнуть	actions	object	Gap
+Teleport to Destination	Телепортироваться к месту назначения	actions	object	Obelisk
+Set Destination	Установить пункт назначения	actions	object	Obelisk
+Hurdle	Перепрыгнуть	actions	object	Ledge
+Jump-off	Спрыгнуть	actions	object	Edge
+Vault	Перепрыгнуть через	actions	object	Pole-vault
+Jump-in	Прыгнуть в	actions	object	Pile of fish
+Take-pickaxe	Взять кирку	actions	object	Rocks
+Use-Lift	Использовать лифт	actions	object	Platform
+Take-Beam	Взять балку	actions	object	Crate
+Take-Pulley-Beam	Взять блок-балку	actions	object	Crate
+Take-Rope	Взять веревку	actions	object	Crate
+Swing Across	Перекачаться	actions	object	Monkeybars
+Home	Домой	actions	object	Portal
+Build mode	Режим строительства	actions	object	Portal
+Friend's house	Дом друга	actions	object	Portal
+Swing	Качаться	actions	object	Rope
+Sit-On	Сесть на	actions	object	Piano stool
+Pick Nuts	Собрать орехи	actions	object	Tchiki Monkey Nut Bush
+Pick Banana	Сорвать банан	actions	object	Strange banana tree
+Throw	Бросить	actions	object	Shot
+Unblock	Разблокировать	actions	object	Tunnel
+Take-Rum	Взять ром	actions	object	Conveyor Belt
+Pump	Качать	actions	object	Steam Pump
+Vent	Открыть вентиляцию	actions	object	Steam Pump
+Take-Log	Взять бревно	actions	object	Log Store
+Take-Tool	Взять инструмент	actions	object	Workbench
+Cut-Down	Срубить	actions	object	Jungle tree
+Pay-toll(2-Ecto)	Заплатить пошлину (2-Ecto)	actions	object	Energy Barrier
+Jump-To	Прыгнуть к	actions	object	Rock
+Enter-cloud	Войти в облако	actions	object	Cloud bank
+Listen	Слушать	actions	object	Crevice
+Manoeuvre-past	Пройти мимо	actions	object	Tight-gap
+Climb-under	Залезть под	actions	object	Castle wall
+Climb-into	Залезть в	actions	object	Hole
+Jump-onto	Прыгнуть на	actions	object	Stepping stone
+Press	Нажать	actions	object	Zero
+Step-on	Наступить на	actions	object	Platform
+Worship	Поклоняться	actions	object	Ectofuntus
+Status	Проверить статус	actions	object	Bone grinder
+Talk-To	Поговорить с	actions	object	Pirate Captain
+Admire	Восхищаться	actions	object	Tall mirror
+Roll	Кататься	actions	object	Dice
+Grapple	Схватить	actions	object	Rocks
+Take-bowl	Взять миску	actions	object	Table
+Sing-crystal	Петь кристаллу	actions	object	Singing bowl
+test	Тест	actions	object	Argento
+Crawl-under	Проползти под	actions	object	Wall
+Fix	Починить	actions	object	Bellows
+Bend	Согнуть	actions	object	Cell wall window
+Steal	Украсть	actions	object	Candles
+Deactivate	Деактивировать	actions	object	Magic box
+Trap	Поймать в ловушку	actions	object	Pit
+Flush	Промыть	actions	object	Rabbit hole
+Shout-over	Перекричать	actions	object	Rockslide
+Pull-down	Опустить	actions	object	Eagle lever
+Push-up	Поднять	actions	object	Eagle lever
+Quick-start	Быстро начать	actions	object	Ladder
+Reset-wave	Сбросить волну	actions	object	Door
+Dunk	Макать	actions	object	Lava crater
+Block	Блокировать	actions	object	Penance cave
+Demolish	Снести	actions	object	Penance cave
+Take-Arrows	Взять стрелы	actions	object	Attacker item machine
+Take-Runes	Взять руны	actions	object	Attacker item machine
+Stock-Up	Запастись	actions	object	Defender item machine
+Take-Crackers	Взять крекеры	actions	object	Defender item machine
+Take-Tofu	Взять тофу	actions	object	Defender item machine
+Take-Worms	Взять червей	actions	object	Defender item machine
+Take-Vial	Взять флакон	actions	object	Healer item machine
+Take-Meat	Взять мясо	actions	object	Healer item machine
+Call	Позвать	actions	object	Horn of glory
+Get-Spikes	Получить шипы	actions	object	Petrified mushroom
+Load	Загрузить	actions	object	Egg hopper
+Evade	Уклониться	actions	object	Trap
+Disable	Отключить	actions	object	Trap
+Harpoon	Гарпунить	actions	object	Fishing spot
+Cage	Поймать в клетку	actions	object	Fishing spot
+Leave Tomb	Покинуть гробницу	actions	object	Tomb Door
+Quick-leave	Быстро уйти	actions	object	Tomb Door
+Tread-softly	Идти тихо	actions	object	Icicles
+Convert	Преобразовать	actions	object	Collector Converter
+Check for Snakes	Проверить на змей	actions	object	Urn
+Charm Snake	Очаровать змею	actions	object	Urn
+Cut-wood	Срубить дерево	actions	object	Woodcutting stump
+Cross-bridge	Перейти мост	actions	object	Rope bridge
+Exit-cave	Выйти из пещеры	actions	object	Exit cavern
+Decapitate	Обезглавить	actions	object	Ice Troll King
+Jump-from	Прыгнуть с	actions	object	Stepping stone
+Peer-through	Посмотреть через	actions	object	Peephole
+Add-bottom	Добавить снизу	actions	object	Crate
+Return-to-Paterdomus	Вернуться в Патердомус	actions	object	Path
+Excavate	Выкопать	actions	object	Statue
+Quick Pass	Быстро пройти	actions	object	Flames
+Tamper	Подделать	actions	object	Device
+Untie	Развязать	actions	object	Zanik
+Walk-along	Идти вдоль	actions	object	Tunnel
+Swing across	Перекачаться	actions	object	Monkeybars
+Animate	Оживить	actions	object	Magical Animator
+Check Kudos	Проверить славу	actions	object	Information booth
+Add finds	Добавить находки	actions	object	Storage crate
+Clean	Очистить	actions	object	Specimen table
+Talk-into	Уговорить	actions	object	Drain Pipe
+Wind-up	Завести	actions	object	Gramophone
+Turn-Off	Выключить	actions	object	Gramophone
+Climb up	Залезть вверх	actions	object	Beard
+Exit-through	Выйти через	actions	object	Fire rift
+Push-through	Протолкнуть	actions	object	Magical wheat
+Dive in	Нырнуть	actions	object	Whirlpool
+Construct	Построить	actions	object	Pyre site
+Rummage	Рыться	actions	object	Skeleton
+Burn-down	Сжечь дотла	actions	object	Boil
+Take From	Взять из	actions	object	Barrel of flour
+Reach	Достичь	actions	object	Vent
+Free	Освободить	actions	object	King Arthur
+Break	Сломать	actions	object	Smashed window
+Distract	Отвлечь	actions	object	Eyes
+Drink	Пить	actions	object	Potion
+Store	Хранить	actions	object	Super ranging potion
+Equip	Экипировать	actions	object	Anti-dragon shield
+Teleport	Телепортироваться	actions	object	Zamorak altar
+Tie-rope	Привязать веревку	actions	object	Rock
+Move	Двигаться	actions	object	Boulder
+Claim-staves	Забрать посохи	actions	object	Barrel
+Climb-off	Слезть	actions	object	Ice bridge
+Crawl	Ползти	actions	object	Cave
+Join	Присоединиться	actions	object	Challenge portal
+Hammer	Молотить	actions	object	Broken strut
+Toggle K/D	Переключить K/D	actions	object	Wilderness Statistics
+Make-raft	Сделать плот	actions	object	Old log
+Weiss	Вайс	actions	object	Portal Nexus
+Teleport Menu	Меню телепортации	actions	object	Portal Nexus
+Configuration	Настроить	actions	object	Portal Nexus
+Toggle XP	Переключить XP	actions	object	Deadman chest
+Take-X	Взять-X	actions	object	Meat table
+Serve	Сервировать	actions	object	Buffet table
+Water	Вода	actions	object	Golovanova seedling
+Bind	Связать	actions	object	Blood Altar
+Venerate	Почитать	actions	object	Dark Altar
+Take-remains	Взять останки	actions	object	Kruk
+Scale	Масштабировать	actions	object	Rocks
+Walk on	Идти дальше	actions	object	Vine
+Look-in-all	Осмотреться	actions	object	Hole
+Disarm	Разоружить	actions	object	Floor spikes
+Pass through	Пройти сквозь	actions	object	Sliced web
+Gaze-into	Вглядываться	actions	object	Burning brazier
+Reset-time	Сбросить время	actions	object	Burning brazier
+Balance-across	Балансировать	actions	object	Steep roof
+Leave Cavern	Покинуть пещеру	actions	object	Inanimate Altar
+Story	История	actions	object	Juna
+Climb over	Перелезть	actions	object	Broken cart
+Claim	Заявить права	actions	object	Reward chest
+Add-House	Добавить дом	actions	object	House Advertisement
+Visit-Last	Посетить последнее	actions	object	House Advertisement
+Cross-to	Перейти к	actions	object	Rock
+Setup	Настроить	actions	object	Tip jar
+Jars	Банки	actions	object	Boss lair display
+Perks	Бонусы	actions	object	Mounted Max Cape
+Spellbook	Книга заклинаний	actions	object	Mounted Magic Cape
+Clip	Зажать	actions	object	Topiary bush
+Feed	Кормить	actions	object	Burning brazier
+Take-hammer	Взять молот	actions	object	Crate
+Take-knife	Взять нож	actions	object	Crate
+Take-tinderbox	Взять трутницу	actions	object	Crate
+Take-concoction	Взять зелье	actions	object	Crate
+Take-5 concoctions	Взять 5 зелий	actions	object	Crate
+Take-10 concoctions	Взять 10 зелий	actions	object	Crate
+Last-destination (ALP)	Последнее место (ALP)	actions	object	Fairy ring
+Last-destination (ALS)	Последнее место (ALS)	actions	object	Fairy ring
+Last-destination (ALR)	Последнее место (ALR)	actions	object	Fairy ring
+Last-destination (ALQ)	Последнее место (ALQ)	actions	object	Fairy ring
+Last-destination (AKP)	Последнее место (AKP)	actions	object	Fairy ring
+Last-destination (AKS)	Последнее место (AKS)	actions	object	Fairy ring
+Last-destination (AKR)	Последнее место (AKR)	actions	object	Fairy ring
+Last-destination (AKQ)	Последнее место (AKQ)	actions	object	Fairy ring
+Last-destination (AJP)	Последнее место (AJP)	actions	object	Fairy ring
+Last-destination (AJS)	Последнее место (AJS)	actions	object	Fairy ring
+Last-destination (AJR)	Последнее место (AJR)	actions	object	Fairy ring
+Last-destination (AJQ)	Последнее место (AJQ)	actions	object	Fairy ring
+Last-destination (DIP)	Последнее место (DIP)	actions	object	Fairy ring
+Last-destination (DIS)	Последнее место (DIS)	actions	object	Fairy ring
+Last-destination (DIR)	Последнее место (DIR)	actions	object	Fairy ring
+Last-destination (DIQ)	Последнее место (DIQ)	actions	object	Fairy ring
+Last-destination (DLP)	Последнее место (DLP)	actions	object	Fairy ring
+Last-destination (DLS)	Последнее место (DLS)	actions	object	Fairy ring
+Last-destination (DLR)	Последнее место (DLR)	actions	object	Fairy ring
+Last-destination (DLQ)	Последнее место (DLQ)	actions	object	Fairy ring
+Last-destination (DKP)	Последнее место (DKP)	actions	object	Fairy ring
+Last-destination (DKS)	Последнее место (DKS)	actions	object	Fairy ring
+Last-destination (DKR)	Последнее место (DKR)	actions	object	Fairy ring
+Last-destination (DKQ)	Последнее место (DKQ)	actions	object	Fairy ring
+Last-destination (DJP)	Последнее место (DJP)	actions	object	Fairy ring
+Last-destination (DJS)	Последнее место (DJS)	actions	object	Fairy ring
+Last-destination (DJR)	Последнее место (DJR)	actions	object	Fairy ring
+Last-destination (DJQ)	Последнее место (DJQ)	actions	object	Fairy ring
+Last-destination (CIP)	Последнее место (CIP)	actions	object	Fairy ring
+Last-destination (CIS)	Последнее место (CIS)	actions	object	Fairy ring
+Last-destination (CIR)	Последнее место (CIR)	actions	object	Fairy ring
+Last-destination (CIQ)	Последнее место (CIQ)	actions	object	Fairy ring
+Last-destination (CLP)	Последнее место (CLP)	actions	object	Fairy ring
+Last-destination (CLS)	Последнее место (CLS)	actions	object	Fairy ring
+Last-destination (CLR)	Последнее место (CLR)	actions	object	Fairy ring
+Last-destination (CLQ)	Последнее место (CLQ)	actions	object	Fairy ring
+Last-destination (CKP)	Последнее место (CKP)	actions	object	Fairy ring
+Last-destination (CKS)	Последнее место (CKS)	actions	object	Fairy ring
+Last-destination (CKR)	Последнее место (CKR)	actions	object	Fairy ring
+Last-destination (CKQ)	Последнее место (CKQ)	actions	object	Fairy ring
+Last-destination (CJP)	Последнее место (CJP)	actions	object	Fairy ring
+Last-destination (CJS)	Последнее место (CJS)	actions	object	Fairy ring
+Last-destination (CJR)	Последнее место (CJR)	actions	object	Fairy ring
+Last-destination (CJQ)	Последнее место (CJQ)	actions	object	Fairy ring
+Last-destination (BIP)	Последнее место (BIP)	actions	object	Fairy ring
+Last-destination (BIS)	Последнее место (BIS)	actions	object	Fairy ring
+Last-destination (BIR)	Последнее место (BIR)	actions	object	Fairy ring
+Last-destination (BIQ)	Последнее место (BIQ)	actions	object	Fairy ring
+Last-destination (BLP)	Последнее место (BLP)	actions	object	Fairy ring
+Last-destination (BLS)	Последнее место (BLS)	actions	object	Fairy ring
+Last-destination (BLR)	Последнее место (BLR)	actions	object	Fairy ring
+Last-destination (BLQ)	Последнее место (BLQ)	actions	object	Fairy ring
+Last-destination (BKP)	Последнее место (BKP)	actions	object	Fairy ring
+Last-destination (BKS)	Последнее место (BKS)	actions	object	Fairy ring
+Last-destination (BKR)	Последнее место (BKR)	actions	object	Fairy ring
+Last-destination (BKQ)	Последнее место (BKQ)	actions	object	Fairy ring
+Last-destination (BJP)	Последнее место (BJP)	actions	object	Fairy ring
+Last-destination (BJS)	Последнее место (BJS)	actions	object	Fairy ring
+Last-destination (BJR)	Последнее место (BJR)	actions	object	Fairy ring
+Last-destination (BJQ)	Последнее место (BJQ)	actions	object	Fairy ring
+Tree	Дерево	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	Кольцо Занариса	actions	object	Spiritual Fairy Tree
+Ring-configure	Настроить кольцо	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIP)	Кольцо: последнее место (AIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIS)	Кольцо: последнее место (AIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIR)	Кольцо: последнее место (AIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIQ)	Кольцо: последнее место (AIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALP)	Кольцо: последнее место (ALP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALS)	Кольцо: последнее место (ALS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALR)	Кольцо: последнее место (ALR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALQ)	Кольцо: последнее место (ALQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKP)	Кольцо: последнее место (AKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKS)	Кольцо: последнее место (AKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKR)	Кольцо: последнее место (AKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKQ)	Кольцо: последнее место (AKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJP)	Кольцо: последнее место (AJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJS)	Кольцо: последнее место (AJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJR)	Кольцо: последнее место (AJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJQ)	Кольцо: последнее место (AJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIP)	Кольцо: последнее место (DIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIS)	Кольцо: последнее место (DIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIR)	Кольцо: последнее место (DIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIQ)	Кольцо: последнее место (DIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLP)	Кольцо: последнее место (DLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLS)	Кольцо: последнее место (DLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLR)	Кольцо: последнее место (DLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLQ)	Кольцо: последнее место (DLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKP)	Кольцо: последнее место (DKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKS)	Кольцо: последнее место (DKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKR)	Кольцо: последнее место (DKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKQ)	Кольцо: последнее место (DKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJP)	Кольцо: последнее место (DJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJS)	Кольцо: последнее место (DJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJR)	Кольцо: последнее место (DJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJQ)	Кольцо: последнее место (DJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIP)	Кольцо: последнее место (CIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIS)	Кольцо: последнее место (CIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIR)	Кольцо: последнее место (CIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIQ)	Кольцо: последнее место (CIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLP)	Кольцо: последнее место (CLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLS)	Кольцо: последнее место (CLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLR)	Кольцо: последнее место (CLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLQ)	Кольцо: последнее место (CLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKP)	Кольцо: последнее место (CKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKS)	Кольцо: последнее место (CKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKR)	Кольцо: последнее место (CKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKQ)	Кольцо: последнее место (CKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJP)	Кольцо: последнее место (CJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJS)	Кольцо: последнее место (CJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJR)	Кольцо: последнее место (CJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJQ)	Кольцо: последнее место (CJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIP)	Кольцо: последнее место (BIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIS)	Кольцо: последнее место (BIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIR)	Кольцо: последнее место (BIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIQ)	Кольцо: последнее место (BIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLP)	Кольцо: последнее место (BLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLS)	Кольцо: последнее место (BLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLR)	Кольцо: последнее место (BLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLQ)	Кольцо: последнее место (BLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKP)	Кольцо: последнее место (BKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKS)	Кольцо: последнее место (BKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKR)	Кольцо: последнее место (BKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKQ)	Кольцо: последнее место (BKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJP)	Кольцо: последнее место (BJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJS)	Кольцо: последнее место (BJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJR)	Кольцо: последнее место (BJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJQ)	Кольцо: последнее место (BJQ)	actions	object	Spiritual Fairy Tree
+Craft-rune	Создать руну	actions	object	Altar
+Fuel	Заправить	actions	object	Brazier
+Dispel	Рассеять	actions	object	Shimmering barrier
+Shared	Общее	actions	object	Small storage unit
+Take Rake	Взять грабли	actions	object	Old tools
+Take Spade	Взять лопату	actions	object	Old tools
+Take Seed Dibber	Взять сажалку	actions	object	Old tools
+Pick-lots	Собрать много	actions	object	Gourd tree
+Quick-pass	Быстро пройти	actions	object	Mystical barrier
+Coffer	Сундук	actions	object	Furnace
+Quick-exit	Быстрый выход	actions	object	Cave exit
+Travel to platform	Отправиться к платформе	actions	object	Row boat
+Leave platform	Покинуть платформу	actions	object	Row boat
+Check count	Проверить счет	actions	object	Rock
+Toggle warning	Переключить предупреждение	actions	object	Rock
+Seeds	Семена	actions	object	Birdhouse (empty)
+Interact	Взаимодействовать	actions	object	Birdhouse
+Inject	Впрыснуть	actions	object	Sulliuscep
+Jump on	Прыгнуть	actions	object	Rubber cap mushroom
+Navigate	Направить	actions	object	Obstacle
+Climb Down	Спуститься	actions	object	Trap Door
+Climb Up	Подняться	actions	object	Rope anchor
+Dive	Нырнуть	actions	object	Rowboat
+Build on	Построить	actions	object	Ring of Stones
+Take tools	Взять инструменты	actions	object	Crate
+Set up	Установить	actions	object	Drift net anchors
+Take down	Снять	actions	object	Drift net anchors
+Pick up	Поднять	actions	object	Pile of Fishbowls
+Pay	Оплатить	actions	object	Volcano Entrance
+Feel	Почувствовать	actions	object	Gas hole
+Add to	Добавить	actions	object	Large Fossil Support
+Climb through	Пролезть	actions	object	Hole
+Teleport to destination	Телепортироваться к месту назначения	actions	object	Obelisk
+Set destination	Установить пункт назначения	actions	object	Obelisk
+Jump to	Перейти к	actions	object	Pillar
+Preferences	Настроить предпочтения	actions	object	Log storage
+Absorb	Поглотить	actions	object	Energy Sphere
+Reminisce	Вспомнить	actions	object	Pool of Dreams
+Nets	Сети	actions	object	Annette
+Ancient	Древний	actions	object	Altar of the Occult
+Lunar	Лунный	actions	object	Altar of the Occult
+Arceuus	Аркейус	actions	object	Altar of the Occult
+Standard	Стандартный	actions	object	Altar of the Occult
+Recharge-jewellery	Перезарядить украшения	actions	object	Totem Pole
+Douse	Облить	actions	object	Fire
+Heal	Лечить	actions	object	Fremennik warrior
+Complete	Завершить	actions	object	Incomplete map
+Check-Count	Проверить счет	actions	object	Gate
+Clamber	Карабкаться	actions	object	Rock Pile
+Look-through	Просмотреть	actions	object	Window
+Charge-at	Атаковать	actions	object	Vyre well
+Quick-enter	Быстро войти	actions	object	Door
+Resign	Уйти в отставку	actions	object	Vyre Orator
+Varrock	Варрок	actions	object	Varrock Portal
+Grand Exchange	Гранд-обмен	actions	object	Varrock Portal
+Toggle	Переключить	actions	object	Varrock Portal
+Camelot	Камелот	actions	object	Camelot Portal
+Seers' Village	Деревня провидцев	actions	object	Camelot Portal
+Watchtower	Сторожевая башня	actions	object	Yanille Watchtower Portal
+Yanille	Янилл	actions	object	Yanille Watchtower Portal
+Quick-Enter	Быстро войти	actions	object	Formidable passage
+Iceberg	Айсберг	actions	object	Boat
+Lumbridge	Ламбридж	actions	object	Portal Nexus
+Falador	Фаладор	actions	object	Portal Nexus
+Senntisten	Сеннстиен	actions	object	Portal Nexus
+Marim	Марим	actions	object	Portal Nexus
+Kharyrll	Харирлл	actions	object	Portal Nexus
+Lunar Isle	Лунный остров	actions	object	Portal Nexus
+Great Kourend	Великий Куренд	actions	object	Portal Nexus
+Waterbirth Island	Остров Водорождения	actions	object	Portal Nexus
+Fishing Guild	Рыболовная гильдия	actions	object	Portal Nexus
+Annakarl	Аннакарл	actions	object	Portal Nexus
+Troll Stronghold	Крепость троллей	actions	object	Portal Nexus
+Look out	Выглянуть	actions	object	Xeric's Talisman
+Teleport menu	Меню телепортации	actions	object	Xeric's Talisman
+Glade	Поляна	actions	object	Xeric's Talisman
+Inferno	Инферно	actions	object	Xeric's Talisman
+Heart	Сердце	actions	object	Xeric's Talisman
+Honour	Честь	actions	object	Xeric's Talisman
+Digsite	Раскопки	actions	object	Digsite Pendant
+Fossil Island	Остров ископаемых	actions	object	Digsite Pendant
+Lithkren	Литкрен	actions	object	Digsite Pendant
+Catherby	Кэтерби	actions	object	Portal Nexus
+Ghorrock	Горрок	actions	object	Portal Nexus
+Carrallanger	Карраллангер	actions	object	Portal Nexus
+Ancients	Древние	actions	object	Supplies
+Start	Начать	actions	object	Steam Generator
+Align	Выровнять	actions	object	Power Grid
+Fill-jug	Наполнить кувшин	actions	object	Coolant Dispenser
+Cleanse	Очистить	actions	object	Refinery
+Rebalance	Восстановить баланс	actions	object	Energy Pylon
+Pick-dragonfruit	Собрать драгонфрут	actions	object	Dragonfruit tree
+Crawl through	Проползти	actions	object	Tunnel
+Quick-open	Быстро открыть	actions	object	Alchemical door
+Take-rock	Взять камень	actions	object	Rubble
+Quick-Exit	Быстрый выход	actions	object	Ancient Fire
+Check-Faith	Проверить веру	actions	object	Sacred Bone Burner
+Enter-crypt	Войти в крипту	actions	object	Thick Web
+Follow	Следовать	actions	object	Tracks
+Fill-from	Наполнить из	actions	object	Water Pump
+Channel	Канал	actions	object	Teleport Platform
+Enter-corrupted	Войти в искаженное	actions	object	The Gauntlet
+Refine	Улучшить	actions	object	Furnace
+Imbue	Напитать	actions	object	Altar
+Emir's Arena	Арена Эмира	actions	object	Basic Jewellery Box
+Castle Wars	Войны замков	actions	object	Basic Jewellery Box
+Ferox Enclave	Анклав Ферокс	actions	object	Basic Jewellery Box
+Burthorpe	Берторп	actions	object	Basic Jewellery Box
+Barbarian Outpost	Форпост варваров	actions	object	Basic Jewellery Box
+Corporeal Beast	Телесный зверь	actions	object	Basic Jewellery Box
+Tears of Guthix	Слезы Гутикса	actions	object	Basic Jewellery Box
+Wintertodt Camp	Лагерь Уинтертодт	actions	object	Basic Jewellery Box
+Warriors' Guild	Гильдия воинов	actions	object	Fancy Jewellery Box
+Champions' Guild	Гильдия чемпионов	actions	object	Fancy Jewellery Box
+Monastery	Монастырь	actions	object	Fancy Jewellery Box
+Ranging Guild	Гильдия стрелков	actions	object	Fancy Jewellery Box
+Mining Guild	Гильдия шахтеров	actions	object	Fancy Jewellery Box
+Crafting Guild	Гильдия ремесленников	actions	object	Fancy Jewellery Box
+Cooking Guild	Гильдия поваров	actions	object	Fancy Jewellery Box
+Woodcutting Guild	Гильдия дровосеков	actions	object	Fancy Jewellery Box
+Farming Guild	Гильдия фермеров	actions	object	Fancy Jewellery Box
+Miscellania	Мисцеллания	actions	object	Ornate Jewellery Box
+Falador Park	Парк Фаладора	actions	object	Ornate Jewellery Box
+Dondakan's Rock	Скала Дондакана	actions	object	Ornate Jewellery Box
+Draynor Manor	Поместье Дрейнор	actions	object	Portal Nexus
+Battlefront	Линия фронта	actions	object	Portal Nexus
+Mind Altar	Алтарь разума	actions	object	Portal Nexus
+Salve Graveyard	Кладбище Салве	actions	object	Portal Nexus
+Fenkenstrain's Castle	Замок Фенкенштрайна	actions	object	Portal Nexus
+West Ardougne	Западный Ардун	actions	object	Portal Nexus
+Harmony Island	Остров Гармонии	actions	object	Portal Nexus
+Cemetery	Кладбище	actions	object	Portal Nexus
+Barrows	Курганы	actions	object	Portal Nexus
+Ape Atoll Dungeon	Подземелье Атолла Обезьян	actions	object	Portal Nexus
+Destroy	Уничтожить	actions	object	Lab table
+Stamp-out	Искоренить	actions	object	Magical Fire
+Continue	Продолжить	actions	object	Path
+Climp-up	Подняться вверх	actions	object	Stairs
+Check-statistics (Personal)	Проверить статистику (личную)	actions	object	Noticeboard
+Check-statistics (Global)	Проверить статистику (глобальную)	actions	object	Noticeboard
+Sacrifice	Принести в жертву	actions	object	Saradomin Brazier
+Walk-over	Перешагнуть	actions	object	Bridge
+Conjure	Заклинать	actions	object	Portal frame
+Search-for-traps	Искать ловушки	actions	object	Coffin
+Pass-Through	Пройти сквозь	actions	object	Casual
+Cut-foot	Отрезать ногу	actions	object	Dead sourhog
+Take-candy	Взять конфету	actions	object	Magical pumpkin
+Jump-Down	Прыгнуть вниз	actions	object	Crevice
+Channel (Asgarnia)	Канал (Асгарния)	actions	object	Waystone
+Channel (Misthalin)	Канал (Мисталин)	actions	object	Waystone
+Channel (Kandarin)	Канал (Кандарин)	actions	object	Waystone
+Channel (Fremennik)	Канал (Фременник)	actions	object	Waystone
+Channel (Kharidian Desert)	Канал (Пустыня Харидиан)	actions	object	Waystone
+Channel (Morytania)	Канал (Моритания)	actions	object	Waystone
+Channel (Tirannwn)	Канал (Тираннун)	actions	object	Waystone
+Channel (Karamja)	Канал (Карамджа)	actions	object	Waystone
+Channel (Wilderness)	Канал (Дикие земли)	actions	object	Waystone
+Slayer	Убийца	actions	object	Kings' ladder
+Open (normal)	Открыть (обычно)	actions	object	Big door
+Open (private)	Открыть (приватно)	actions	object	Big door
+Climb-down (normal)	Спуститься (обычно)	actions	object	Tunnel entrance
+Climb-down (private)	Спуститься (приватно)	actions	object	Tunnel entrance
+Sacrifice-fragments	Принести в жертву фрагменты	actions	object	Soul Obelisk
+Remove-decorations	Снять украшения	actions	object	Christmas curtains
+Untether	Отвязать	actions	object	Mast
+Tether	Привязать	actions	object	Mast
+Remove-trophy	Убрать трофей	actions	object	Trophy pedestal
+View-trophies	Просмотреть трофеи	actions	object	Oak trophy case
+Remove-banner	Убрать баннер	actions	object	Banner stand
+Remove-outfit	Снять одежду	actions	object	Oak outfit stand
+Spin-globe	Вращать глобус	actions	object	Trailblazer globe
+League-statistics	Статистика лиги	actions	object	League Accomplishment Scroll
+League-rankings	Рейтинги лиги	actions	object	League Accomplishment Scroll
+League-firsts	Первые в лиге	actions	object	League Accomplishment Scroll
+Cook-at	Готовить в	actions	object	Shrine
+Big-search	Большой поиск	actions	object	Reward pool
+Quick-climb	Быстро подняться	actions	object	Rope ladder
+Solo-start	Начать в одиночку	actions	object	Rope ladder
+Arceuus Library	Библиотека Аркеуса	actions	object	Portal Nexus
+Prepare-fish	Приготовить рыбу	actions	object	Preparation Table
+Offer-fish	Предложить рыбу	actions	object	Altar
+Entertain	Развлекать	actions	object	Piano
+Play-quietly	Играть тихо	actions	object	Piano
+Background-music	Фоновая музыка	actions	object	Piano
+Enter-member	Войти как участник	actions	object	Clan hall portal
+Enter-guest	Войти как гость	actions	object	Clan hall portal
+Pet	Питомец	actions	object	Cat
+Pass (normal)	Пройти (обычно)	actions	object	Ancient Barrier
+Pass (private)	Пройти (приватно)	actions	object	Ancient Barrier
+Adjust	Настроить	actions	object	Machine
+Say-name	Назвать имя	actions	object	Grave
+Deposit-runes	Положить руны	actions	object	Deposit Pool
+Deposit-items	Положить предметы	actions	object	Deposit Pool
+Visual-effects	Визуальные эффекты	actions	object	Barrier
+Toggle-talisman	Переключить талисман	actions	object	Guardian of Air
+Assemble	Собрать	actions	object	Essence pile (elemental)
+Take-chisel	Взять зубило	actions	object	Weak cells
+Place-cell	Разместить ячейку	actions	object	Inactive cell tile
+Exit-through (Kourend)	Выйти через (Куренд)	actions	object	Blood rift
+Pay-toll(10gp)	Оплатить пошлину (10 gp)	actions	object	Gate
+Pour	Налить	actions	object	Crucible (full)
+Heat-preform	Нагреть заготовку	actions	object	Lava pool
+Dunk-preform	Окунуть заготовку	actions	object	Lava pool
+Cool-preform	Охладить заготовку	actions	object	Waterfall
+Quench-preform	Закалить заготовку	actions	object	Waterfall
+Store-preform	Хранить заготовку	actions	object	Preform storage
+Take-preform	Взять заготовку	actions	object	Preform storage
+Rank	Ранг	actions	object	Arena recruitment board
+Quick-use	Быстро использовать	actions	object	Staging area steps
+Quick-Pass	Быстро пройти	actions	object	Barrier
+Flip	Перевернуть	actions	object	Pressure plate
+Rotate-clockwise	Повернуть по часовой стрелке	actions	object	Mirror
+Rotate-anticlockwise	Повернуть против часовой стрелки	actions	object	Mirror
+Deposit-pickaxe	Положить кирку	actions	object	Statue
+Quick-Use	Быстро использовать	actions	object	Teleport crystal
+Quick-Board	Быстро сесть	actions	object	Sacrificial boat
+Check-permissions	Проверить разрешения	actions	object	Chest
+Pickup	Подобрать	actions	object	Gingerbread
+Check-times	Проверить время	actions	object	Santa's log
+Push-against	Толкнуть	actions	object	Wall
+Check-Fee	Проверить плату	actions	object	Crevice
+Peer-into	Вглядеться	actions	object	Prifddinas Display
+Release-bees	Выпустить пчел	actions	object	Beehive
+Add-mulch	Добавить мульчу	actions	object	Struggling sapling
+Read (Awakened)	Прочитать (Пробужденный)	actions	object	Scoreboard
+Attach-rope	Привязать веревку	actions	object	Rock
+Climb-rope	Забраться по веревке	actions	object	Rock
+Build-barricade	Построить баррикаду	actions	object	Surface
+Take-supplies	Взять припасы	actions	object	Stone chest
+Lockpick	Взломать	actions	object	Stone chest (locked)
+Burn	Сжечь	actions	object	Shipwreck
+Burn`	Сжечь	actions	object	Gunpowder
+Withdraw	Забрать	actions	object	Extract orifice
+Tend-to	Ухаживать	actions	object	Forester's Campfire
+Rest	Отдохнуть	actions	object	Forester's Campfire
+Retrieve-egg	Забрать яйцо	actions	object	Pheasant Nest
+Revert	Вернуть	actions	object	Fiery Ornate Pool of Rejuvenation
+Channel (Great Kourend)	Канал (Великий Куренд)	actions	object	Waystone
+Travel-End	Конец путешествия	actions	object	Portal
+Travel-Start	Начало путешествия	actions	object	Portal
+Reload	Перезагрузить	actions	object	Steps
+Collect-reward	Собрать награду	actions	object	Table
+Look-over	Осмотреть	actions	object	Balcony
+Civitas illa Fortis	Цивитас Илла Фортис	actions	object	Portal Nexus
+Fortis Colosseum	Колизей Фортис	actions	object	Basic Jewellery Box
+View-stats	Просмотреть статистику	actions	object	Colosseum scoreboard
+View-glory	Просмотреть славу	actions	object	Colosseum scoreboard
+Sabotage	Саботировать	actions	object	Lily pad
+Plant-evidence	Подбросить улики	actions	object	Capybara Dung
+Rustle	Шуршать	actions	object	Bush
+Make-cuppa	Приготовить чашку чая	actions	object	Cooking stove
+Align-net	Выровнять сеть	actions	object	Stream
+Take-from Fishing	Взять с рыбалки	actions	object	Supply crates
+Take-from Hunting	Взять с охоты	actions	object	Supply crates
+Take-from Herblore	Взять с травничества	actions	object	Supply crates
+Take-log	Взять бревно	actions	object	Roots
+Bask	Наслаждаться	actions	object	Shrine of Ralos
+Cimb-down	Спуститься вниз	actions	object	Open trapdoor
+Bless	Благословить	actions	object	Exposed altar
+Deposit-eggs	Положить яйца	actions	object	Easter mine cart
+Redeem	Выкупить	actions	object	Agility dispenser
+Squeeze-Through	Пролезть	actions	object	Crevice
+Jump-Across	Перепрыгнуть	actions	object	Dry stone wall
+Cross-over	Перейти	actions	object	Broken wall
+Take-many	Взять много	actions	object	Medical box
+Slide-along	Скользить	actions	object	Icy ledge
+Take-uniform	Взять униформу	actions	object	Wardrobe
+Concentrate-potion	Сконцентрировать зелье	actions	object	Retort
+Homogenise-potion	Гомогенизировать зелье	actions	object	Agitator
+Crystalise-potion	Кристаллизовать зелье	actions	object	Alembic
+Fulfil-order	Выполнить заказ	actions	object	Conveyor belt
+Fight-privately	Сражаться приватно	actions	object	Meeting flag
+Leave-group	Покинуть группу	actions	object	Meeting flag (private)
+Quick-slide	Быстро скользить	actions	object	Slope
+Change	Изменить	actions	object	Scarecrow
+Plant	Посадить	actions	object	Pumpkin patch
+Carve-pumpkin	Вырезать тыкву	actions	object	Pumpkin carving table
+Walk-to	Дойти до	actions	object	Blue tile
+Channel (Varlamore)	Канал (Варламор)	actions	object	Waystone
+Follow	Следовать	actions	player	
+Trade with	Торговать с	actions	player	
+Lookup	Посмотреть	actions	player	
+Equipment	Снаряжение	actions	player	
+Report	Сообщить	actions	player	

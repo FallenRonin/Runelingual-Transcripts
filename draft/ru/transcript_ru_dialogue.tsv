@@ -6,10 +6,10 @@ Oh, really? You don't look like a Fremennik to me!		dialogue	'Beedy-eye' Jones	'
 Well... I kind of am, and I kind of aren't. It's a long story.		dialogue	'Beedy-eye' Jones	Player
 Sorry I don't have time to hear it then! See you around young fremennik-who-is-not-really-a-fremennik!		dialogue	'Beedy-eye' Jones	'Beedy-eye' Jones
 'Bye.		dialogue	'Beedy-eye' Jones	Player
-Aren't you a little short for a pirate?		dialogue	'Beedy-eye' Jones	Player
-My mother was a gnome. Apparently it was a very painful birth.		dialogue	'Beedy-eye' Jones	'Beedy-eye' Jones
-More info than I wanted, thanks!		dialogue	'Beedy-eye' Jones	Player
-ARGH! SOUND THE ALARM! STOWAWAY ON BOARD! STOWAWAY ON BOARD!		dialogue	'Beedy-eye' Jones	'Beedy-eye' Jones
+Aren't you a little short for a pirate?	Не слишком ли ты низковат для пирата?	dialogue	'Beedy-eye' Jones	Player
+My mother was a gnome. Apparently it was a very painful birth.	Моя мать была гномом. По-видимому, это были очень болезненные роды.	dialogue	'Beedy-eye' Jones	'Beedy-eye' Jones
+More info than I wanted, thanks!	Больше информации, чем я хотел, спасибо!	dialogue	'Beedy-eye' Jones	Player
+ARGH! SOUND THE ALARM! STOWAWAY ON BOARD! STOWAWAY ON BOARD!	АРГХ! БЕЙТЕ ТРЕВОГУ! БЕЗБИЛЕТНИК НА БОРТУ! БЕЗБИЛЕТНИК НА БОРТУ!	dialogue	'Beedy-eye' Jones	'Beedy-eye' Jones
 No! I'm not a stowaway! Honest! I was invited here!		dialogue	'Beedy-eye' Jones	Player
 Oh, sorry, my mistake then.		dialogue	'Beedy-eye' Jones	'Beedy-eye' Jones
 You must admit you do look a lot like a stowaway though.		dialogue	'Beedy-eye' Jones	'Beedy-eye' Jones
